@@ -14,15 +14,13 @@ Page
 
 ## GENERAL NOTICES
 
-No. 455 Communications Regulatory Authority of Namibia: Guidelines on the general interpretation and the Applicability of Section 53 and the Regulations Regarding the Submission of Interconnection Agreements and Tariffs .............................................................................................................................................. 3
+No. 455 Communications Regulatory Authority of Namibia: Guidelines on the general interpretation and the Applicability of Section 53 and the Regulations Regarding the Submission of Interconnection Agreements and Tariffs 3
 
 ## General Notices
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 No. 455
-
-2018
 
 GUIDELINES ON THE GENERAL INTERPRETATION AND THE APPLICABILITY OF SECTION 53 AND THE REGULATIONS REGARDING THE SUBMISSION OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
@@ -54,13 +52,13 @@ For purposes of these guidelines, unless the context otherwise requires, the ter
 
 ## 3. Purpose
 
-These guidelines provide general information about the setting and filing of rates and tariffs and the  approval  process  to  be  followed  before  implementing  a  new  tariff  to  any  service  or  product by a licensee. Tariffs have to be closely monitored and, where necessary, regulated to ensure fair competition.
+These guidelines provide general information about the setting and filing of rates and tariffs and the approval process to be followed before implementing a new tariff to any service or product by a licensee. Tariffs have to be closely monitored and, where necessary, regulated to ensure fair competition.
 
-The  purpose  of  these  tariff  guidelines  is  to  assist  notifying  licensees  to  meet  their  obligations concerning tariffs, specifically to satisfy the requirements concerning tariff filing and the approval process in accordance with the Communications Act. More generally, the tariff guidelines are aimed at preventing anti-competitive pricing and protecting consumers.
+The purpose of these tariff guidelines is to assist notifying licensees to meet their obligations concerning tariffs, specifically to satisfy the requirements concerning tariff filing and the approval process in accordance with the Communications Act. More generally, the tariff guidelines are aimed at preventing anti-competitive pricing and protecting consumers.
 
 ## 4. Enabling Legal Provisions
 
-Section 53 of the Communications Act provides the legal framework for the application and approval of tariffs.  This  should  be  read  in  conjunction  with  the  Regulations  Regarding the Submission of Interconnection Agreements and Tariffs.
+Section 53 of the Communications Act provides the legal framework for the application and approval of tariffs. This should be read in conjunction with the Regulations Regarding the Submission of Interconnection Agreements and Tariffs.
 
 ## 5. Key Principles In Setting Tariffs
 
@@ -80,7 +78,7 @@ To discourage anti-competitive practices, licensees should publish details of ta
 
 ## d) Non-discrimination
 
-A licensee  should  not  offer  different  conditions  to  different  customers  for  the  same  service  and products provided.  A  licensee,  therefore,  has  to  offer  the  customers  the  same  tariff  for  identical services. A licensee may, however, give discounts to customers based on volumes.
+A licensee should not offer different conditions to different customers for the same service and products provided. A licensee, therefore, has to offer the customers the same tariff for identical services. A licensee may, however, give discounts to customers based on volumes.
 
 ## e) Discount Schemes
 
@@ -108,22 +106,21 @@ The approval process is depicted in Figure 1 below.
 
 Figure 1: Tariff Approval Process
 
-
 The tariff submission shall be in hard copy and soft copy 1 . The hard copy submission should be made in the form of a letter informing the Authority that the notifying licensee wishes to submit a tariff or an amendment for approval. The letter should further depict the tariff information as well as the date of implementation of the tariff. Lastly, the letter should give indication on whether the tariff submission is a promotion or a permanent filing.
 
 1 Soft copy means that data provided should be in an accessible digital format. Scanned images should not be submitted unless the underlying data is unavailable in digital format.
 
 A full submission should be posted on the Portal at www.cran-portal.org and should contain all the information as required by the Authority. The tariffs submitted online should be in word or excel format as should be the cost accounting information, if required.
 
-If  further  information  is  required,  the  Authority  will  contact  the  notifying  licensee  within  five working days of submission to indicate what further information is required. The notifying licensee must provide such further information within fourteen (14) days as specified by the Authority.
+If further information is required, the Authority will contact the notifying licensee within five working days of submission to indicate what further information is required. The notifying licensee must provide such further information within fourteen (14) days as specified by the Authority.
 
 If further information is not provided, or is not provided within the required timeframe, no further action will be taken until such time that the information is provided.
 
-If  no  further information is required (i.e. the initial application  contains all required information, or all requests for further information have been successfully completed), the Authority will make its final decision on the validity of the tariff. The Authority has sixty (60) days after receiving all required information to evaluate the tariff and make a decision. If the Authority is not in a position to take a decision within this time period, the notifying licensee will be informed that the Authority is postponing the commencement of the tariff for a period not exceeding ninety (90) days, which period being the maximum number of days within which the Authority may postpone its decision.
+If no further information is required (i.e. the initial application contains all required information, or all requests for further information have been successfully completed), the Authority will make its final decision on the validity of the tariff. The Authority has sixty (60) days after receiving all required information to evaluate the tariff and make a decision. If the Authority is not in a position to take a decision within this time period, the notifying licensee will be informed that the Authority is postponing the commencement of the tariff for a period not exceeding ninety (90) days, which period being the maximum number of days within which the Authority may postpone its decision.
 
 Once the Authority's Board of Directors approves the tariff, the Authority will inform the notifying licensee and the final notice will be published in the Gazette .
 
-If  the  tariff  is  not  approved  or approved  with  conditions, the  Authority will similarly inform the notifying licensee of the decision with the reasons for such decision, upon which the licensee can request a reconsideration of decision within a period of 30 days.
+If the tariff is not approved or approved with conditions, the Authority will similarly inform the notifying licensee of the decision with the reasons for such decision, upon which the licensee can request a reconsideration of decision within a period of 30 days.
 
 ## 7. File Inspection
 
@@ -131,12 +128,10 @@ If  the  tariff  is  not  approved  or approved  with  conditions, the  Authorit
 - b) The requesting person shall complete a form stating the name of the requesting person and the reason for viewing the file.
 - c) The Authority may remove any information that is regarded confidential in terms of section 28 of the Act.
 - d) The requesting person may make copies of the file at a fee as prescribed from time to time by the Authority, in terms of section 27(10) and (11) of the Act.
-- e) The  file  shall  only  be  viewed  at  the  premises  of  the  Authority  during  office  hours  as contemplated in section 27(8) of the Act.
+- e) The file shall only be viewed at the premises of the Authority during office hours as contemplated in section 27(8) of the Act.
 - f) A request to view the file must be made in writing to the Authority on the form attached to this document as Annexure I.
 
 ## F. KISHI CHAIRPERSON
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 - ANNEXURE I: APPLICATION FORM TO VIEW A TARIFF REGISTER
 
@@ -154,4 +149,4 @@ SIGNATURE
 
 APPROVED:
 
-TIME TO VIEW: DATE TO VIEW: Please forward the completed form to economics@cran.na  or legal@cran.na
+TIME TO VIEW: DATE TO VIEW: Please forward the completed form to economics@cran.na or legal@cran.na

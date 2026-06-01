@@ -22,23 +22,17 @@ CommunicationRegulatoryAuthority of Namibia:RegulationSettingOut CostAccountingP
 
 andReportingRequirements:CommunicationsAct,2009
 
-1
-
 No.475
 
 CommunicationsRegulatoryAuthorityofNamibia:RegulationsSettingOutMinimumTechnical
 
 StandardsforSet-TopBoxDecoders:CommunicationsAct,2009...
 
-15
-
 ## General Notices
 
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.474
-
-2013
 
 ## REGULATIONSSETTINGOUTCOSTACCOUNTINGPROCEDURESANDREPORTING REQUIREMENTS:COMMUNICATIONSACT,2009
 
@@ -128,7 +122,6 @@ In theseregulations,aword orexpression to whicha meaning is assigned in theAct s
 CHAIRPERSONOFTHEBOARD COMMUNICATIONSREGULATORYAUTHORITY
 
 APPENDIXA ANNUALAUDITEDSEGMENTATIONREPORT
-
 
 | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
@@ -319,7 +312,6 @@ Pleaseonlyfillout theinformationrelevant toyourorganisation.Ifnotrelevant,please
 | Fixed Internationaltelephonecircuits                                                |                 | 11191                    | International telephonecircuits                        |
 | NumberofPublicPay-phones                                                            |                 | I1112                    | Public payphones                                       |
 
-
 | Table8:BASE STATIONS DATA GATHERING TEMPLATE   | Table8:BASE STATIONS DATA GATHERING TEMPLATE   |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 |                                                |                                                |                                              1 |                                              2 |                                              3 |                                              4 |                                              5 |                                              6 |
@@ -353,7 +345,6 @@ Pleaseonlyfillout theinformationrelevant toyourorganisation.Ifnotrelevant,please
 |                                                | Antenna height(ASL)*(m)                        |                                                |                                                |                                                |                                                |                                                |                                                |
 |                                                | Antenna height(AGL)*（m)                        |                                                |                                                |                                                |                                                |                                                |                                                |
 |                                                | AntennaSectorisation                           |                                                |                                                |                                                |                                                |                                                |                                                |
-
 
 | Table 10:Fibre Links   | Table 10:Fibre Links         | Table 10:Fibre Links       | Table 10:Fibre Links   | Table 10:Fibre Links   |
 |------------------------|------------------------------|----------------------------|------------------------|------------------------|
@@ -557,8 +548,6 @@ ITU indicators
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.475
-
-2013
 
 ## REGULATIONSSETTINGOUTMINIMUMTECHNICALSTANDARDSFOR SET-TOPBOXDECODERS:COMMUNICATIONSACT,2009
 

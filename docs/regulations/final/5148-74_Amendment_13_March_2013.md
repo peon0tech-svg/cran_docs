@@ -1,7 +1,6 @@
 
 N$8.00
 
-
 ## GOVERNMENTGAZETTE
 
 ## OFTHE
@@ -12,23 +11,21 @@ WINDHOEK-13March2013
 
 ## CONTENTS
 
-|                |                                                                                                                                                                                                      |   Page |
+| Column 1 | Column 2 | Column 3 |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | GENERALNOTICES | GENERALNOTICES                                                                                                                                                                                       |        |
-| No.68          | CommunicationsRegulatoryAuthority of Namibia:Noticein terms of the regulations regarding licensing proceduresfor telecommunications andbroad casting service licences and spectrum use licences..... |        |
+| No.68          | CommunicationsRegulatoryAuthority of Namibia:Noticein terms of the regulations regarding licensing proceduresfor telecommunications andbroad casting service licences and spectrum use licences  |        |
 | No.69          | CommunicationsRegulatoryAuthority ofNamibia:Noticeintermsof theregulationsregarding the submissionsofinterconnectionagreementsandtariffs                                                             |      3 |
 | No.70          | Communications RegulatoryAuthority of Namibia:Notice in terms of theregulationsregarding licensingproceduresfortelecommunicationsandbroadcastingservicelicences andspectrumuse licences.             |     10 |
-| No.71          | CommunicationsRegulatoryAuthorityofNamibia:Noticein termsoftheregulationsregarding licensingproceduresfortelecommunicationsandbroadcastingservicelicences andspectrumuse licences....                |     10 |
-| No.72          | CommunicationsRegulatoryAuthorityof Namibia:Noticeinterms of theregulationsregarding licensingproceduresfor telecommunications andbroad casting service licences and spectrum use licences.....      |     12 |
-| No.73          | Communications RegulatoryAuthority of Namibia:Notice in terms of the regulations regarding licensingproceduresfortelecommunicationsandbroadcastingservicelicences andspectrumuse licences.....       |     17 |
+| No.71          | CommunicationsRegulatoryAuthorityofNamibia:Noticein termsoftheregulationsregarding licensingproceduresfortelecommunicationsandbroadcastingservicelicences andspectrumuse licences                 |     10 |
+| No.72          | CommunicationsRegulatoryAuthorityof Namibia:Noticeinterms of theregulationsregarding licensingproceduresfor telecommunications andbroad casting service licences and spectrum use licences       |     12 |
+| No.73          | Communications RegulatoryAuthority of Namibia:Notice in terms of the regulations regarding licensingproceduresfortelecommunicationsandbroadcastingservicelicences andspectrumuse licences        |     17 |
 | No.74          | CommunicationsRegulatoryAuthorityof Namibia:Amendment toregulationssetting outbroadcast- ing andtelecommunicationsservicelicence categories:CommunicationsAct,2009                                   |     18 |
 | No.75          | CommunicationsRegulatoryAuthorityofNamibia:Noticein termsof theregulationsregarding the submissionofinterconnection agreementsand tariffs                                                            |     20 |
 
 No.5148
 
 No.68
-
-2013
 
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENCESAND SPECTRUMUSELICENCES
 
@@ -62,8 +59,6 @@ All writtensubmissionsmust bemade eitherphysically or electronically-
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.69
-
-2013
 
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGTHESUBMISSIONSOF INTERCONNECTIONAGREEMENTSANDTARIFFS
 
@@ -104,7 +99,6 @@ involvedinproducingthedifferentservicesin order todetermine thefinal pricepoints
 Withthenewpricingstructure,asingletariffisdeterminedforatotalnetworksolutionwith all relevant elementsincluded in thepricepoint.Individualdistance chargesarenot applicablebut the pricing model defines a tariff applicable over a certain distance bracket per link speed.
 
 Seetablebelowforillustration:
-
 
 The pricing model considered the network element chain involved in producing the services and products have been definedin a standard way to ensure consistency and transparency to customers and other stakeholders.
 
@@ -378,8 +372,6 @@ Minimumcontractduration:oneyear
 
 No.70
 
-2013
-
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENCESAND SPECTRUMUSELICENCES
 
 The Communications Regulatory Authority of Namibia, in terms of regulations 7, 11 and 19 of the "Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences", gazetted in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011,herewith gives notice that the control of thefollowing licence has been transferred asfollows:
@@ -397,8 +389,6 @@ The transferofcontroloflicenceis subjecttotheCommunicationsAct,No8of2009 andRegu
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No. 71
-
-2013
 
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENSESAND SPECTRUMUSELICENSES
 
@@ -425,8 +415,6 @@ Allwrittensubmissionsmust bemade either physically orelectronically-
 ## CHAIRPERSON COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.72
-
-2013
 
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENCESAND SPECTRUMUSELICENCES
 
@@ -514,8 +502,6 @@ All written submissionsmust bemade either physically or electronically-
 
 No.73
 
-2013
-
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENCESAND SPECTRUMUSELICENCES
 
 TheCommunicationsRegulatoryAuthorityofNamibia,in termsofregulation11and 19of the "Regulations Regarding LicensingProcedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences",in Government Gazette No.4785,Notice No.272,dated 29 August 201l, herewith gives notice of the following licensees who are issued with the following licences:
@@ -540,8 +526,6 @@ The licences are issued subject to the Communications Act, No 8 of 2009, conditi
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.74
-
-2013
 
 ## TELECOMMUNICATIONSSERVICELICENCECATEGORIES:COMMUNICATIONS ACT, 2009
 
@@ -601,8 +585,6 @@ COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No. 75
 
-2013
-
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGTHESUBMISSIONOF INTERCONNECTIONAGREEMENTSANDTARIFFS
 
 Regarding theSubmission of InterconnectionAgreements and Tariffs",in Government Gazette No. 4714,Notice No.126,dated18May2011,and section53ofthe Communications Act,No8of2009, herewithgivesnotice of thefollowingtariffsforTelecomNamibiaLimited,whichwillbeeffective fromdateofpublicationofthisnoticeintheGazette:
@@ -617,9 +599,6 @@ Regarding theSubmission of InterconnectionAgreements and Tariffs",in Government 
 | Faxcallchargetootherinternationaldestinations | NS6.00perminute  |
 
 ## L.N.JACOBS CHAIRMANOFTHEBOARD COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
-
-2013
-
 
 | Hit Radio Namibia CC   | Namibia   | 100%   |   90.0 |          | OtjozondjupaOkakarara/ Otjiwarango   | Klein Waterberg Tower(NBC)   | Commercial Service Broadcasting   | Yes   |
 |------------------------|-----------|--------|--------|----------|--------------------------------------|------------------------------|-----------------------------------|-------|
@@ -689,12 +668,9 @@ Class ComprehensiveMultiplex andSignal Distribution'meansproviding an electronic
 
 No.75
 
-2013
-
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGTHESUBMISSIONOF INTERCONNECTIONAGREEMENTSANDTARIFFS
 
 The Communications Regulatory Authority of Namibia,in terms of regulation 8of the"Regulations Regarding theSubmissionofInterconnectionAgreementsandTariffs",inGovernmentGazetteNo. 4714,NoticeNo.126,dated18May2011,andsection53of theCommunicationsAct,No8of2009, herewithgivesnoticeof thefollowingtariffsforTelecomNamibia Limited,whichwillbeeffective fromdateofpublicationofthisnoticeintheGazette:
-
 
 ## Email to fax tariffs (VAT exclusive)
 

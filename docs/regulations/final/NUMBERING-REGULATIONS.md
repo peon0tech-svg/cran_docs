@@ -3,7 +3,6 @@ Figure1
 
 Arrangement A7
 
-
 4. TheallocationforPPDRservicesinaccordancewithResolution646(WRC-19)andthe SADCFrameworkforHarmonisationofRadioFrequencySpectrumforPublicProtection andDisasterRelief(PPDR)-
 - a. 698-703MHzforUplink and753-758MHzfordownlink(2x5MHz);and
 - b. 733-736MHzuplink and 788-791MHz downlink(2x3MHz) is shown inFigure2below:
@@ -21,8 +20,6 @@ Figure2
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No.445
-
-2021
 
 AMENDMENTTOREGULATIONSPRESCRIBINGTHENATIONALNUMBERING PLANFORUSEINTHEPROVISIONOFTELECOMMUNICATIONSSERVICESINTHE REPUBLICOFNAMIBIA,NUMBERINGLICENCEFEESANDPROCEDURESFOR NUMBERLICENCES:COMMUNICATIONSACT,2009
 
@@ -220,7 +217,6 @@ Zimbabwehasthefollowingfeestructurefornumbering.
 Namibia's proposed numbering fees are on par with those countries in the SADC region that chargefornumbering andis lower thanmostcountriesusedin the comparison.
 
 Figure 1: Numbering Fees in SADC (NS/number)
-
 
 ## 6. ConclusionandRecommendations
 

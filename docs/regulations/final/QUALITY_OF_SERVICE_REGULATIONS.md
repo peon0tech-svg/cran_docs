@@ -12,8 +12,6 @@
 
 No.152
 
-2015
-
 ## NOTICEOFREGULATIONSPRESCRIBINGQUALITYOFSERVICESTANDARDS APPLICABLETOSERVICELICENCEES:COMMUNICATIONSACT,2009
 
 TheCommunicationsRegulatoryAuthorityof Namibiaintermsofsection129oftheCommunications Act,2009 (Act No.8 of 2009) read with regulation 4(3) of the Regulations Regarding Rule-Making Procedures published as General Notice No.334 of 17 December 2010,hereby publishes these "RegulationsPrescribingQualityofServiceStandardsApplicable toServiceLicensees",effective fromthedateofpublicationofintheGazette.

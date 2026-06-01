@@ -4,6 +4,7 @@ title: Telecommunications Acts
 sidebar_label: Overview
 ---
 
+
 # Telecommunications Acts
 
 Namibia's telecommunications legislation including the Communications Act 8

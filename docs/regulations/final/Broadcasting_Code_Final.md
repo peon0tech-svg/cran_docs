@@ -6,12 +6,9 @@
 
 ## REPUBLIC OF NAMIBIA
 
-1
-
 | N$20.40                                                                                                                                                                                                           | N$20.40                                                                                                                                                                                                                                                      | WINDHOEK - 31 October 2018 No. 6750                                                                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CONTENTS                                                                                                                                                                                                          | CONTENTS                                                                                                                                                                                                                                                     | CONTENTS                                                                                                                                                                                                          |
-| No. 602                                                                                                                                                                                                           | Broadcasting Code for Broadcasting Licensees issued in terms of Section 89 of the Communications Act, 2009 ................................................................................................................... ............................. | 1                                                                                                                                                                                                                 |
+| No. 602                                                                                                                                                                                                           | Broadcasting Code for Broadcasting Licensees issued in terms of Section 89 of the Communications Act, 2009     | 1                                                                                                                                                                                                                 |
 | General Notices                                                                                                                                                                                                   | General Notices                                                                                                                                                                                                                                              | General Notices                                                                                                                                                                                                   |
 | No.                                                                                                                                                                                                               | 602                                                                                                                                                                                                                                                          | 2018                                                                                                                                                                                                              |
 | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009                                                                                                         | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009                                                                                                                                                    | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009                                                                                                         |
@@ -91,7 +88,7 @@
 
 'election' means any election of the President, members of the National Assembly or any member of a regional council or local authority council, as the context may require, and, if relevant, includes a by-election;
 
-'election  broadcast  period'  means  the  period  within  which  party  election  broadcasts  may  be transmitted commencing after nomination day and ending 48 hours before polling commences;
+'election broadcast period' means the period within which party election broadcasts may be transmitted commencing after nomination day and ending 48 hours before polling commences;
 
 'Electoral Act' means the Electoral Act, 2014 (Act No. 5 of 2014);
 
@@ -108,18 +105,18 @@
 - (a) work which is a verbal-musical work originally performed in a Namibian language by a debutant; or
 - (b) is a work which complies with at least two of the following criteria, namely -
 - (i) the lyrics (if any) were written predominantly by a Namibian citizen or by a person permanently resident in the Republic of Namibia;
-- (ii) the  music  was  written  predominantly  by  a  Namibian  citizen  or  by  a  person permanently resident in the Republic of Namibia;
-- (iii) the  music  or  lyrics  was  or  were  principally  performed  by  musicians  who  are predominantly Namibian citizens or who are predominantly permanently resident in the Republic of Namibia;
+- (ii) the music was written predominantly by a Namibian citizen or by a person permanently resident in the Republic of Namibia;
+- (iii) the music or lyrics was or were principally performed by musicians who are predominantly Namibian citizens or who are predominantly permanently resident in the Republic of Namibia;
 - (iv) the musical work consists of a live performance which is -
 - (aa) recorded wholly in the Republic of Namibia; or
-- (bb) performed  wholly  in  the  Republic  of  Namibia  and  broadcast  live  in  the Republic of Namibia;
+- (bb) performed wholly in the Republic of Namibia and broadcast live in the Republic of Namibia;
 
 'local content programme'' means a programme, which is produced -
 
 - (a) by a broadcasting licensee;
-- (b) originally  in  a  Namibian  language  on  the  basis  of  a  script  originally  in  such  Namibian language and first registered and broadcast in the Republic of Namibia;
+- (b) originally in a Namibian language on the basis of a script originally in such Namibian language and first registered and broadcast in the Republic of Namibia;
 - (c) by a person who is a citizen or permanently resident of the Republic of Namibia (whether or not the programme is produced in conjunction with a co-producer, or an executive producer, who is not a Namibian citizen or a permanent resident of Republic of Namibia but subject to paragraph (c) of this definition);
-- (d) by a juristic  person  of  which  the  majority  of  the  directors,  shareholders  or  members  are citizens of, and permanently resident in, the Republic of Namibia;
+- (d) by a juristic person of which the majority of the directors, shareholders or members are citizens of, and permanently resident in, the Republic of Namibia;
 - (e) in a co-production in which persons referred to in subparagraphs (a), (b) or (c) have at least a 50 percent financial interest;
 - (f) by persons referred to in subparagraphs (a), (b), (c) or (d), in circumstances where the at least 50 percent of key personnel who are involved in the production of the programme, are citizens of, and permanently resident in, the Republic of Namibia; or
 - (g) by persons referred to in subparagraphs (a), (b), (c) or (d), in circumstances where at least 20 percent of the production costs are incurred in the Republic of Namibia;
@@ -129,9 +126,9 @@
 - (a) an indigenous Namibian language or a dialect of such indigenous language;
 - (b) any other language spoken by Namibians in the Republic of Namibia subject thereto that in such event the debutant must be a Namibian citizen or permanently resident in the Republic of Namibia;
 
-'NBC'  means  the  Namibian  Broadcasting  Corporation  established  in  terms  of  the  Namibian Broadcasting Corporation Act, 1991 (Act No. 9 of 1991);
+'NBC' means the Namibian Broadcasting Corporation established in terms of the Namibian Broadcasting Corporation Act, 1991 (Act No. 9 of 1991);
 
-'news' means programming, which is not current affairs, by a broadcaster in which it predominantly presents  factual  new  information  on,  or  reports  on  news  relating  to,  events  of  immediate  social, political or economic relevance and on matters of international, national and local significance;
+'news' means programming, which is not current affairs, by a broadcaster in which it predominantly presents factual new information on, or reports on news relating to, events of immediate social, political or economic relevance and on matters of international, national and local significance;
 
 'nomination day' means a day determined as nomination day in terms of section 64(1)(a) of the Electoral Act;
 
@@ -146,7 +143,7 @@
 
 'polling day' means a day determined as a polling day in terms of section 64(1)(b) for voting in an election or a day determined under section 119(5) for voting in a referendum;
 
-'programme' for  purposes  of  the  definition  of  a  'local  content  programme',  means  any  sound, text, still picture or other audio-visual representation, tactile representation or any combination of the preceding which is capable of being created, manipulated, stored, retrieved or communicated electronically and, without derogating from the aforegoing, includes a film;
+'programme' for purposes of the definition of a 'local content programme', means any sound, text, still picture or other audio-visual representation, tactile representation or any combination of the preceding which is capable of being created, manipulated, stored, retrieved or communicated electronically and, without derogating from the aforegoing, includes a film;
 
 'public disaster' has the meaning assigned to 'disaster' in section 1 of the Disaster Risk Management Act, 2012 (Act No. 10 of 2012)
 
@@ -178,7 +175,7 @@
 2. (a) specifically otherwise determined herein; or
 3. (b) a determination was made in terms of section 89(4) of the Act that a licensee does not require regulation by a broadcasting code.
 
-(2)  Pursuant  to  section  93  of  the  Act,  until  a  date  determined  by  the  Minister,  this Broadcasting  Code  will  not  apply  to  the  broadcasting  services  or  to  any  broadcasting  activities carried on by the NBC.
+(2) Pursuant to section 93 of the Act, until a date determined by the Minister, this Broadcasting Code will not apply to the broadcasting services or to any broadcasting activities carried on by the NBC.
 
 ## PART B
 
@@ -186,7 +183,7 @@
 
 ## Obligations regarding information on this Broadcasting Code
 
-3. (1)  A broadcasting licenseemust ensure that relevant employeesand programmemakers, including those from whom such licensee commissions programmes, understand the content and significance of this Broadcasting Code.
+3. (1) A broadcasting licenseemust ensure that relevant employeesand programmemakers, including those from whom such licensee commissions programmes, understand the content and significance of this Broadcasting Code.
 
 (2) A broadcasting licensee must have procedures in place for ensuring that programmemakers and channel providers can seek guidance from such licensee regarding the relevance and application of this Broadcasting Code.
 
@@ -196,7 +193,7 @@
 4. (b) A broadcasting licensee -
 
 - (i) may, in addition to its obligation under paragraph (a), make such information available on its website, home page or any other appropriate electronic or social media platform;
-- (ii) in the event where the broadcasting licensee does not have editorial control over a channel or programme and cannot, within reasonable means, comply with  its  obligations  under  paragraph  (a),  must  make  such  information available in the manner anticipated in subparagraph (i) or in any other way which is appropriate under circumstances.
+- (ii) in the event where the broadcasting licensee does not have editorial control over a channel or programme and cannot, within reasonable means, comply with its obligations under paragraph (a), must make such information available in the manner anticipated in subparagraph (i) or in any other way which is appropriate under circumstances.
 
 ## News and current affairs
 
@@ -235,12 +232,12 @@ such account must be presented in such a manner as to clearly indicate that that
 and must pay particular attention to this duty during afternoon or early evening newscasts and updates.
 
 - (9) A broadcasting licensee may not include explicit or graphic language related to news of destruction, accidents or sexual violence, which could disturb children or sensitive audiences, except where it is in the public interest to include such material.
-- (10) Current  affairs  programmes  are  not  required  to  be  impartial  and  may  take  a particular stance on issues, however, a broadcasting licensee must provide reasonable opportunities for significant alternative viewpoints to be presented when dealing with controversial issues of public importance while such issues have immediate relevance to the audience.
+- (10) Current affairs programmes are not required to be impartial and may take a particular stance on issues, however, a broadcasting licensee must provide reasonable opportunities for significant alternative viewpoints to be presented when dealing with controversial issues of public importance while such issues have immediate relevance to the audience.
 - (11) Subrules (7) to (10) do not apply to a subscription television broadcasting licensee where such licensee does not have editorial control over the contents of a channel or programme and cannot, within reasonable means, ensure compliance with these subrules.
 
 ## Prohibitions relating to sexual conduct and other explicit material
 
-5. A broadcasting licensee may not broadcast material which contains, or which judged within the context contains, a scene or scenes, simulated or real, of any of the  following:
+5. A broadcasting licensee may not broadcast material which contains, or which judged within the context contains, a scene or scenes, simulated or real, of any of the following:
 2. (a) Child pornography;
 3. (b) bestiality;
 4. (c) sexual conduct which degrades a person in the sense that it advocates a particular form of hatred based on gender or sexual orientation and which constitutes incitement to cause harm;
@@ -251,29 +248,29 @@ and must pay particular attention to this duty during afternoon or early evening
 
 ## Protection of children
 
-6. (1)      A  broadcasting  licensee  must  ensure  that  reasonable  care  is  exercised  in order to avoid content which may disturb or be harmful to children when the licensee broadcasts programmes at times when a large number of children may be likely to be watching or listening to radio or television programmes.
+6. (1) A broadcasting licensee must ensure that reasonable care is exercised in order to avoid content which may disturb or be harmful to children when the licensee broadcasts programmes at times when a large number of children may be likely to be watching or listening to radio or television programmes.
 
-(2)  A broadcasting licensee must, in the depiction of violence in children's programming, exercise the following particular care:
+(2) A broadcasting licensee must, in the depiction of violence in children's programming, exercise the following particular care:
 
-- (a) In children's programming  portrayed  by  real-life characters, violence may, whether physical, verbal or emotional, only be portrayed when it is essential to the development of a character and plot;
-- (b) animated  programming  for  children,  while  accepted  as  a  stylised  form  of  storytelling  which  may  contain  non-realistic  violence,  must  not  have  violence  as  its central theme, and must not incite dangerous imitation;
+- (a) In children's programming portrayed by real-life characters, violence may, whether physical, verbal or emotional, only be portrayed when it is essential to the development of a character and plot;
+- (b) animated programming for children, while accepted as a stylised form of storytelling which may contain non-realistic violence, must not have violence as its central theme, and must not incite dangerous imitation;
 - (c) programming for children must with reasonable care deal with themes which could threaten children's sense of security when portraying, for example, domestic conflict, death, crime or the use of drugs or alcohol;
 - (d) programming for children must with reasonable care deal with themes which could influence children to imitate acts which they see on screen or hear about, such as the use of plastic bags as toys, the use of matches or the use of dangerous household objects as toys;
-- (e) programming for children must not contain realistic scenes of violence which create the  impression  that  violence  is  the  preferred  or  only  method  to  resolve  conflict between individuals;
-- (f) programming  for  children  must  not  contain  realistic  scenes  of  violence  which minimise or gloss over the effect of violent acts;
+- (e) programming for children must not contain realistic scenes of violence which create the impression that violence is the preferred or only method to resolve conflict between individuals;
+- (f) programming for children must not contain realistic scenes of violence which minimise or gloss over the effect of violent acts;
 - (g) any realistic depictions of violence must portray, in human terms, the consequences of that violence to its victims and its perpetrators;
-- (h) programming  for  children  must  not  contain  frightening  or  otherwise  excessive effects not required by the story line;
-- (i) offensive  language,  including  profanity  and  other  religiously  incentive  material, must not be broadcast in programmes especially designed for children; and
-- (j) no  offensive  language  should  be  used  before  the  watershed  period  on  television or radio or at times when a large number of children are likely to be watching or listening to radio or television programmes.
+- (h) programming for children must not contain frightening or otherwise excessive effects not required by the story line;
+- (i) offensive language, including profanity and other religiously incentive material, must not be broadcast in programmes especially designed for children; and
+- (j) no offensive language should be used before the watershed period on television or radio or at times when a large number of children are likely to be watching or listening to radio or television programmes.
 
 ## Violence and hate speech
 
-7. (1)        A  broadcasting  licensee  may  not  broadcast  material  which,  judged  within the context -
+7. (1) A broadcasting licensee may not broadcast material which, judged within the context -
 
-(a) contains  violence  which  does  not  play  an  integral  role  in  developing  the  plot, character or theme of the material as a whole; or
+(a) contains violence which does not play an integral role in developing the plot, character or theme of the material as a whole; or
 
 - (b) sanctions, promotes or glamorises violence or unlawful conduct.
-- (2) A broadcasting licensee may not broadcast material which, judged within context, sanctions,  promotes  or  glamorizes  violence  or  unlawful  conduct  based  on  race,  age,  sex,  sexual orientation,  ethnicity,  colour,  nationality,  religion,  creed,  gender,  economic  or  social  economic status, age or mental or physical disability.
+- (2) A broadcasting licensee may not broadcast material which, judged within context, sanctions, promotes or glamorizes violence or unlawful conduct based on race, age, sex, sexual orientation, ethnicity, colour, nationality, religion, creed, gender, economic or social economic status, age or mental or physical disability.
 - (3) A broadcasting licensee may not broadcast material which, judged within context, amounts to -
 - (a) propaganda for war;
 - (b) incitement of imminent violence; or
@@ -281,15 +278,15 @@ and must pay particular attention to this duty during afternoon or early evening
 
 ## Privacy, dignity and reputation
 
-8. (1)    A  broadcasting  licensee  must  exercise  special  care  and  consideration  in matters involving the privacy, dignity and reputation of individuals, bearing in mind that these rights may be overridden by a legitimate public interest.
+8. (1) A broadcasting licensee must exercise special care and consideration in matters involving the privacy, dignity and reputation of individuals, bearing in mind that these rights may be overridden by a legitimate public interest.
 
-- (2)  In  the  protection  of  privacy,  dignity  and  reputation  of  individuals,  a  broadcasting licensee must give special consideration to -
+- (2) In the protection of privacy, dignity and reputation of individuals, a broadcasting licensee must give special consideration to -
 2. (a) the applicable customary law concerning the privacy and dignity of people who are bereaved and their respect for their deceased; and
-3. (b) the  privacy,  dignity  and  reputation  of  children,  the  elderly,  persons  living  with physical and mental disabilities and any other vulnerable or marginalised groups of society.
+3. (b) the privacy, dignity and reputation of children, the elderly, persons living with physical and mental disabilities and any other vulnerable or marginalised groups of society.
 
 ## Audience advisory assistance
 
-9. (1)  In  order  to  assist  audiences  in  choosing  television  programmes,  a  television broadcasting licensee must -
+9. (1) In order to assist audiences in choosing television programmes, a television broadcasting licensee must -
 2. (a) provide advisory assistance which, when applicable, must include guidelines as to age, where such programmes contain violence, sex, nudity or offensive language;
 3. (b) show such advisory assistance on the screen for a minimum of 30 seconds after each advertisement or other break;
 4. (c) where the frequency of the subject matters, or any one or some of them, is high, show a continuous advisory assistance, irrespective whether the programme is broadcast before or after the watershed period.
@@ -315,14 +312,14 @@ and must pay particular attention to this duty during afternoon or early evening
 
 ## Controversial issues
 
-10. (1)  A  broadcasting  licensee  must  ensure,  in  so  far  as  is  practical  or  reasonable, when reporting on a controversial issue that a balanced and reasonable range of significant views and opinions is reported, either within a single programme or within a series of programmes, which shall be broadcast as soon as is reasonably possible.
-- (2) A broadcasting licensee must ensure, in so far as is practical or reasonable, when broadcasting  a  controversial  issue  during  phone-in  programmes,  that  a  balanced  and  reasonable range of significant views and opinions is represented.
+10. (1) A broadcasting licensee must ensure, in so far as is practical or reasonable, when reporting on a controversial issue that a balanced and reasonable range of significant views and opinions is reported, either within a single programme or within a series of programmes, which shall be broadcast as soon as is reasonably possible.
+- (2) A broadcasting licensee must ensure, in so far as is practical or reasonable, when broadcasting a controversial issue during phone-in programmes, that a balanced and reasonable range of significant views and opinions is represented.
 
-- (3) A person or an organisation whose views have been criticised on any controversial issue  during  a  programme  and  who  makes  any  representations,  within  a  reasonable  time,  to  the broadcasting licensee responsible for the programme that such person or organisation is aggrieved, must, in so far as is practical or reasonable, be offered an opportunity by the broadcasting licensee to reply to such criticism or comment.
+- (3) A person or an organisation whose views have been criticised on any controversial issue during a programme and who makes any representations, within a reasonable time, to the broadcasting licensee responsible for the programme that such person or organisation is aggrieved, must, in so far as is practical or reasonable, be offered an opportunity by the broadcasting licensee to reply to such criticism or comment.
 
 ## Watershed period
 
-11. (1)  Subject  to  rule  5,  a  television  broadcasting  licensee  may  only  broadcast programmes on television, which contains scenes of -
+11. (1) Subject to rule 5, a television broadcasting licensee may only broadcast programmes on television, which contains scenes of -
 
 - (a) explicit violence;
 
@@ -350,41 +347,41 @@ intended for adult audiences during the watershed period.
 
 intended for adult audiences during the watershed period.
 
-- (3) Some  programmes  broadcast  outside  the  watershed  period  may  not  be  suitable for  children  and  a  broadcasting  licensee  must  provide  sufficient  information, in  terms  of regular scheduling patterns or audience advisory assistance, to assist parents and de facto or legal guardians to make appropriate viewing or listening choices for children in their care.
+- (3) Some programmes broadcast outside the watershed period may not be suitable for children and a broadcasting licensee must provide sufficient information, in terms of regular scheduling patterns or audience advisory assistance, to assist parents and de facto or legal guardians to make appropriate viewing or listening choices for children in their care.
 
 - (4) A broadcasting licensee may, with the advance of the watershed period, progressively broadcast more adult material.
 
-- (5) A  broadcasting  licensee  must  be  particularly  sensitive  to  the  likelihood  that programmes which commence during the watershed period and which run beyond it may be viewed by children.
+- (5) A broadcasting licensee must be particularly sensitive to the likelihood that programmes which commence during the watershed period and which run beyond it may be viewed by children.
 
 ## Competitions and audience participation
 
-12. (1)     A broadcasting licensee must make known during a broadcast the full cost of a telephone call or a message service, such as an SMS, where audiences are invited on air to react to a programme or competition.
+12. (1) A broadcasting licensee must make known during a broadcast the full cost of a telephone call or a message service, such as an SMS, where audiences are invited on air to react to a programme or competition.
 
 - (2) If applicable, a broadcasting licensee must specify the proportion of the cost of the call or message service, such as an SMS, which is intended for any specified charitable cause.
-- (3) A  broadcasting  licensee  must  ensure  that  audiences  invited  to  compete  in  any competition broadcast by such licensee are made aware on air of the basic rules of the competition which must include the closing date and the manner in which the winner is determined and publicly announced.
+- (3) A broadcasting licensee must ensure that audiences invited to compete in any competition broadcast by such licensee are made aware on air of the basic rules of the competition which must include the closing date and the manner in which the winner is determined and publicly announced.
 - (4) This rule does not apply to a subscription television broadcasting licensee.
 
 ## Public notices of emergencies or public disaster announcements
 
-13. (1)  A broadcasting licensee must without delay broadcast or otherwise distribute, free of charge, a public notice of emergency or a public disaster announcement requested, in writing, by any Government Minister or duly authorised public enterprise or any other public authority or organ of State.
-2. ( 2 ) The broadcasting licensee must,  prior  to  the  broadcast  or  alternative  distribution thereof, verify the authenticity of the notice with the relevant Government Minister, State-owned Enterprise or other public authority or organ of State from which the written request emanates.
-3. ( 3 ) A designated position in relation to each broadcasting licensee must be identified  as the contact person during business and non-business hours for all matters relevant to this rule.
-4. ( 4 ) Compliance  with  this  rule  is  dependent  upon  the  cooperation  of  the  relevant Government Minister, State-owned Enterprise or other public authority or organ of State involved therein and a broadcasting licensee will not be in breach of this rule if any of them fail to respond to the licensee's request for information, provides inaccurate information or otherwise fail in providing the broadcasting licensee with information and assistance necessary to effect the broadcast.
+13. (1) A broadcasting licensee must without delay broadcast or otherwise distribute, free of charge, a public notice of emergency or a public disaster announcement requested, in writing, by any Government Minister or duly authorised public enterprise or any other public authority or organ of State.
+2. ( 2 ) The broadcasting licensee must, prior to the broadcast or alternative distribution thereof, verify the authenticity of the notice with the relevant Government Minister, State-owned Enterprise or other public authority or organ of State from which the written request emanates.
+3. ( 3 ) A designated position in relation to each broadcasting licensee must be identified as the contact person during business and non-business hours for all matters relevant to this rule.
+4. ( 4 ) Compliance with this rule is dependent upon the cooperation of the relevant Government Minister, State-owned Enterprise or other public authority or organ of State involved therein and a broadcasting licensee will not be in breach of this rule if any of them fail to respond to the licensee's request for information, provides inaccurate information or otherwise fail in providing the broadcasting licensee with information and assistance necessary to effect the broadcast.
 
 ## Comments
 
-14. (1)  Subject  to  this  Broadcasting  Code,  a  broadcasting  licensee  may  broadcast comment on and criticism of any actions or events of public importance.
+14. (1) Subject to this Broadcasting Code, a broadcasting licensee may broadcast comment on and criticism of any actions or events of public importance.
 - (2) Comments by a broadcasting licensee must be an honest expression of opinion, must be presented in such a manner that it appears clearly to be commentary and must be made on facts truly stated or fairly indicated and referenced.
 - (3) Where a person stated that he or she is not available, or where a person could not reasonably be reached, for comment, that fact must be stated by the broadcasting licensee in the relevant programme including the effort and manner employed to try and reach the person.
 - (4) This rule does not apply to subscription television broadcasting licensees.
 
 ## Counter-versions
 
-15. (1)    Where  it  appears  that  a  comment  was  incorrect  or  differed  in  a  material respect from what was previously broadcast by a broadcasting licensee, the broadcasting licensee must broadcast or publish, in the manner set out in this rule, a counter-version presented by a person or organisation affected by and objecting against an such incorrect or different fact in any programme transmitted by the broadcasting licensee.
+15. (1) Where it appears that a comment was incorrect or differed in a material respect from what was previously broadcast by a broadcasting licensee, the broadcasting licensee must broadcast or publish, in the manner set out in this rule, a counter-version presented by a person or organisation affected by and objecting against an such incorrect or different fact in any programme transmitted by the broadcasting licensee.
 - (2) Notwithstanding sub-rule (1), a broadcasting licensee is not obligated to transmit a counter-version in the event where -
 
 - (a) the person or organisation concerned does not have a direct interest in the transmission of the counter-version; or
-- (b) the  counter-version  is  not  of  reasonable  length,  and  in  particular,  if  the  counterversion is substantially longer than the part of the broadcast which dealt with the false assertion of fact.
+- (b) the counter-version is not of reasonable length, and in particular, if the counterversion is substantially longer than the part of the broadcast which dealt with the false assertion of fact.
 - (3) The counter-version referred to in sub-rule (1) must -
 - (a) be limited to a factual account;
 - (b) not contain any material which may reasonably be anticipated to expose the broadcasting licensee to legal action if that material were to be broadcast;
@@ -403,15 +400,15 @@ intended for adult audiences during the watershed period.
 - (a) inform the Authority about that fact; and
 - (b) keep and store the programme objected to and the counter-version,
 
-until the broadcasting licensee receives a notice to the contrary from the Authority or for a period  of at least 12 months, whichever period expires first.
+until the broadcasting licensee receives a notice to the contrary from the Authority or for a period of at least 12 months, whichever period expires first.
 
 - (7) If a broadcasting licensee makes a rectification or clarification in the manner set out in this rule within the specified timeframe, such licensee will not be in breach of sub-rule 4(1), (2), (3), (6) or (10).
 
 ## Advertisements
 
-16. (1)  An  advertisement  broadcast  by  a  broadcasting  licensee  must  be  presented  in such a manner that a reasonable audience will be able to identify such advertisement, at the time of the broadcast, as advertising material.
-- (2) An  advertisement  must  not  deliberately  cause  serious  offence  to  the  intended audience.
-- (3) Advertising  must  not  promote  illegal  or  unsafe  conduct  or  acts  or  encourage dangerous behaviour.
+16. (1) An advertisement broadcast by a broadcasting licensee must be presented in such a manner that a reasonable audience will be able to identify such advertisement, at the time of the broadcast, as advertising material.
+- (2) An advertisement must not deliberately cause serious offence to the intended audience.
+- (3) Advertising must not promote illegal or unsafe conduct or acts or encourage dangerous behaviour.
 
 ## Exemptions
 
@@ -429,34 +426,34 @@ subject thereto that it is broadcast with due audience advisory after the waters
 5. (d) takes fair account of all material facts which are substantially true; and
 6. (e) is presented in a manner which clearly indicates that it is a comment, criticism, opinion or view.
 - (3) Where a broadcasting licensee is of the opinion that a rule applicable to it in this Broadcasting Code will cause it unjustifiable hardship or cannot reasonably be complied with, the licensee may, in writing, apply to the Authority for an exemption or deviation approval from the Authority.
-- (4) An  application  contemplated  in  sub-rule  (3)  must  be  sufficiently  motivated  to substantiate a claim of unjustifiable hardship or inability to reasonably comply with and have attached thereto such additional substantiation as the broadcasting licensee deems relevant.
+- (4) An application contemplated in sub-rule (3) must be sufficiently motivated to substantiate a claim of unjustifiable hardship or inability to reasonably comply with and have attached thereto such additional substantiation as the broadcasting licensee deems relevant.
 
 - (5) The Authority must evaluate each application based on the criteria specified as well as section 89(3) of the Act and may -
 2. (a) refuse the application if the criteria specified are not met;
 3. (b) grant an exemption to the relevant rule without conditions or with such conditions as the Authority deems appropriate;
 4. (c) grant such deviation from the relevant rule as the Authority deems appropriate with or without such conditions as the Authority deems appropriate; or
-5. (d) make  such other determination as the Authority deems appropriate under circumstances.
+5. (d) make such other determination as the Authority deems appropriate under circumstances.
 
 ## PART C COVERAGE OF ELECTIONS AND REFERENDUMS
 
 ## Party election broadcasts
 
-18. (1)  A broadcasting licensee may not broadcast, or allow to be broadcast, a party election broadcast under any circumstances except during an election broadcast period.
+18. (1) A broadcasting licensee may not broadcast, or allow to be broadcast, a party election broadcast under any circumstances except during an election broadcast period.
 
 - (2) A broadcasting licensee who decides to broadcast a party election broadcast for a particular party must afford all other political parties a similar opportunity.
-- (3) A  party  election  broadcast  is  wholly  under  the  editorial  control  of  the  relevant political party and the broadcasting licensee -
+- (3) A party election broadcast is wholly under the editorial control of the relevant political party and the broadcasting licensee -
 3. (a) is not liable for the contents of the broadcast;
-4. (b) may not broadcast a party election broadcast until the relevant political party's duly authorised  representative  submits  the  contents  thereof  on  behalf  of  that  political party;
+4. (b) may not broadcast a party election broadcast until the relevant political party's duly authorised representative submits the contents thereof on behalf of that political party;
 5. (c) may refuse to broadcast the party election broadcast until provided with a signed written indemnification against liability in line with rule 22(7)(b).
 
 ## News and current affairs during elections and referendums
 
-19. (1)  News coverage of elections and referendums is at the discretion of the news editor of the broadcasting licensee.
-- (2)  A  broadcasting  licensee  must  apply  proper  balance  and  fairness  to  all  current affairs programmes that deal with elections or referendums.
+19. (1) News coverage of elections and referendums is at the discretion of the news editor of the broadcasting licensee.
+- (2) A broadcasting licensee must apply proper balance and fairness to all current affairs programmes that deal with elections or referendums.
 
 ## Balance and impartiality
 
-20. (1) A  broadcasting licensee must  afford reasonable opportunities for the discussion of conflicting views and must treat all political parties equitably.
+20. (1) A broadcasting licensee must afford reasonable opportunities for the discussion of conflicting views and must treat all political parties equitably.
 
 (2) A broadcasting licensee must ensure that it is balanced and impartial in its election or referendum reporting and that no political party, candidate or proponent is discriminated against in editorial coverage or the granting of access to coverage.
 
@@ -467,22 +464,22 @@ subject thereto that it is broadcast with due audience advisory after the waters
 the broadcasting licensee concerned must afford that political party, candidate or proponent a reasonable opportunity to respond to the criticism.
 
 - (4) In making advertising time available to political parties, no broadcasting licensee may discriminate against any political party or make or give any preference to any political party or subject any political party to any prejudice.
-- (5) Should  a  political  party  forfeit  or  decide  to  forfeit  its  allocated  party  election broadcast airtime, then that airtime  must be used by the broadcasting licensee concerned for the purpose of broadcasting its normal programming or material.
+- (5) Should a political party forfeit or decide to forfeit its allocated party election broadcast airtime, then that airtime must be used by the broadcasting licensee concerned for the purpose of broadcasting its normal programming or material.
 - (6) Should a political party not wish to use its allocated party election broadcast airtime, the broadcasting licensee concerned must not, during the relevant time-slot, in any way vary the sequence or scheduling of party election broadcasts.
 
 ## Allocation of free airtime by the NBC
 
-21. (1)  Subject  to  section  93(1)  of  the  Act,  where  the  NBC  offers  free  airtime  to various  political  parties  participating  in  an  election,  it  must  do  so  on  the  basis  of  the  respective formula set out in rule 22 of this Broadcasting Code.
+21. (1) Subject to section 93(1) of the Act, where the NBC offers free airtime to various political parties participating in an election, it must do so on the basis of the respective formula set out in rule 22 of this Broadcasting Code.
 - (2) Subject to section 93(1) of the Act, a political party intending to broadcast a party election broadcast utilising the free airtime as allocated by the NBC above must submit its broadcast contents to the NBC at least 96 hours prior to the broadcast thereof.
 - (3) If a political party fails to deliver the party election broadcast to the NBC before the expiry of the time set out in sub-rule (2), the political party is deemed to have forfeited its free allocated airtime.
 - (4) In the event of an election and in accordance with rule 22, the formulae must be submitted at least seven days after the publication of the polling day.
 
 ## Party election broadcasts
 
-22. (1)      A  political  party  intending  to  broadcast  a  party  election  broadcast  must submit its broadcast contents to a broadcasting licensee at least 96 hours prior to the broadcast thereof.
+22. (1) A political party intending to broadcast a party election broadcast must submit its broadcast contents to a broadcasting licensee at least 96 hours prior to the broadcast thereof.
 - (2) The political party's party election broadcast contents must be accompanied by a written script in English but, should the political party wish to use a local language, a script must be provided in such language together with a translation thereof in English.
 - (3) A broadcasting licensee obligated, or intending, to broadcast party election broadcasts must ensure that a political party's party election broadcast contents conforms with this Broadcasting Code.
-- (4) A  broadcasting  licensee,  to  whom  a  political  party  submitted  its  party  election broadcast contents for broadcasting, may not in edit or alter the content thereof.
+- (4) A broadcasting licensee, to whom a political party submitted its party election broadcast contents for broadcasting, may not in edit or alter the content thereof.
 
 - (5) A broadcasting licensee may not reject a political party's party election broadcast contents without reasonable cause and in such event the broadcasting licensee must -
 2. (a) no longer than 24 hours after having received the political party's party election broadcast contents furnish the political party concerned with written reasons for the rejection; and
@@ -494,12 +491,12 @@ the broadcasting licensee concerned must afford that political party, candidate 
 (7) A political party submitting its party election broadcast contents to a broadcasting licensee for broadcasting -
 
 - (a) has no claim against the broadcasting licensee arising from the broadcast or failure to broadcast such contents; and
-- (b) is  deemed  to  have  indemnified  the  broadcasting  licensee  against  incurred  costs, damages, losses and third political party claims arising from the broadcast thereof.
+- (b) is deemed to have indemnified the broadcasting licensee against incurred costs, damages, losses and third political party claims arising from the broadcast thereof.
 - (8) A broadcasting licensee broadcasting a party election broadcast contents must -
 - (a) make available to all political parties, every day throughout the election broadcast period, four time-slots not exceeding two minutes each as a minimum;
 - (b) do so in accordance with and subject to this Broadcasting Code and such additional requirements as the Authority may determine under the Act;
 - (c) ensure that all party election broadcasts aired by such licensee are clearly identified; and
-- (d) ensure that  all  party  election  broadcasts  are  identified  or  announced  in  a  similar manner.
+- (d) ensure that all party election broadcasts are identified or announced in a similar manner.
 - (9) A party election broadcast may not exceed five minutes in duration.
 - (10) A broadcasting licensee may not broadcast a political party's party election broadcast or political advertisement immediately before or after another political party's party election broadcast or political advertisement.
 - (11) Unless a political party makes prior arrangements with the broadcasting licensee, party election broadcast airtime allocated to but not used by that political party shall be forfeited.
@@ -507,62 +504,62 @@ the broadcasting licensee concerned must afford that political party, candidate 
 
 ## Political advertising
 
-23. (1)    A  broadcasting  licensee  may  not  broadcast,  or  allow  to  be  broadcast,  a political advertisements under any circumstances except during an election broadcast period.
+23. (1) A broadcasting licensee may not broadcast, or allow to be broadcast, a political advertisements under any circumstances except during an election broadcast period.
 - (2) A broadcasting licensee, to whom a political advertisement is submitted by a political party for broadcast, may not edit or alter the advertisement.
 - (3) A broadcasting licensee may not reject a political party's political advertisement without reasonable cause and in such event the broadcasting licensee must -
-4. (a) no  longer  than  24  hours  after  having  received  the  political  party's  political advertisement  furnish  the  political  party  concerned  with  written  reasons  for  the rejection; and
-5. (b) allow  the  political  party  to  alter  or  edit  the  relevant  political  advertisement  and resubmit such advertisement to the broadcasting licensee at least 72 hours prior to the scheduled broadcast thereof.
+4. (a) no longer than 24 hours after having received the political party's political advertisement furnish the political party concerned with written reasons for the rejection; and
+5. (b) allow the political party to alter or edit the relevant political advertisement and resubmit such advertisement to the broadcasting licensee at least 72 hours prior to the scheduled broadcast thereof.
 - (4) Where a broadcasting licensee rejected a political advertisement and the political party concerned confirmed in writing to the broadcasting licensee that it will not be re-submitting the advertisement, the broadcasting licensee must, within 24 hours after receiving such confirmation, notify the Authority in writing of such rejection which notification must be accompanied by the written reasons given to the relevant political party for the rejection.
-- (5) A  political  party,  whose  political  advertisement  was  rejected  and  who  does  not accept the reasons provided by the broadcasting licensee for the rejection, may refer the matter to the Authority within 24 hours of being informed of the rejection.
+- (5) A political party, whose political advertisement was rejected and who does not accept the reasons provided by the broadcasting licensee for the rejection, may refer the matter to the Authority within 24 hours of being informed of the rejection.
 - (6) A political party must ensure that its political advertisement does not -
 9. (a) contravene any law and especially not the Constitution of Namibia, the Electoral Act or the Act (including this Broadcasting Code); and
 10. (b) contain any material which is calculated, or which in the ordinary course is likely, to provoke or incite any unlawful, illegal or criminal act, or which may be perceived as condoning or lending support to any such act.
 - (7) A political party submitting a political advertisement to a broadcasting licensee for broadcasting -
 12. (a) has no claim against the broadcasting licensee arising from the broadcast or failure to broadcast such advertisement;
-13. (b) is  deemed  to  have  indemnified  the  broadcasting  licensee  against  incurred  cost, damages, losses and third political party claims arising from the broadcast thereof.
+13. (b) is deemed to have indemnified the broadcasting licensee against incurred cost, damages, losses and third political party claims arising from the broadcast thereof.
 
 ## Broadcasting on polling day
 
-24. (1)  No  broadcasting  licensee  may  on  polling  day  broadcast  a  party  election broadcast, political advertisement or any material canvassing for support of any political party or candidate.
+24. (1) No broadcasting licensee may on polling day broadcast a party election broadcast, political advertisement or any material canvassing for support of any political party or candidate.
 - (2) A broadcasting licensee must confine election coverage on the polling day to reports and analyses on the progress of voting and information pertaining to voting schedules and location of polling stations.
 
-- (3) A  broadcasting  licensee  may  not  broadcast  election  results  until  after  the  polls are declared closed and official results are announced or published by the relevant officials of the Electoral Commission of Namibia in accordance with the Electoral Act.
+- (3) A broadcasting licensee may not broadcast election results until after the polls are declared closed and official results are announced or published by the relevant officials of the Electoral Commission of Namibia in accordance with the Electoral Act.
 
 ## PART D LOCAL CONTENT
 
 ## Local content objectives
 
 25. Every broadcasting licensee must, through the promotion, development or broadcasting of local content strive to -
-2. ( a ) encourage  the  development  of  Namibian  identity  and  expression  by  providing, within the type of programmes or music promoted, developed or broadcast by a broadcasting  licensee,  a  wide  range  of  local  content  which  reflects  Namibian attitudes,  opinions,  ideas,  values  and  artistic  creativity  by  displaying  Namibian cultures  and  entertainment  through  music,  dramas,  series,  news,  documentaries, current affairs, movies, films and other programmes;
-3. ( b ) serve  the  needs  and  interests  and  reflect  the  circumstances  and  aspirations  of Namibian women, men and children in a democratic Namibian society;
+2. ( a ) encourage the development of Namibian identity and expression by providing, within the type of programmes or music promoted, developed or broadcast by a broadcasting licensee, a wide range of local content which reflects Namibian attitudes, opinions, ideas, values and artistic creativity by displaying Namibian cultures and entertainment through music, dramas, series, news, documentaries, current affairs, movies, films and other programmes;
+3. ( b ) serve the needs and interests and reflect the circumstances and aspirations of Namibian women, men and children in a democratic Namibian society;
 4. ( c ) promote, develop, produce and maintain local content of high standards and quality; and
 5. ( d ) make maximum use of Namibian and African creative and other resources in the creation and presentation of local content.
 
 ## Local content policy
 
-26. (1)  In  order  to  promote  the  progressive  implementation  of  local  content  in broadcasting,  a  broadcasting  licensee  must,  within  12  months  after  the  commencement  of  this Broadcasting Code develop, and submit to the Authority, its written local content policy in accordance with this rule.
+26. (1) In order to promote the progressive implementation of local content in broadcasting, a broadcasting licensee must, within 12 months after the commencement of this Broadcasting Code develop, and submit to the Authority, its written local content policy in accordance with this rule.
 
 - (2) A broadcasting licensee's local content policy must include at least the following matters:
-2. (a) A  description  of  the  type  of  channels,  programmes  or  music  broadcast  by  the broadcasting licensee;
+2. (a) A description of the type of channels, programmes or music broadcast by the broadcasting licensee;
 3. (b) a brief analysis or summary of the characteristics of its audience and the preferences of such audience;
 4. (c) based on the knowledge of the broadcasting licensee and taking into consideration the nature of the broadcasting licensee as contemplated in paragraph (a), a summary of local content available for broadcasting by the broadcasting licensee and the cost implications thereof;
 5. (d) the purpose or objectives of the broadcasting licensee's local content policy;
-6. (e) the principles of the broadcasting licensee's broadcasting policy (that is, amongst others,  how  the  broadcasting  licensee  intends  to  promote  local  content  in  its broadcasts);
+6. (e) the principles of the broadcasting licensee's broadcasting policy (that is, amongst others, how the broadcasting licensee intends to promote local content in its broadcasts);
 
-- (f) challenges  identified  by  the  broadcasting  licensee  in  implementing  local  content requirements; and
+- (f) challenges identified by the broadcasting licensee in implementing local content requirements; and
 - (g) any other matter the broadcasting licensee deems appropriate to include.
 - (3) The Authority may assist broadcasting licensees in the development of their local content policies by providing them with a sample local content policy covering the matters set out in this rule.
-- (4) (a)    A  broadcasting  licensee  must  every  year,  on  the  anniversary  of  its  local content policy, review the policy and, if necessary, make such amendments thereto as are appropriate.
-- (b)    Where amendments are made by a broadcasting licensee to its local content policy, the amended version of the policy must be submitted to the Authority as soon as practicable.
+- (4) (a) A broadcasting licensee must every year, on the anniversary of its local content policy, review the policy and, if necessary, make such amendments thereto as are appropriate.
+- (b) Where amendments are made by a broadcasting licensee to its local content policy, the amended version of the policy must be submitted to the Authority as soon as practicable.
 
 ## Local content requirements
 
-27. (1) A broadcasting licensee must, over the reporting period, during the performance  period,  measured  as  set  out  in  rule  28,  comply  with  the  minimum  local  content requirements set out in this rule.
+27. (1) A broadcasting licensee must, over the reporting period, during the performance period, measured as set out in rule 28, comply with the minimum local content requirements set out in this rule.
 - (2) The minimum local content requirements for the different broadcasting licensees are as follows:
-3. (a) Radio  broadcasting  licensees:  over  the  reporting  period,  15  percent  of  music broadcast during the performance period must be local content music;
-4. (b) commercial  television  broadcasting  licensees  (excluding  subscription  television broadcasting  licensees  and  NBC):  over  the  reporting  period,  ten  percent  of programmes  broadcast  during  the  performance  period  must  be  local  content programmes;
-5. (c) community  television  broadcasting  licensees  (excluding  subscription  television broadcasting licenseesand NBC): over the reporting period, 15 percent of programmes broadcast during the performance period must be local content programmes;
-6. (d) subscription television broadcasting licensees: six percent of their annual channel and  content  acquisition  cost  as  incurred  their  most  recent  completed  financial year must be expended on the acquisition or development of local content which expenditure may include expenditure in the Republic of Namibia on local content training, skills development and business development;
+3. (a) Radio broadcasting licensees: over the reporting period, 15 percent of music broadcast during the performance period must be local content music;
+4. (b) commercial television broadcasting licensees (excluding subscription television broadcasting licensees and NBC): over the reporting period, ten percent of programmes broadcast during the performance period must be local content programmes;
+5. (c) community television broadcasting licensees (excluding subscription television broadcasting licenseesand NBC): over the reporting period, 15 percent of programmes broadcast during the performance period must be local content programmes;
+6. (d) subscription television broadcasting licensees: six percent of their annual channel and content acquisition cost as incurred their most recent completed financial year must be expended on the acquisition or development of local content which expenditure may include expenditure in the Republic of Namibia on local content training, skills development and business development;
 7. (e) NBC: over the reporting period, thirty percent of programmes and music broadcast during the performance period must be local content programmes or music.
 - (3) The local content requirements set out in this rule become enforceable -
 9. (a) for an existing broadcasting licensees, on the date of the third anniversary of the commencement date of this Broadcasting Code;
@@ -571,21 +568,21 @@ the broadcasting licensee concerned must afford that political party, candidate 
 - (c) for a broadcasting licensee to whom a broadcasting licence was issued subsequent to the commencement of this Broadcasting Code, after a period of three years from the date of commencement of its broadcasting licence.
 - (4) The Authority may, by written directive to a subscription television broadcasting licenseeº-
 - (a) determine the minimum percentage local content programmes or local content music which must be included in a channel in order for such channel to qualify as a local content channel;
-- (b) specify  the  expenses  which  must  be  included  in,  or  may  be  excluded  from,  the channel acquisition budget for purposes of this Broadcasting Code.
+- (b) specify the expenses which must be included in, or may be excluded from, the channel acquisition budget for purposes of this Broadcasting Code.
 - (5) A channel, with regard to which the person who provides, avails or sells such channel to a subscription television broadcasting licensee -
-- (a) is  not required to pay, remunerate or in any manner compensate the subscription television broadcasting licensee for the broadcast thereof qualifies as a local content channel; or
-- (b) is  required  to  pay,  remunerate  or  in  any  manner  compensate  the  subscription television broadcasting licensee for the broadcast thereof does not qualify as a local content channel.
+- (a) is not required to pay, remunerate or in any manner compensate the subscription television broadcasting licensee for the broadcast thereof qualifies as a local content channel; or
+- (b) is required to pay, remunerate or in any manner compensate the subscription television broadcasting licensee for the broadcast thereof does not qualify as a local content channel.
 
 ## Measurement of local content
 
-28. (1)  A  broadcasting  licensee  must  attempt,  in  so  far  as  reasonably  possible  or practical, to evenly spread out the broadcast of local content, on a daily basis, over the performance period.
+28. (1) A broadcasting licensee must attempt, in so far as reasonably possible or practical, to evenly spread out the broadcast of local content, on a daily basis, over the performance period.
 - (2) Compliance with local content requirements shall be measured over the reporting period which is a period of 12 months.
 - (3) Subject to sub-rule (1), a broadcasting licensee must ensure that it meets its local content requirements measured over the duration of the reporting period irrespective of the spacing, duration or frequency of local content broadcast during the daily performance period.
 - (4) For purposes of measuring local content and local content requirements, the following broadcasts do not constitute music, programmes, local content music or local content programmes (which means that these broadcasts are not taken into consideration when measuring and determining local content programmes or music against other programmes and music broadcast):
 5. (a) News;
 6. (b) sport events;
 7. (c) games;
-8. (d) programme  promotions,  bridging  and  sponsorship  music  and  a  broadcasting licensee's continuity and other announcement and theme music;
+8. (d) programme promotions, bridging and sponsorship music and a broadcasting licensee's continuity and other announcement and theme music;
 9. (e) advertisements and promotions;
 10. (f) radio and television shopping;
 
@@ -593,10 +590,9 @@ the broadcasting licensee concerned must afford that political party, candidate 
 - (5) Where a local content programme or music is broadcast more than once during the performance period, measured over a week, any broadcast after the first broadcast thereof during that week does not count towards the local content requirement applicable to that broadcasting licensee.
 - (6) Based on the above, local content is calculated as follows for each performance period:
 
-
 A = total number of hours or time the broadcasting licensee broadcast applicable local content during the performance period
 
-B = total number of hours or time broadcasting licensee broadcast exclusions set out in  subrule (4) during the performance period
+B = total number of hours or time broadcasting licensee broadcast exclusions set out in subrule (4) during the performance period
 
 C = total number of hours or time the broadcasting licensee broadcast programmes or music (including local content programmes and music) during the performance period
 
@@ -604,16 +600,16 @@ and multiplied by 100 to obtain a percentage.
 
 ## Local content exemption
 
-29. (1)  The  Authority  may,  upon  application  by  a  broadcasting  licensee,  grant  an exemption or deviation, with or without such conditions and for such period as the Authority may deem appropriate, from any local content requirement in this Part in the event where -
+29. (1) The Authority may, upon application by a broadcasting licensee, grant an exemption or deviation, with or without such conditions and for such period as the Authority may deem appropriate, from any local content requirement in this Part in the event where -
 2. (a) compliance would result in unreasonable and unjustifiable economic, financial or other hardship to the broadcasting licensee;
 3. (b) the broadcasting licensee generally broadcasts specialised programmes or music to a particular audience and such types of programmes or music are not produced or are not sufficiently produced by persons who will render such programmes or music local content programmes or music;
 4. (c) under circumstances, the local content requirements are unreasonably high for that particular broadcasting licensee;
 5. (d) the Authority has determined any other criteria with regard to which an application for an exemption or a deviation may be made.
 - (2) An application contemplated in sub-rule (1) must -
 7. (a) be sufficiently motivated on the basis of one or more of the criteria set out in that sub-rule;
-8. (b) have  attached  thereto  such  additional  substantiation  as  the  broadcasting  licensee deems relevant;
+8. (b) have attached thereto such additional substantiation as the broadcasting licensee deems relevant;
 9. (c) if relevant, include proof that there is no or limited local content available within the context set out in sub-rule (1)(b); and
-10. (d) demonstrate  the  measures  the  broadcasting  licensee  took  or  intends  to  take  in attempting to meet the relevant local content requirements.
+10. (d) demonstrate the measures the broadcasting licensee took or intends to take in attempting to meet the relevant local content requirements.
 
 - (3) The Authority must evaluate each application based on the criteria specified in subrule (1) and taking also into account the capacity, cost and strength of local content production and availability and may -
 2. (a) refuse the application if the criteria specified are not met;
@@ -624,19 +620,19 @@ and multiplied by 100 to obtain a percentage.
 
 ## Record keeping
 
-30. (1)   A broadcasting licensee must keep and maintain such logs, statistical forms and channel, programme and music records as may be necessary to ensure the keeping of -
+30. (1) A broadcasting licensee must keep and maintain such logs, statistical forms and channel, programme and music records as may be necessary to ensure the keeping of -
 2. (a) the particulars of all local content programmes or music broadcast during a performance period or, if applicable, expenditures contemplated in rule 27(2)(d);
-3. (b) sufficient  particulars  as  regards  the  expenditure  contemplated  in  rule  27(2)(d) or the producer or creator of local content to enable such licensee to substantiate it as qualifying as local content or local content expenditure, as the case may be;
+3. (b) sufficient particulars as regards the expenditure contemplated in rule 27(2)(d) or the producer or creator of local content to enable such licensee to substantiate it as qualifying as local content or local content expenditure, as the case may be;
 4. (c) sufficient information to enable such licensee to calculate and submit to the Authority its statistics on, and compliance with, local content requirements; and
 5. (d) such other particulars as may be required by the Authority.
-- (2) A broadcasting licensee must, for every completed year during which this Part D pertaining to local content applied to such licensee, no later than the 31 st  of January of the ensuring year, submit its compliance report to the Authority -
+- (2) A broadcasting licensee must, for every completed year during which this Part D pertaining to local content applied to such licensee, no later than the 31 st of January of the ensuring year, submit its compliance report to the Authority -
 7. (a) in the format determined by the Authority; or
 8. (b) if the Authority did not determine a format, in such format so as to sufficiently and clearly indicate such licensee's compliance with its local content requirements.
 - (3) A broadcasting licensee must keep the logs, statistical forms and records contemplated in sub-rule (1) for a period of not less than 12 months after the end of each calendar year to which they relate.
 
 ## Supervision by the Authority and enforcement
 
-31. (1)  The  Authority  shall  supervise  compliance  with  the  Broadcasting  Code, including the local content requirements, in terms of section 90 of the Act.
+31. (1) The Authority shall supervise compliance with the Broadcasting Code, including the local content requirements, in terms of section 90 of the Act.
 - (2) The Authority may conduct spot checks on a broadcasting licensee, comparing such licensee's logs, statistical forms and records with its own to verify compliance.
 
 (3) The Authority will periodically review the Broadcasting Code and specifically also the local content requirements to ensure the continued progressive implementation thereof in order to meet the objectives set out in the Concise Statement of Purposes to this Broadcasting Code.
@@ -655,46 +651,46 @@ Subsequent to a review of comments received on the Broadcasting Code published i
 
 The public hearing was well attended and interactive. Some relevant input and comments received at the hearing itself 1 are:
 
--  Concerns  were  again  expressed  as  regards  potential  negative  effects  on  freedom  of press and speech
+-  Concerns were again expressed as regards potential negative effects on freedom of press and speech
 -  There was expression of opinion that the Broadcasting Code discriminates as it is not applicable to NBC
--  The  Authority  should  investigate  the  granting  of  incentives  for  broadcasters  to promote local content in addition to the stated minimum local content quotas
+-  The Authority should investigate the granting of incentives for broadcasters to promote local content in addition to the stated minimum local content quotas
 -  Requiring 15% local content for, for example, community radio may be too low since the representative present opined that the minimum percentage was already exceeded by their broadcasting service
--  The requirement on subscription television broadcasters to expend a minimum amount on,  amongst  others,  the  'development'  of  local  content  -  in  this  regard  the  word 'development' has a wide interpretation/meaning
+-  The requirement on subscription television broadcasters to expend a minimum amount on, amongst others, the 'development' of local content - in this regard the word 'development' has a wide interpretation/meaning
 -  The definition of 'local content music' caused some confusion since its introductory words reference only verbal music in the first line thus appearing that the definition applies only to music containing words (i.e. not instrumental). The definition was thus slightly restructured to eliminate such confusion
 
-The above input and comments are noted but will generally not be addressed in the current Broadcasting  Code.  Future  consideration  will  be  given  to  relevant  comments  and  input when the Broadcasting Code is reviewed.
+The above input and comments are noted but will generally not be addressed in the current Broadcasting Code. Future consideration will be given to relevant comments and input when the Broadcasting Code is reviewed.
 
 ## 2.2 UNAM - Robin Tyson
 
-- 2.2.1 Reference is made to South African broadcasters who regularly announce their compliance with their broadcasting code and the contact details (address, e-mail or phone number, etc) as to where listeners/viewers can submit complaints to the licensee itself.  This is a sensible
+- 2.2.1 Reference is made to South African broadcasters who regularly announce their compliance with their broadcasting code and the contact details (address, e-mail or phone number, etc) as to where listeners/viewers can submit complaints to the licensee itself. This is a sensible
 
-1 Input received in writing and summarised in clauses 2.2 - 2.5 is not repeated in this clause  2.1.
+1 Input received in writing and summarised in clauses 2.2 - 2.5 is not repeated in this clause 2.1.
 
 proposal and an addition is proposed to rule 3 ('obligations regarding information on this Broadcasting Code) obligating broadcasting licensees to regularly (but not less than once a week) make such announcements. However, flexibility is provided for in that: (a) licensees may also publish the relevant information on electronic and/or social media platforms; and
 
-(b)  if  a  licensee  does  not  have  control  over  a  channel  or  programme  and  cannot  within reasonable means make such announcements, such licensee must publish the information on its electronic or social media platform.
+(b) if a licensee does not have control over a channel or programme and cannot within reasonable means make such announcements, such licensee must publish the information on its electronic or social media platform.
 
-- 2.2.2 Support is given to an obligation on subscription television broadcasters to expend income on the acquisition or development of local content.  Proposals are made that such funding can support the training of media students/professionals, media training facilities, the Namibia Film Commission and the construction and development of a student television station at UNAM and that such broadcasters should be encouraged to do so. This comment does not impact on the contents of the Broadcasting Code, since it is already accommodated as such, and these proposals can be relayed and/or encouraged outside the Broadcasting Code.
+- 2.2.2 Support is given to an obligation on subscription television broadcasters to expend income on the acquisition or development of local content. Proposals are made that such funding can support the training of media students/professionals, media training facilities, the Namibia Film Commission and the construction and development of a student television station at UNAM and that such broadcasters should be encouraged to do so. This comment does not impact on the contents of the Broadcasting Code, since it is already accommodated as such, and these proposals can be relayed and/or encouraged outside the Broadcasting Code.
 
 ## 2.3 Namibian Broadcasting Corporation
 
-2. 3 . 1 NBC proposes an additional definition for 'film' and that local films should attract double points in the calculation of local content quota.  Response: the definition of 'programme' is wide and includes films. 2  Should one wish to give local films special treatment, then a definition would probably be necessary. The current local content model (being the first time this is introduced in Namibia) is a simplified model. Countries which have required local content for many years have developed more sophisticated models over time (often inclusive additional points for certain local content or of tax benefits on local content).  These type of proposals can be further explored in the future once the current model is reviewed and revised.
-2. 3 . 2 The current definition of 'local content programme', in paragraph (f) thereof, requires at least 50% of key personnel to be citizens of, and permanently resident in, Namibia. NBC proposes that this percentage should be 60%.  Similarly to the response in clause 2.3.1 above, the decision is to introduce a minimum but meaningful local content requirement to start off with.  The impact and success of the first time local content quotas will be regularly reviewed and gradually increased.
-2. 3 . 3 The Broadcasting Code determines the performance period (for purposes of local content) to be a period of 126 hours per week measured daily between 05:00 and 23:00. NBC proposes a reduction to 112 hours a week between 06:00 and 22:00. This proposal will result in more strenuous  local  content  obligations  on  broadcasters.    For  the  same  reasons  given  above, the proposal is noted and can be considered when local content increases are considered in the future. Also, as national broadcaster, NBC may carry larger local content and would therefore find the initial local content requirements in the Broadcasting Code less strenuous than their current local content programmes and music.
-2. 3 . 4 NBC recommends the defining of 'political advertising'  in  order  to  distinguish  this from other  political  party  broadcast  messages  such  as  announcements  of    gatherings    or fund  raising  initiatives,  the  latter  not  being  limited  to  election  broadcast  periods  only. Note: (a) 'advertisement' (and 'advertising') is already defined and thus covers political advertisements in that they are still advertisements but of a political nature; (b) the decision
+2. 3 . 1 NBC proposes an additional definition for 'film' and that local films should attract double points in the calculation of local content quota. Response: the definition of 'programme' is wide and includes films. 2 Should one wish to give local films special treatment, then a definition would probably be necessary. The current local content model (being the first time this is introduced in Namibia) is a simplified model. Countries which have required local content for many years have developed more sophisticated models over time (often inclusive additional points for certain local content or of tax benefits on local content). These type of proposals can be further explored in the future once the current model is reviewed and revised.
+2. 3 . 2 The current definition of 'local content programme', in paragraph (f) thereof, requires at least 50% of key personnel to be citizens of, and permanently resident in, Namibia. NBC proposes that this percentage should be 60%. Similarly to the response in clause 2.3.1 above, the decision is to introduce a minimum but meaningful local content requirement to start off with. The impact and success of the first time local content quotas will be regularly reviewed and gradually increased.
+2. 3 . 3 The Broadcasting Code determines the performance period (for purposes of local content) to be a period of 126 hours per week measured daily between 05:00 and 23:00. NBC proposes a reduction to 112 hours a week between 06:00 and 22:00. This proposal will result in more strenuous local content obligations on broadcasters. For the same reasons given above, the proposal is noted and can be considered when local content increases are considered in the future. Also, as national broadcaster, NBC may carry larger local content and would therefore find the initial local content requirements in the Broadcasting Code less strenuous than their current local content programmes and music.
+2. 3 . 4 NBC recommends the defining of 'political advertising' in order to distinguish this from other political party broadcast messages such as announcements of gatherings or fund raising initiatives, the latter not being limited to election broadcast periods only. Note: (a) 'advertisement' (and 'advertising') is already defined and thus covers political advertisements in that they are still advertisements but of a political nature; (b) the decision
 
-2 In  view  of  a  comment  received  from  the  Namibia  Film  Commission  the  definition  of  'film'  in  the  Namibia  Film Commission Act was cross-referenced and the definition of 'programme' now includes 'films' in order to avoid any uncertainty on this.
+2 In view of a comment received from the Namibia Film Commission the definition of 'film' in the Namibia Film Commission Act was cross-referenced and the definition of 'programme' now includes 'films' in order to avoid any uncertainty on this.
 
-is  to  prohibit political advertising outside election periods and thus, broadcasts which do not constitute advertising (as defined) and which is not a political election broadcast, are not prohibited.
+is to prohibit political advertising outside election periods and thus, broadcasts which do not constitute advertising (as defined) and which is not a political election broadcast, are not prohibited.
 
-2. 3 . 5 As regards what constitutes 'child pornography' in the definition of 'sexual conduct', NBC proposes the addition of inappropriate touching of a child.        Child pornography currently
+2. 3 . 5 As regards what constitutes 'child pornography' in the definition of 'sexual conduct', NBC proposes the addition of inappropriate touching of a child. Child pornography currently
 
-means 'fondling or touching of breasts, genitalia or the anus'.  NBC's proposal is acceptable and  added  to  paragraph  (d)  of  the  definition  of  'child  pornography'  to  now  state:  'the fondling or touching of breasts, genitalia or the anus and any other inappropriate touching of a child of a sexual nature'
+means 'fondling or touching of breasts, genitalia or the anus'. NBC's proposal is acceptable and added to paragraph (d) of the definition of 'child pornography' to now state: 'the fondling or touching of breasts, genitalia or the anus and any other inappropriate touching of a child of a sexual nature'
 
 2. 3 . 6 As regards the watershed period, NBC proposes an earlier start at 21:00 and not 22:00. The comment is noted but is found to be too early and 22:00 is deemed more appropriate.
 2. 3 . 7 NBC proposes the deletion of rule 10(2) since it is difficult for broadcasters to control what callers will say. Rule 10(2) obligates a broadcaster, in so far as is practical or reasonable, to ensure a balanced and reasonable range of views/opinions on controversial issues. NBC's proposal is noted but the limitations already included (i.e. only is so far as it is practical or reasonable) are deemed reasonable and add flexibility to address this concern.
-2. 3 . 8 Rule  12(1),  relating  to  competitions,  requires  broadcasters  to  make  known,  during  a broadcast, the full cost of calling in (or sms) to participate in a competition. NBC states that it could be challenging to apply this requirement to especially phone calls since the rates of various telephone service providers of callers may differ. This is deemed not necessary to amend since these competitions have special numbers and rate is determined between issuer of competition and service provider.
-2. 3 . 9 Rule  13  requires  broadcasters  to  broadcast  public  emergency  notices  or  public  disaster announcements.  NBC  advises  more  clarity  on  these  concepts  by  means  of  a  definition. Note that, without a definition, these expressions will be understood within their ordinary grammatical  meaning.  It  may  be  beneficial  to  define  these  expressions  to  prevent  the indiscriminate  use  of  such  announcements  and  to  provide  greater  clarity.  The  following definitions are proposed to be inserted:
+2. 3 . 8 Rule 12(1), relating to competitions, requires broadcasters to make known, during a broadcast, the full cost of calling in (or sms) to participate in a competition. NBC states that it could be challenging to apply this requirement to especially phone calls since the rates of various telephone service providers of callers may differ. This is deemed not necessary to amend since these competitions have special numbers and rate is determined between issuer of competition and service provider.
+2. 3 . 9 Rule 13 requires broadcasters to broadcast public emergency notices or public disaster announcements. NBC advises more clarity on these concepts by means of a definition. Note that, without a definition, these expressions will be understood within their ordinary grammatical meaning. It may be beneficial to define these expressions to prevent the indiscriminate use of such announcements and to provide greater clarity. The following definitions are proposed to be inserted:
 
 'public notice of emergency' means a notice issued by a Government Minister or a duly authorised public enterprise, as defined in the Public Enterprises Governance Act, 2006 (Act No. 2 of 2006) or other public authority or organ of State relating to a sudden unforeseen event or situation beyond the ordinary which threatens lives or property; and
 
@@ -718,11 +714,11 @@ disruption of essential services;
 
 (g) economic failure.
 
-2. 3 . 1 0 As regards: (a) rule 22(1), NBC proposes that a political party must submit party election broadcast content at least 120 hours before the broadcast to a broadcaster and not 96 hours as currently stated; (b) rule 22(5)(a), NBC proposes that a broadcaster who rejects a party election  broadcast  must,  no  longer than  48  hours after  having  received the content,  give notice  of  the  rejection  and  the  reasons  therefor  and  not  24  hours  as  is  currently  stated. These timeframes were proposed in the previous published Broadcasting Codes and, apart from  NBC,  no  other  broadcaster  commented  thereon  or  found  them  unreasonable.  It  is recommended that timeframes stay intact. Should NBC have particular challenges to meet such timeframes there is a general rule under which they  can apply to the Authority for exemption or adjustment.
-2. 3 . 1 1 Rule  22(6)(a)  determines  that  election  broadcast  contents  may  not  contravene  any  law including the Broadcasting Code. NBC proposes adding hereto that such content may also not contravene editorial policies. This proposal is not accepted in view of editorial policies being internal and it is not the intention of the Broadcasting Code to make them  enforceable through statute.  The ambit of this subrule is limited to laws of Namibia  only.
-2. 3 . 1 2 NBC proposes that party election broadcast may not exceed three minutes in duration instead of  the  current  five  minutes  provided  for  in  the  Broadcasting  Code.  This  proposal  is  not accepted for the same reasons provided in clause 2.3.10 above.
+2. 3 . 1 0 As regards: (a) rule 22(1), NBC proposes that a political party must submit party election broadcast content at least 120 hours before the broadcast to a broadcaster and not 96 hours as currently stated; (b) rule 22(5)(a), NBC proposes that a broadcaster who rejects a party election broadcast must, no longer than 48 hours after having received the content, give notice of the rejection and the reasons therefor and not 24 hours as is currently stated. These timeframes were proposed in the previous published Broadcasting Codes and, apart from NBC, no other broadcaster commented thereon or found them unreasonable. It is recommended that timeframes stay intact. Should NBC have particular challenges to meet such timeframes there is a general rule under which they can apply to the Authority for exemption or adjustment.
+2. 3 . 1 1 Rule 22(6)(a) determines that election broadcast contents may not contravene any law including the Broadcasting Code. NBC proposes adding hereto that such content may also not contravene editorial policies. This proposal is not accepted in view of editorial policies being internal and it is not the intention of the Broadcasting Code to make them enforceable through statute. The ambit of this subrule is limited to laws of Namibia only.
+2. 3 . 1 2 NBC proposes that party election broadcast may not exceed three minutes in duration instead of the current five minutes provided for in the Broadcasting Code. This proposal is not accepted for the same reasons provided in clause 2.3.10 above.
 2. 3 . 1 3 Regarding rule 27(2)(a) which sets the local content requirement for radio broadcasters at 15% of music broadcast, NBC proposes that this be increased to 50%. It is recommended that the percentage remains as published in the previous draft Broadcasting Code. Only two licensees recommended an increase whereas the other licensees did not comment thereon and thus deemed to have found it acceptable. Also, see previous reasoning to start off with lower levels at the first introduction of local content and gradually increase requirements as this aligns with accepted local content principles.
-2. 3 . 1 4 On rule 28(4), NBC proposes the inclusion of news, sport events and games towards local content. It is recommended that this proposal not be accepted. As explained to stakeholders at the public hearing and in the explanatory memorandum, sport coverage, news, advertising, games, promotions and certain announcements broadcast during the performance period will be excluded (i.e. deducted) from the total performance period's hours and the local content percentage will be calculated on the remaining hours.  This means, for example, local content music required to be broadcast will be measured against only the total other music broadcast during performance period - not against the total number of hours of the performance period thereby reducing local content burden.
+2. 3 . 1 4 On rule 28(4), NBC proposes the inclusion of news, sport events and games towards local content. It is recommended that this proposal not be accepted. As explained to stakeholders at the public hearing and in the explanatory memorandum, sport coverage, news, advertising, games, promotions and certain announcements broadcast during the performance period will be excluded (i.e. deducted) from the total performance period's hours and the local content percentage will be calculated on the remaining hours. This means, for example, local content music required to be broadcast will be measured against only the total other music broadcast during performance period - not against the total number of hours of the performance period thereby reducing local content burden.
 
 ## 2.4 MultiChoice Namibia
 
@@ -731,32 +727,32 @@ disruption of essential services;
 3.  Those who produce and/or commission channels
 4.  Those who acquire channels which they package into bouquets
 
-This lack of distinction, according to MultiChoice, means that the Broadcasting Code does not cater for a broadcaster such as MultiChoice who has no editorial control over content. MultiChoice is of the opinion that the Code is based on the thinking that all broadcasters commission their own programmes (as opposed to channels and acquisition of channels). MultiChoice  states  that  it  does  not  produce  or  commission  programmes.  It  acquires complete channels and package them into bouquets. Based on this premise, MultiChoice makes recommendations how the Broadcasting Code could be amended to accommodate their channel acquisition model.
+This lack of distinction, according to MultiChoice, means that the Broadcasting Code does not cater for a broadcaster such as MultiChoice who has no editorial control over content. MultiChoice is of the opinion that the Code is based on the thinking that all broadcasters commission their own programmes (as opposed to channels and acquisition of channels). MultiChoice states that it does not produce or commission programmes. It acquires complete channels and package them into bouquets. Based on this premise, MultiChoice makes recommendations how the Broadcasting Code could be amended to accommodate their channel acquisition model.
 
-2. 4 . 2 Local content: MultiChoice supports the Authority's decision that local content requirements for subscription television broadcasters must be expenditure-based (i.e. a certain minimum amount must be expended on the acquisition or development of local content). Currently the Broadcasting Code determines this to be 1.5% of annual revenue to be expended on local content.  MultiChoice proposes that the amount should be determined as a percentage of their annual content acquisition cost of their most recent completed financial year. MultiChoice proposes  that  such  percentage  should  be  3%.  As  regards  local  content  requirements  for subscription television broadcasters, the following recommendations are made:
-2.  insertion  of  a  definition  of  local  content  channels  to  specify  that  it  is  a  channel consisting  of  such  a  percentage  of  local  content  music  and  programmes  as  the Authority may from time to time determine  - this is to avoid that a channel which features, for example, only 1% local content qualifies as a local content channel
-3.  providing for a percentage-based expenditure requirement of 6% of the subscription television  broadcaster's  channel  acquisition  cost  during  the  previous  financial  year. MultiChoice's proposal of 3% is deemed too low especially since, in the absence of the  Authority  determining  a  specific  percentage  of  local  content  for  a  channel  to qualify as a local content channel, all channels (for example NBC currently broadcast by MultiChoice) qualify as local content and may result in the required local content quota already being exceeded
+2. 4 . 2 Local content: MultiChoice supports the Authority's decision that local content requirements for subscription television broadcasters must be expenditure-based (i.e. a certain minimum amount must be expended on the acquisition or development of local content). Currently the Broadcasting Code determines this to be 1.5% of annual revenue to be expended on local content. MultiChoice proposes that the amount should be determined as a percentage of their annual content acquisition cost of their most recent completed financial year. MultiChoice proposes that such percentage should be 3%. As regards local content requirements for subscription television broadcasters, the following recommendations are made:
+2.  insertion of a definition of local content channels to specify that it is a channel consisting of such a percentage of local content music and programmes as the Authority may from time to time determine - this is to avoid that a channel which features, for example, only 1% local content qualifies as a local content channel
+3.  providing for a percentage-based expenditure requirement of 6% of the subscription television broadcaster's channel acquisition cost during the previous financial year. MultiChoice's proposal of 3% is deemed too low especially since, in the absence of the Authority determining a specific percentage of local content for a channel to qualify as a local content channel, all channels (for example NBC currently broadcast by MultiChoice) qualify as local content and may result in the required local content quota already being exceeded
 4.  provision is made for the Authority to determine which expenses must be included in a subscription television broadcasting licensee's channel acquisition budget and which may be excluded in the event that more clarity may in future be required on this matter
-5.  different from other broadcasters (who are required to broadcast at least the minimum percentage local content), subscription  television broadcasters are provided with   a choice  as  to  whether  to  expend  the  required  expenditure  on  the  acquisition  or development  of  local  content  which  expenditure  may  include  expenditure  in  the Republic  of  Namibia  on  local  content  training,  skills  development  and  business development
-6.  a  local  content  channel  with  regard to  which  the  person  who  provides  or avails  the channel is  not  required  by  the  subscription television  broadcaster to  compensate the broadcaster for the broadcast thereof qualifies as a local content channel. However, if such channel provider must compensate/pay the broadcaster to broadcast the channel it cannot be claimed as a local content channel
-7.  consequential  changes  were  made  to  relevant  rules  in  the  Broadcasting  Code  to accommodate the approach recommended herein
+5.  different from other broadcasters (who are required to broadcast at least the minimum percentage local content), subscription television broadcasters are provided with a choice as to whether to expend the required expenditure on the acquisition or development of local content which expenditure may include expenditure in the Republic of Namibia on local content training, skills development and business development
+6.  a local content channel with regard to which the person who provides or avails the channel is not required by the subscription television broadcaster to compensate the broadcaster for the broadcast thereof qualifies as a local content channel. However, if such channel provider must compensate/pay the broadcaster to broadcast the channel it cannot be claimed as a local content channel
+7.  consequential changes were made to relevant rules in the Broadcasting Code to accommodate the approach recommended herein
 2. 4 . 3 Due to it not having any editorial control over channels purchased, MultiChoice proposes to be also exempted from rules 4, 8, 10, 12 and 15 of the Code. Their ability to comply was duly considered and it is recommended as follows:
-9.  exemption from rule 4 requiring licensees, amongst others, to report news and current affairs truthfully and objectively, not to reveal the identity of certain victims, not   to use explicit language relating to news of destruction, accidents etc which could disturb certain  viewers  and  to  provide  opportunities  for  alternative  views  on current  affairs programmes.  It  is  recommended  that  subscription  television  broadcasters  only  be exempted  from  rule  4(7)  to  (10)  but  not  rule  4(1)  to  (6)  since  if  there  is  noncompliance, the broadcaster is required to rectify the matter either by broadcasting the rectification or by rectifying it on its website or other platforms used or any other way which is appropriate under circumstances. MultiChoice can thus align with the first part of this rule
+9.  exemption from rule 4 requiring licensees, amongst others, to report news and current affairs truthfully and objectively, not to reveal the identity of certain victims, not to use explicit language relating to news of destruction, accidents etc which could disturb certain viewers and to provide opportunities for alternative views on current affairs programmes. It is recommended that subscription television broadcasters only be exempted from rule 4(7) to (10) but not rule 4(1) to (6) since if there is noncompliance, the broadcaster is required to rectify the matter either by broadcasting the rectification or by rectifying it on its website or other platforms used or any other way which is appropriate under circumstances. MultiChoice can thus align with the first part of this rule
 10.  exemption from rule 8 which requires broadcasters to respect the privacy, dignity and reputation of persons. Exemption is not recommended since rule 8 is not an absolute prohibition but requires broadcasters to take extra care. It is deemed that MultiChoice can apply such care and consideration within its constraints
 
--  exemption  from  rule  10  which  requires  a  broadcaster,  in  so  far  as  is  practical  or reasonable,  to  have  a  balanced  approach  when  reporting  on  controversial  issues. Again,  this  is  not  an  absolute  prohibition  and  thus  this  requirement  can  apply  to MultiChoice as they are only required to act in so far as it is practical or reasonable (having thus regard that they may not have editorial control)
+-  exemption from rule 10 which requires a broadcaster, in so far as is practical or reasonable, to have a balanced approach when reporting on controversial issues. Again, this is not an absolute prohibition and thus this requirement can apply to MultiChoice as they are only required to act in so far as it is practical or reasonable (having thus regard that they may not have editorial control)
 -  exemption from rule 12 relating to competitions - exemption is recommended in view of MultiChoice not having editorial control and those being foreign competitions not open to Namibians
 -  exemption from rule 15 regarding the publication of counter-versions where comments were incorrect. It is recommended that MultiChoice not be exempted since rectifications can be made on alternative platforms and not on a programme broadcast thereafter
 
 ## 2.5 Namibia Film Commission &amp; Filmmakers Association of Namibia
 
-2. 5 . 1 In order to promote local films and the local film industry, it is proposed that the Broadcasting Code includes a definition of 'film' and give promotional prominence to local films for purposes of local content. As explained earlier, to do so requires a more advanced local content model (for example a point based model) and it was decided to introduce a simplified initial  local  content  model.  However,  to  clarify  that  local  programmes  include  films,  the definition of 'film' in the Namibia Film Commission Act was incorporated under the Code's definitions and included as part of 'programmes'. This will also lend greater prominence to local films.
+2. 5 . 1 In order to promote local films and the local film industry, it is proposed that the Broadcasting Code includes a definition of 'film' and give promotional prominence to local films for purposes of local content. As explained earlier, to do so requires a more advanced local content model (for example a point based model) and it was decided to introduce a simplified initial local content model. However, to clarify that local programmes include films, the definition of 'film' in the Namibia Film Commission Act was incorporated under the Code's definitions and included as part of 'programmes'. This will also lend greater prominence to local films.
 2. 5 . 2 Concern was expressed as regards protection in the Broadcasting Code for marginalized communities/groups, especially when it pertains to recording them for broadcasting purposes. To accommodate this concern/comment, a reference to marginalized groups is included in rule 8(2).
 3. 2.6 Ministry of Information and Communication Technology
-2. 6 . 1 As  regards  the  consultation  of  the  election  part  of  the  Broadcasting  Code  with  political parties, such stakeholder interaction is addressed as follows:
-5.  The  Broadcasting  Code  has  been  published  three  times  for  public  comment  in  the Government Gazette and was widely distributed and consulted;
+2. 6 . 1 As regards the consultation of the election part of the Broadcasting Code with political parties, such stakeholder interaction is addressed as follows:
+5.  The Broadcasting Code has been published three times for public comment in the Government Gazette and was widely distributed and consulted;
 6.  The Namibian Electoral Commission was specifically consulted;
-7.  The  rules  in  the  Broadcasting  Code  relating  to  elections  follow  and  align  with  the Electoral Act;
+7.  The rules in the Broadcasting Code relating to elections follow and align with the Electoral Act;
 8.  Obligations in the Broadcasting Code mainly relate to broadcasters and not political parties;
-9.  The  Broadcasting  Code  has  built-in  flexibility  and  can  thus  adapt  by  means  of variations and/or exemptions;
+9.  The Broadcasting Code has built-in flexibility and can thus adapt by means of variations and/or exemptions;
 10.  The Broadcasting Code is not cast in stone but will be a living and adaptable code which will be regularly reviewed and continually built upon.

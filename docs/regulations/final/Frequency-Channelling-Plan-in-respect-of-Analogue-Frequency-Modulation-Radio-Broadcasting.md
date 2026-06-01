@@ -1,8 +1,6 @@
 
 No. 321
 
-2020
-
 ## FREQUENCY CHANNELLING PLAN IN RESPECT OF ANALOGUE FREQUENCY MODULATION RADIO BROADCASTING: COMMUNICATIONS ACT, 2009
 
 The Communications Regulatory Authority of Namibia in terms of section 100(1) read with section 129 of the Communications Act, 2009 (Act No. 8 of 2009), prescribes the Frequency Channelling Plan in respect of Analogue Frequency Modulation Radio Broadcasting set out in the Schedule.
@@ -22,7 +20,6 @@ The Communications Regulatory Authority of Namibia in terms of section 100(1) re
 | Aminuis     | 23°40'35.5'S | 19°26'01.6'E |              98.5 | Vertical       |               250 | Omaheke  |
 | Andara      | 18°430.01'S  | 21°25'11.6'E |              99.0 | Vertical       |                25 | Caprivi  |
 
-
 ## GOVERNMENT GAZETTE OF THE
 
 ## REPUBLIC OF NAMIBIA
@@ -39,15 +36,13 @@ Page
 
 No. 321
 
-Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Respect of Analogue Frequency Modulation Radio Broadcasting: Communications Act, 2009  ............................................
+Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Respect of Analogue Frequency Modulation Radio Broadcasting: Communications Act, 2009 
 
 ## General Notices
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-6
-
-| Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 7300         |
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------|
 | Andara                             | 18°430.01'S                        | 21°25'11.6'E                       | 92.2                               | Vertical                           |                                 25 | 7300         |
 | Andara                             | 18°430.01'S                        | 21°25'11.6'E                       | 95.7                               | Vertical                           |                                 25 |              |
@@ -90,11 +85,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 |                                    |                                    |                                    | 102.5                              | Vertical                           |                                 25 |              |
 | Berquelle Bethanie                 | 22°2'58.83'S 26°29'0.7'S           | 16°57'16'E 17°14'18'E              | 104.0 88.6                         | Vertical Vertical                  |                                500 | Otjozondjupa |
 |                                    |                                    |                                    |                                    |                                    |                               2500 |              |
-
-3
-
-| 7300            | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 3         |
-|-----------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-----------|
 | Bethanie        | 26°29'0.7'S                        | 17°14'18'E                         |                               94.4 | Vertical                           |                               2500 |           |
 | Bethanie        | 26°29'0.7'S                        | 17°14'18'E                         |                               97.7 | Vertical                           |                               2500 |           |
 | Bethanie        | 26°29'0.7'S                        | 17°14'18'E                         |                              101.2 | Vertical                           |                               2500 |           |
@@ -137,11 +127,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Erongo Mountain | 21°43'40.8'S                       | 15°31'43'E                         |                              107.3 | Vertical                           |                                100 |           |
 | Erongo Mountain | 21°43'40.8'S                       | 15°31'43'E                         |                               89.1 | Vertical                           |                                100 |           |
 | Erongo Mountain | 21°43'40.8'S                       | 15°31'43'E                         |                              102.7 | Vertical                           |                                100 |           |
-
-4
-
-| Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 7300         |
-|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------|
 | Erongo Mountain                    | 21°43'40.8'S                       | 15°31'43'E                         | 95.4                               | Vertical                           |                                100 | 7300         |
 | Erongo Mountain                    | 21°43'40.8'S                       | 15°31'43'E                         | 98.7                               | Vertical                           |                                100 |              |
 | Gam                                | 20°9'27.5'S                        | 20°43'22.7'E                       | 92.6                               | Vertical                           |                                100 |              |
@@ -181,11 +166,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 |                                    |                                    |                                    |                                    | Vertical                           |                               1000 |              |
 | Grossherzog Grossherzog            | 22°42'33.72'S 22°42'33.72'S        | 17°3'38.11'E 17°3'38.11'E          | 99.0 94.1                          | Vertical Vertical                  |                                500 | Khomas       |
 | Grossherzog                        | 22°42'33.72'S                      | 17°3'38.11'E                       | 102.9                              | Vertical                           |                                100 |              |
-
-5
-
-| 7300           | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | 5       |
-|----------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------|
 | Grossherzog    | 22°42'33.72'S                      | 17°3'38.11'E                       |                               99.5 | Vertical                           | 1000                               | 5       |
 | Grossherzog    | 22°42'33.72'S                      | 17°3'38.11'E                       |                              106.2 | Vertical                           | 100                                | 5       |
 | Grossherzog    | 22°42'33.72'S                      | 17°3'38.11'E                       |                              104.5 | Vertical                           | 1000                               | 5       |
@@ -223,9 +203,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Karibib        | 21°55'58.92'S                      | 15°52'11.02'E                      |                               94.6 | Vertical                           | 250                                | Erongo  |
 | Karibib Katima | 21°55'58.92'S 17°31'6.07'S         | 15°52'11.02'E 24°16'18.04'E        |                               92.2 | Vertical                           | 300 1000                           | Erongo  |
 | Mulilo         |                                    |                                    |                               93.1 | Vertical                           |                                    | Caprivi |
-
-| Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 7300         |
-|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------|
 | Katima Mulilo                      | 17°31'6.07'S                       | 24°16'18.04'E                      | 102.6                              | Vertical                           |                                250 |              |
 | Katima Mulilo                      | 17°31'6.07'S                       | 24°16'18.04'E                      | 107.4                              | Vertical                           |                                500 |              |
 | Katima Mulilo                      | 17°31'6.07'S                       | 24°16'18.04'E                      | 104.5                              | Vertical                           |                                250 |              |
@@ -272,11 +249,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Klein Waterberg                    | 20°40'38.43'S                      | 17°'05'24.05'E                     | 101.2                              | Vertical                           |                               2000 | Otjozondjupa |
 | Klein Waterberg                    | 20°40'38.43'S                      | 17°'05'24.05'E                     | 94.4                               | Vertical                           |                               2000 | Otjozondjupa |
 | Klein Waterberg                    | 20°40'38.43'S                      | 17°'05'24.05'E                     | 97.7                               | Vertical                           |                                500 | Otjozondjupa |
-
-7
-
-| 7300            | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 |         |
-|-----------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------|
 | Klein Waterberg | 20°40'38.43'S                      | 17°'05'24.05'E                     |                               93.5 | Vertical                           |                               2000 |         |
 | Klein Waterberg | 20°40'38.43'S                      | 17°'05'24.05'E                     |                               91.2 | Vertical                           |                               2000 |         |
 | Klein Waterberg | 20°40'38.43'S                      | 17°'05'24.05'E                     |                              104.0 | Vertical                           |                               2000 |         |
@@ -363,11 +335,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Okongo      | 17°37'52'S      | 17°23'24'E     |   107.5 | Vertical   |  1000 |              |
 | Omaruru     | 21°25'37.89'S   | 15°57'3.64'E   |    98.3 | Vertical   |  1000 |              |
 |             |                 |                |         |            |       | Erongo       |
-
-9
-
-| 7300       | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 |         |
-|------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------|
 | Omaruru    | 21°25'37.89'S                      | 15°57'3.64'E                       |                               94.6 | Vertical                           |                                100 |         |
 | Omega      | 18°01'50'S                         | 22°12'00'E                         |                               99.0 | Vertical                           |                                 25 | Caprivi |
 | Omega      | 18°01'50'S                         | 22°12'00'E                         |                               89.4 | Vertical                           |                                 25 | Caprivi |
@@ -454,9 +421,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Otjiwarongo  | 20°28'46.4'S    | 16°39'30.42'E   |   107.6 | Vertical   |  1000 |              |
 | Otjiwarongo  | 20°28'46.4'S    | 16°39'30.42'E   |    87.8 | Vertical   |   100 |              |
 | Otjiwarongo  | 20°28'46.4'S    | 16°39'30.42'E   |    95.5 | Vertical   |   250 | Otjozondjupa |
-
-| 7300             | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 11           |
-|------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------|
 | Otjiwarongo      | 20°28'46.4'S                       | 16°39'30.42'E                      |                               89.2 | Vertical                           |                                100 |              |
 | Otjiwarongo      | 20°28'46.4'S                       | 16°39'30.42'E                      |                               90.9 | Vertical                           |                                500 |              |
 | Otjiwarongo      | 20°28'46.4'S                       | 16°39'30.42'E                      |                              100.9 | Vertical                           |                                500 |              |
@@ -543,9 +507,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Sessfontein        | 19°07'20.0'S   | 13°36'53'E     |   105.2 | Vertical   | 100    |         |
 | Shamvura           | 18°2'22.1'S    | 20°51'57.8'E   |    91.3 | Vertical   | 25     |         |
 | Shamvura           | 18°2'22.1'S    | 20°51'57.8'E   |    97.8 | Vertical   | 25     | Kavango |
-
-| 7300        | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 13           |
-|-------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------|
 | Shamvura    | 18°2'22.1'S                        | 20°51'57.8'E                       |                              101.3 | Vertical                           |                                 25 |              |
 | Shamvura    | 18°2'22.1'S                        | 20°51'57.8'E                       |                               94.5 | Vertical                           |                                250 |              |
 | Shamvura    | 18°2'22.1'S                        | 20°51'57.8'E                       |                              104.9 | Vertical                           |                                 25 |              |
@@ -631,9 +592,6 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Walvisbay    | 22°57'21.83'S   | 14°31'40.47'E  |    88.8 | Vertical   |   100 |          |
 | Walvisbay    | 22°57'21.83'S   | 14°31'40.47'E  |    95.1 | Vertical   |   100 |          |
 | Walvisbay    | 22°57'21.83'S   | 14°31'40.47'E  |    91.9 | Vertical   |   100 |          |
-
-| 7300          | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | Government Gazette 7 August 2020   |   Government Gazette 7 August 2020 | 15     |
-|---------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------|
 | Walvisbay     | 22°57'21.83'S                      | 14°31'40.47'E                      |                              104.0 | Vertical                           |                                500 | 15     |
 | Walvisbay     | 22°57'21.83'S                      | 14°31'40.47'E                      |                              106.9 | Vertical                           |                                100 | 15     |
 | Windhoek Hohe | 22°34'55.44'S                      | 17°6'25.03'E                       |                              102.3 | Vertical                           |                                250 | Khomas |
@@ -648,4 +606,4 @@ Communications Regulatory Authority of Namibia: Frequency Channeling Plan in Res
 | Windhoek Hohe | 22°34'55.44'S                      | 17°6'25.03'E                       |                               95.3 | Vertical                           |                                500 | Khomas |
 | Windhoek Hohe | 22°34'55.44'S                      | 17°6'25.03'E                       |                               89.0 | Vertical                           |                                500 | Khomas |
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

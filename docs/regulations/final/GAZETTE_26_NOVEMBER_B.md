@@ -5,17 +5,14 @@ As per section 99 of the Communications Act, 2009 the Authority is vested with t
 
 To this end the Authority has developed a spectrum assignment strategy setting out the Authority's objectives for spectrum management and providing clarity in respect of the Authority's approach to the control, planning, administration and licensing of radio spectrum.
 
-
 ## GOVERNMENT GAZETTE
 
 ## OF THE REPUBLIC OF NAMIBIA
 
 | N$6.00         | WINDHOEK - 26 November 2018                                                                             | No. 6776       |
 |----------------|---------------------------------------------------------------------------------------------------------|----------------|
-| CONTENTS       | CONTENTS                                                                                                | CONTENTS       |
-|                |                                                                                                         | Page           |
 | GENERAL NOTICE | GENERAL NOTICE                                                                                          | GENERAL NOTICE |
-| No. 673        | Communications Regulatory Authority of Namibia: Spectrum Assignment Strategy .......................... | 1              |
+| No. 673        | Communications Regulatory Authority of Namibia: Spectrum Assignment Strategy   | 1              |
 | General Notice | General Notice                                                                                          | General Notice |
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
@@ -35,7 +32,7 @@ The said strategy will form the basis for review of the Authority's spectrum reg
 
 ## 2. OBJECTIVES
 
-Radio  Frequency  Spectrum  is  a  limited  national  resource  that  is  critical  in  providing  backbone, distribution, and last mile solutions for commercial, civil, public, community, security, and personal communication services.  It therefore requires prudent management to ensure equitable access and efficient utilisation to meet the communication needs of all stakeholders. Spectrum management takes place within a regulatory framework comprised of strategy, legislation, regulations and procedures.
+Radio Frequency Spectrum is a limited national resource that is critical in providing backbone, distribution, and last mile solutions for commercial, civil, public, community, security, and personal communication services. It therefore requires prudent management to ensure equitable access and efficient utilisation to meet the communication needs of all stakeholders. Spectrum management takes place within a regulatory framework comprised of strategy, legislation, regulations and procedures.
 
 Authority will fulfil its role in management of spectrum with the following objectives in mind-
 
@@ -63,9 +60,9 @@ Entry level broadband shall mean to have the following definitions:
 
 ## 3. ATTAINING RURAL CONNECTIVITY
 
-Spectrum  is  the  cornerstone  to  provide  telecommunications  and  broadcasting  services  to  rural communities  in  all  regions  of  Namibia.  To  this  end  the  Authority  will  consider  assignment  of spectrum subject to licence conditions including but not limited to rollout obligations as appropriate to the spectrum licence band applied for to attain rural connectivity as per the aforementioned targets set by the SADC ICT ministers as well as the achieving the targets set out in the Harambee Prosperity Plan listed below-
+Spectrum is the cornerstone to provide telecommunications and broadcasting services to rural communities in all regions of Namibia. To this end the Authority will consider assignment of spectrum subject to licence conditions including but not limited to rollout obligations as appropriate to the spectrum licence band applied for to attain rural connectivity as per the aforementioned targets set by the SADC ICT ministers as well as the achieving the targets set out in the Harambee Prosperity Plan listed below-
 
-- (i) 80% broadband connections and usage to all primary  and secondary schools in Namibia to allow e-learning by 2020
+- (i) 80% broadband connections and usage to all primary and secondary schools in Namibia to allow e-learning by 2020
 - (ii) Broadband connections and usage to 70% of the health facilities in Namibia to allow e-health by 2020
 - (iii) 100% broadband connections and usage to all public sector agencies in Namibia to allow for e-governance by 2020
 - (iv) 100% coverage by digital TV and radio broadcast to all households by 2020
@@ -74,7 +71,7 @@ Spectrum  is  the  cornerstone  to  provide  telecommunications  and  broadcasti
 
 The International Telecommunication Union (ITU) divided the world in three regions with Africa forming part of Region 1 together with mainly Western Europe and the Russian Federation. Thus the Authority will allocate radio spectrum in line with regulations and guidelines issued by the ITU for Region 1 and the Frequency Band Plan for Namibia as published in the Gazette will be based on the spectrum allocations of ITU Region 1.
 
-The Frequency Band Plan for Namibia sets out what radio services can use which frequencies as well as the pre-conditions of use as applicable.  The Authority is vested with the power to prescribe a frequency band plan in respect of any part of the radio frequency spectrum (Section 100(1) of the Communications Act, 2009). The Authority will review the frequency band plan, at least every four (4) years based on the outcomes of the ITU World Radio Conference and subsequent ITU regulations. The Authority will amend frequency band allocations and regulations as required following due regulatory process.
+The Frequency Band Plan for Namibia sets out what radio services can use which frequencies as well as the pre-conditions of use as applicable. The Authority is vested with the power to prescribe a frequency band plan in respect of any part of the radio frequency spectrum (Section 100(1) of the Communications Act, 2009). The Authority will review the frequency band plan, at least every four (4) years based on the outcomes of the ITU World Radio Conference and subsequent ITU regulations. The Authority will amend frequency band allocations and regulations as required following due regulatory process.
 
 Where spectrum licensees are required to migrate to new frequencies as a result of a new Frequency Band Plan coming into effect, the Authority will address each migration on a case-by-case basis in accordance with the Regulations Setting-Out Spectrum Licencing procedures.
 
@@ -86,7 +83,7 @@ The Authority has commenced with development of frequency channelling plans in a
 
 ## 5.1.1 The spectrum band 694-790 MHz (700 band)
 
-The spectrum band 694-790 MHz (700 band) has been allocated to IMT services as per Resolution 223  at  WRC-15.  In  addition  thereto,  member  states  are  required  to  reserve  spectrum  in  the aforementioned band for PPDR services using IMT technologies in terms of Resolution 646 (Rev. WRC-15).
+The spectrum band 694-790 MHz (700 band) has been allocated to IMT services as per Resolution 223 at WRC-15. In addition thereto, member states are required to reserve spectrum in the aforementioned band for PPDR services using IMT technologies in terms of Resolution 646 (Rev. WRC-15).
 
 Work is currently in progress at CRASA and SADC level to propose frequency channel arrangements to include PPDR services using IMT technologies in the 700 band for consideration at an international level at the ITU Radio Assembly scheduled for November 2019(RA-19).
 
@@ -94,7 +91,7 @@ The Authority is participating in the process and is cognisant of any possible i
 
 ## 5.1.2 The spectrum band 1427-1518 MHz (1500 band)
 
-The  spectrum  band 1427-1518  MHz  (1500  band) has  been  allocated  to  IMT  services  as  per Resolution 223 at WRC-15. Work is currently in progress at CRASA and SADC level to propose frequency channel arrangements for consideration at an international level at the ITU Radio Assembly scheduled for November 2019(RA-19).
+The spectrum band 1427-1518 MHz (1500 band) has been allocated to IMT services as per Resolution 223 at WRC-15. Work is currently in progress at CRASA and SADC level to propose frequency channel arrangements for consideration at an international level at the ITU Radio Assembly scheduled for November 2019(RA-19).
 
 The Authority will commence with a public consultation process for assignment of the aforementioned spectrum, licensing procedures and spectrum fees in 2020 based on the outcomes of RA-19.
 
@@ -116,7 +113,7 @@ The Authority will commence with a public consultation process for assignment of
 
 The Authority is planning for implementation of digital sound broadcasting in accordance with the technical standards and regulatory framework guidelines approved by the SADC ICT Ministers in September 2017.
 
-To Authority intends implementation of the Digital Audio Broadcasting (DAB) technology in the VHF III band from 174-230 MHz in accordance with the ITU GE06 agreement signed by Namibia in 2007. Implementation of DAB will provide for twelve broadcasting channels on a single frequency ensuring  more  efficient  use  of  spectrum  and  better  audio  quality  to  provide  radio  broadcasting services going forward.
+To Authority intends implementation of the Digital Audio Broadcasting (DAB) technology in the VHF III band from 174-230 MHz in accordance with the ITU GE06 agreement signed by Namibia in 2007. Implementation of DAB will provide for twelve broadcasting channels on a single frequency ensuring more efficient use of spectrum and better audio quality to provide radio broadcasting services going forward.
 
 The frequency channelling plan will be finalised following a public consultation process in respect of available frequencies for assignment, licensing procedures, licence conditions and spectrum fees.
 
@@ -134,17 +131,17 @@ The frequency channeling plan will be finalised following a public consultation 
 
 The Authority has published the frequency channeling plans for 694-790 MHz (700 band) and 790862 MHz (800 band) in Government Gazette No, 6160, General Notice No. 423 dated 28 October 2016.
 
-The Authority intends to make the aforementioned spectrum bands available for telecommunications services using IMT technologies after conclusion of its review of regulations in respect of spectrum licensing procedures, spectrum licence conditions and spectrum fee for the aforementioned bands.  It is foreseen that these spectrum bands will be considered for assignment in blocks of 2 x 10 MHz to ensure equitable spectrum distribution between telecommunications service licensees in the 800 and 700 band respectively The abovementioned spectrum bands will be open for application following the publication of a formal notice in the Gazette in 2019.
+The Authority intends to make the aforementioned spectrum bands available for telecommunications services using IMT technologies after conclusion of its review of regulations in respect of spectrum licensing procedures, spectrum licence conditions and spectrum fee for the aforementioned bands. It is foreseen that these spectrum bands will be considered for assignment in blocks of 2 x 10 MHz to ensure equitable spectrum distribution between telecommunications service licensees in the 800 and 700 band respectively The abovementioned spectrum bands will be open for application following the publication of a formal notice in the Gazette in 2019.
 
 ## 7. UTILISATION OF SPECTRUM LICENCE EXEMPT FREQUENCIES
 
-The utilisation of licence exempt frequencies is subject to the Regulations regarding Licence Exempt Spectrum  as  published  in  the  Government  Gazette  by  the  Authority  from  time  to  time.  These regulations indicate spectrum bands, types of devices, maximum radiated power of field strength limits and channel spacing as well as relevant standards and any additional requirements for use of radio apparatus within these spectrum bands.
+The utilisation of licence exempt frequencies is subject to the Regulations regarding Licence Exempt Spectrum as published in the Government Gazette by the Authority from time to time. These regulations indicate spectrum bands, types of devices, maximum radiated power of field strength limits and channel spacing as well as relevant standards and any additional requirements for use of radio apparatus within these spectrum bands.
 
 Use of radio apparatus within these bands must at all times comply with the following conditions-
 
-- i) All radio apparatus must be type approved by the Authority in accordance with section 80 of  the  Communications Act and Regulations in respect of Type Approval and Technical Standards for Telecommunications Equipment as published in the Government from time to time;
+- i) All radio apparatus must be type approved by the Authority in accordance with section 80 of the Communications Act and Regulations in respect of Type Approval and Technical Standards for Telecommunications Equipment as published in the Government from time to time;
 2. ii) The frequencies, transmitting power and external high-gain antenna of the radio apparatus must not be altered without a new type approval certificate being issued by the Authority;
-3. iii) The radio apparatus must be operated within, and not exceed, the technical parameters set out  in  the  Table  of  Radio  Frequency  Spectrum  Licence  Exemptions  as  contained  in  the Regulations regarding Licence Exempt Spectrum;
+3. iii) The radio apparatus must be operated within, and not exceed, the technical parameters set out in the Table of Radio Frequency Spectrum Licence Exemptions as contained in the Regulations regarding Licence Exempt Spectrum;
 
 - iv) The antenna of the radio apparatus must not be higher or above average ground level than the lowest point of the place where the radio apparatus operate effectively;
 - v) The radio apparatus must not cause interference to any person issued with a spectrum licence by the Authority; and
@@ -154,25 +151,25 @@ All telecommunications and broadcasting service licensees operating within the s
 
 CRASA and SADC is current considering the inclusion of SRDs to provide eLTE-IoT services in the 865-868 MHz spectrum band on a spectrum licence exempt basis subject to imposition of technical conditions in respect of power output, maximum occupied bandwidth and spectrum access and mitigation requirements. A final decision will be made in this regard after WRC-19.
 
-Licence exempt spectrum bands in Namibia comply with ITU Region 1 regulations. Any operation of radio apparatus operating in breach of the said regulations constitutes a regulatory offense, as this equipment is capable of causing harmful interference to licensed services in Namibia. The Authority will  take  all  measures  as  provided  for  by  section  102  of  the  Act  to  prevent  usage  of  such  radio apparatus.
+Licence exempt spectrum bands in Namibia comply with ITU Region 1 regulations. Any operation of radio apparatus operating in breach of the said regulations constitutes a regulatory offense, as this equipment is capable of causing harmful interference to licensed services in Namibia. The Authority will take all measures as provided for by section 102 of the Act to prevent usage of such radio apparatus.
 
 ## 8. SPECTRUM ASSIGNMENT
 
-Harmonisation in the  use  of  radio  spectrum  is  crucial  to  ensure  amongst  others,  interoperability between systems and networks, facilitating frequency coordination between countries and establishing international systems.
+Harmonisation in the use of radio spectrum is crucial to ensure amongst others, interoperability between systems and networks, facilitating frequency coordination between countries and establishing international systems.
 
-The  Authority,  assumes  full  responsibility  for  spectrum  assignment  based  on  the  principles  of independent decision-making and is thus impartial with respect to all market players with the aim to promote competition and provision of services in rural and urban areas on an equal basis, to ensure that sufficient spectrum is available to provide services highly valued by end users and meet public safety and security requirements and enforce the efficient use of a scarce resource. Assignment of spectrum will be conducted as set out below -
+The Authority, assumes full responsibility for spectrum assignment based on the principles of independent decision-making and is thus impartial with respect to all market players with the aim to promote competition and provision of services in rural and urban areas on an equal basis, to ensure that sufficient spectrum is available to provide services highly valued by end users and meet public safety and security requirements and enforce the efficient use of a scarce resource. Assignment of spectrum will be conducted as set out below -
 
-- i) Any  spectrum  band  which  is  vacant  or  has  become  vacant  as  a  result  of  migration  to other spectrum bands at the instruction of the Authority will not be open for application until  so  designated  by  the  Authority.  The  Authority  will  issue  a  public  notice  informing all stakeholders that the spectrum band is being opened up for use, set out the method for awarding of spectrum licences in the said spectrum band and state all applicable spectrum fees;
+- i) Any spectrum band which is vacant or has become vacant as a result of migration to other spectrum bands at the instruction of the Authority will not be open for application until so designated by the Authority. The Authority will issue a public notice informing all stakeholders that the spectrum band is being opened up for use, set out the method for awarding of spectrum licences in the said spectrum band and state all applicable spectrum fees;
 2. ii) A spectrum licence is awarded on a right-to-use basis in accordance with the Communications Act and does not confer ownership rights to the recipient of a spectrum licence.
-3. iii) No service licensee will be assigned more spectrum than necessary and the Authority may impose caps on the amount of spectrum to be assigned to a single licensee to ensure fair and equitable assignment of spectrum to all service licensees. Hoarding of spectrum and speculative  acquisition  of  spectrum  are  not  conducive  to  efficient  spectrum  use  and  the objects of the Act. The Authority shall not tolerate these practices at any time and will cancel such spectrum licences after giving due notice to the licensee in question;
+3. iii) No service licensee will be assigned more spectrum than necessary and the Authority may impose caps on the amount of spectrum to be assigned to a single licensee to ensure fair and equitable assignment of spectrum to all service licensees. Hoarding of spectrum and speculative acquisition of spectrum are not conducive to efficient spectrum use and the objects of the Act. The Authority shall not tolerate these practices at any time and will cancel such spectrum licences after giving due notice to the licensee in question;
 4. iv) The award of spectrum licences will be done in strict adherence to the Frequency Band Plan of Namibia and associated frequency channeling plans published by the Authority from
 
 time to time. The Authority will not accept any application that does not comply with the Frequency Band Plan of Namibia;
 
-- v) All proposed spectrum licences except service licence exempt service licence categories, will  be  published  for  public  comments  before  being  awarded  to  the  applicant  subject  to approval by the Authority's Board of Directors;
+- v) All proposed spectrum licences except service licence exempt service licence categories, will be published for public comments before being awarded to the applicant subject to approval by the Authority's Board of Directors;
 2. vi) Regulations and/or notices in regard to spectrum licences are published in the Government Gazette following pre-described regulatory processes and public consultations as and when required. The purpose is to enable the public to submit comment on the spectrum licence under consideration by the Authority. Public comments received by the Authority will be taken into consideration based only on its technical and legal merits.
 3. vii) Applications for spectrum licences submitted by entities that does not require a telecommunications or broadcasting service licence will be considered on a first-come-firstserve basis in accordance with the regulatory process set out in the Regulations Setting Out Spectrum Licensing Procedures as published by the Authority from time to time.
-4. viii) Application  for  spectrum  licences  by  service  licences  to  be  utilised  for  provision  of telecommunications and broadcasting services will be considered through the application of a hybrid model allowing the Authority to follow an administrative and/or flexible-rights of use approach to consider the spectrum licence based on the spectrum band applied for, the conditions to be attached to the spectrum licence, the duration of the spectrum licence and the market value of the spectrum. The relevant regulatory processes is set out in the Regulations Setting Out Spectrum Licensing Procedures as published by the Authority from time to time.
+4. viii) Application for spectrum licences by service licences to be utilised for provision of telecommunications and broadcasting services will be considered through the application of a hybrid model allowing the Authority to follow an administrative and/or flexible-rights of use approach to consider the spectrum licence based on the spectrum band applied for, the conditions to be attached to the spectrum licence, the duration of the spectrum licence and the market value of the spectrum. The relevant regulatory processes is set out in the Regulations Setting Out Spectrum Licensing Procedures as published by the Authority from time to time.
 5. ix) The Authority may award a spectrum licence limiting the utilisation thereof to a specific geographical area or to implement licensed shared access allowing for sharing of spectrum, when more than one service has been allocated on a co-primary basis in the same spectrum band as per the Frequency Band Plan of Namibia.
 
 ## 9. SPECTRUM LICENCE CONDITIONS
@@ -195,11 +192,11 @@ All spectrum licences awarded by the Authority will be subject to conditions as 
 - (xiii) Amendment, renewal or modification of spectrum licences; and
 - (xiv) Revocation of spectrum licences.
 
-Any  breach  of  the  said  conditions  will  constitute  a  regulatory  offense  leading  to  imposition  of penalties or the cancellation of the spectrum licence by the Authority.
+Any breach of the said conditions will constitute a regulatory offense leading to imposition of penalties or the cancellation of the spectrum licence by the Authority.
 
 ## 10. SPECTRUM PRICING
 
-The  Authority  is  cognisant  of  the  fact  that  spectrum  is  a  limited  resource  and  that  the  value  of spectrum is affected by a combination of technical, socio-economic and fiscal factors as applicable to each spectrum band allocated to one or more services in the frequency band plan.
+The Authority is cognisant of the fact that spectrum is a limited resource and that the value of spectrum is affected by a combination of technical, socio-economic and fiscal factors as applicable to each spectrum band allocated to one or more services in the frequency band plan.
 
 Going forward the Authority will base spectrum fees taking into consideration -
 
@@ -209,7 +206,7 @@ Going forward the Authority will base spectrum fees taking into consideration -
 - (iv) The level of demand for spectrum in a given spectrum band;
 - (v) Consumer demand for services;
 - (vi) Impact of inflation based on annual consumer price indexes as published from time to time;
-- (vii) Prevention  of  spectrum  hoarding  resulting  in  a  negative  impact  on  the  competition  and growth of the ICT sector; and
+- (vii) Prevention of spectrum hoarding resulting in a negative impact on the competition and growth of the ICT sector; and
 - (viii) Full cost recovery of costs incurred by the Authority in executing its mandate as set out in the Communications Act given that the Authority is not funded in any way by the Namibian Government.
 
 In the event that spectrum is assigned through a spectrum auction the applicable spectrum fees will be determined through the outcome of the bidding process.
@@ -218,19 +215,19 @@ In the event that spectrum is assigned through a spectrum auction the applicable
 
 In order to limit the administrative burden for both the Authority and entities applying for spectrum licences, the Authority will not charge any application fees in respect of spectrum licences.
 
-The Authority  will  apply  a  recurring  annual  spectrum  fee,  payable  in  advance,  in  respect  of  all spectrum licences.
+The Authority will apply a recurring annual spectrum fee, payable in advance, in respect of all spectrum licences.
 
 ## 10.2 Administrative Spectrum Fees
 
 The Authority will apply an administrative approach in setting spectrum fees in respect of amateur radio services, aeronautical services, maritime services and inmarsat satellite services.
 
-Spectrum licences in respect of the aforementioned services will be charged annually at a flat fee as set out in the spectrum fee regulations as published in the Gazette . These spectrum fees will be subject  to  inflationary  increases  as  determined  by  the  Authority  from  time  to  time  upon  regular review of the spectrum fee regulations.
+Spectrum licences in respect of the aforementioned services will be charged annually at a flat fee as set out in the spectrum fee regulations as published in the Gazette . These spectrum fees will be subject to inflationary increases as determined by the Authority from time to time upon regular review of the spectrum fee regulations.
 
 Further thereto, the aforementioned spectrum fees will be payable in advance for each calendar year. Non-payment of spectrum fees by the due date as indicated on the spectrum invoices will result in revocation of the spectrum licence by the Authority.
 
 ## 10.3 Incentive-based Spectrum Fees
 
-The  Authority  will  apply  an  incentive-based  approach  in  setting  spectrum  fees  in  respect  of  all spectrum not subject to a flat  fee  as  set  out  in  7.2.  The  application  of  incentive-based  spectrum pricing will allow to the Authority to set spectrum fees based on factors such as -
+The Authority will apply an incentive-based approach in setting spectrum fees in respect of all spectrum not subject to a flat fee as set out in 7.2. The application of incentive-based spectrum pricing will allow to the Authority to set spectrum fees based on factors such as -
 
 - (i) Bandwidth assigned to a licence;
 - (ii) Increasing or decreasing coverage areas;
@@ -241,13 +238,13 @@ The  Authority  will  apply  an  incentive-based  approach  in  setting  spectru
 - (vii) Rural or urban utilisation of assigned spectrum; and
 - (viii) Transmitter effective radiated power.
 
-The  Authority  will  apply  an  incentive-based  pricing  approach  to  radio  communication  services, mobile  services,  fixed  services,  broadcasting  services  and  land  mobile  services.  The  applicable spectrum fee in respect of the service to be provided will be formula based as set out in the spectrum fee regulations.
+The Authority will apply an incentive-based pricing approach to radio communication services, mobile services, fixed services, broadcasting services and land mobile services. The applicable spectrum fee in respect of the service to be provided will be formula based as set out in the spectrum fee regulations.
 
 The Authority is of the opinion that the introduction of incentive based spectrum pricing will provide the necessary incentives to facilitate efficient use of spectrum by licensees.
 
 ## 10.4 Spectrum Auctions
 
-In  the  event  that  the  Authority  determines  that  spectrum  will  be  assigned  to  interested  licensees through an auction process, the applicable spectrum fees will be determined by the outcome of the bidding process.
+In the event that the Authority determines that spectrum will be assigned to interested licensees through an auction process, the applicable spectrum fees will be determined by the outcome of the bidding process.
 
 ## 11. RE-ASSIGNMENT AND RE-FARMING OF SPECTRUM
 
@@ -262,9 +259,9 @@ Spectrum licences are awarded on a 'right-to-use' basis in accordance with the C
 
 ## 11.2 Re-Farming of spectrum to deploy latest technologies
 
-The Authority has implemented a service and technology neutral service licence regime that allow licensees  to  provide  services  utilising  a  variety  of  technologies  without  the  need  to  amend  their existing service licence or apply for an additional service licence.
+The Authority has implemented a service and technology neutral service licence regime that allow licensees to provide services utilising a variety of technologies without the need to amend their existing service licence or apply for an additional service licence.
 
-Spectrum  licences  are  awarded  in  accordance  with  the  frequency  band  plan  and  subject  to  the conditions attached to each spectrum licence. Thus the operator may re-farm its existing use of a frequency band to ensure higher efficiency in spectrum usage or occupancy to the benefit of the end user by implementing new technologies to provide new services provide that -
+Spectrum licences are awarded in accordance with the frequency band plan and subject to the conditions attached to each spectrum licence. Thus the operator may re-farm its existing use of a frequency band to ensure higher efficiency in spectrum usage or occupancy to the benefit of the end user by implementing new technologies to provide new services provide that -
 
 - (i) The change in service and/or technology complies with the spectrum allocations as set out in the frequency band plan of Namibia; and
 - (ii) That the licensee has applied for amendment of the licence and/or licence conditions attached to its spectrum licence and approval from the Authority in this regard prior to deployment of the new service and/or technology.
@@ -285,4 +282,4 @@ The Authority will consider the review of the frequency band plan of Namibia and
 
 ## F. KISHI CHAIRPERSON COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

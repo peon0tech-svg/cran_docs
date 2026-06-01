@@ -1,7 +1,6 @@
 
 N$18.00
 
-
 ## GOVERNMENT GAZETTE
 
 ## OF THE
@@ -18,7 +17,7 @@ No. 6322
 
 ## REGULATIONS SETTING OUT FEES FOR SPECTRUM LICENCES, CERTIFICATES AND EXAMINATIONS
 
-The Communications Regulatory Authority of Namibia, in terms of section 38(5), 101 and 129 of the Communications Act, 2009 (Act No. 8 of 2009) and the 'Regulations regarding Rule-Making Procedures: Communications Act, 2009', published as No. 334 in Government Gazette No. 4630 dated  17  December  2010,  hereby  publishes  these  'Regulations  Setting  Out  Fees  for  Spectrum Licences, Certificates and Examinations' effective from the date of publication in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms of section 38(5), 101 and 129 of the Communications Act, 2009 (Act No. 8 of 2009) and the 'Regulations regarding Rule-Making Procedures: Communications Act, 2009', published as No. 334 in Government Gazette No. 4630 dated 17 December 2010, hereby publishes these 'Regulations Setting Out Fees for Spectrum Licences, Certificates and Examinations' effective from the date of publication in the Gazette .
 
 ## Definitions
 
@@ -36,7 +35,7 @@ The Communications Regulatory Authority of Namibia, in terms of section 38(5), 1
 
 'rural areas' means all geographical areas within the borders of the Republic of Namibia excluding those geographical areas identified as urban areas in the definition of 'urban areas' in this regulation;
 
-'satellite  news  gathering'  means  temporary  and  occasional  transmission  with  short  notice  of television or sound for broadcasting purposes using portable or transportable uplink earth stations operating in the framework of a fixed satellite service;
+'satellite news gathering' means temporary and occasional transmission with short notice of television or sound for broadcasting purposes using portable or transportable uplink earth stations operating in the framework of a fixed satellite service;
 
 'the Act' means the Communications Act, 2009 (Act No. 8 of 2009);
 
@@ -44,11 +43,11 @@ The Communications Regulatory Authority of Namibia, in terms of section 38(5), 1
 
 'UHF' means ultrahigh frequency being the ITU designation for radio waves between 300 MHz and 3 GHz; and
 
-'urban areas' means any location within the geographical area of the following local authority areas as declared under section 3 of the Local Authorities Act, 1992 (Act No. 23 of 1992): Katima Mulilo, Swakopmund,  Mariental,  Keetmanshoop,  Rundu,  Nkurenkuru,  Windhoek,  Opuwo,  Eenhana, Gobabis, Outapi, Oshakati, Omuthiya, Otjiwarongo, Walvis Bay, Henties Bay, Omaruru, Okahandja, Grootfontein,  Outjo,  Tsumeb,  Karasburg,  Lüderitz  (!Nami≠nüs),  Oranjemund,  Arandis,  Karibib, Usakos,  Aranos,  Rehoboth,  Khorixas,  Helao  Nafidi,  Okahao,  Oshikuku,  Ruacana,  Ondangwa, Ongwediva, Oniipa, Okakarara and Otavi.
+'urban areas' means any location within the geographical area of the following local authority areas as declared under section 3 of the Local Authorities Act, 1992 (Act No. 23 of 1992): Katima Mulilo, Swakopmund, Mariental, Keetmanshoop, Rundu, Nkurenkuru, Windhoek, Opuwo, Eenhana, Gobabis, Outapi, Oshakati, Omuthiya, Otjiwarongo, Walvis Bay, Henties Bay, Omaruru, Okahandja, Grootfontein, Outjo, Tsumeb, Karasburg, Lüderitz (!Nami≠nüs), Oranjemund, Arandis, Karibib, Usakos, Aranos, Rehoboth, Khorixas, Helao Nafidi, Okahao, Oshikuku, Ruacana, Ondangwa, Ongwediva, Oniipa, Okakarara and Otavi.
 
 ## Table containing fees relating to spectrum use
 
-2. (1)    As  specified  in  regulations  6(1)  and  (2)  of  the  Regulations  Setting  Out Licence Conditions for Spectrum Use Licences, the authorisation to utilise spectrum expires on 31 December of every calendar year and application must be made for the renewal thereof two months prior to 31 December of each year.
+2. (1) As specified in regulations 6(1) and (2) of the Regulations Setting Out Licence Conditions for Spectrum Use Licences, the authorisation to utilise spectrum expires on 31 December of every calendar year and application must be made for the renewal thereof two months prior to 31 December of each year.
 - (2) The Table below specifies the following fees as payable to the Authority:
 3. (a) Annual and other fees payable with regard to the authorisation to utilise spectrum stipulated in a spectrum licence;
 4. (b) fees payable with regard to a certificate contemplated in section 101 of the Act;
@@ -58,16 +57,16 @@ The Communications Regulatory Authority of Namibia, in terms of section 38(5), 1
 
 during the same year, such licence or the authorisation to utilise spectrum in terms of such licence, expired, are forfeited, lapsed or are discontinued for whatever reason:
 
-- (i) Items  1.1  (all  classes  of  amateur  radio  spectrum  licences),  1.2  (amateur radio beacon), 1.4 (amateur radio guest or special event spectrum licence) and 1.5 (amateur radio repeater station);
+- (i) Items 1.1 (all classes of amateur radio spectrum licences), 1.2 (amateur radio beacon), 1.4 (amateur radio guest or special event spectrum licence) and 1.5 (amateur radio repeater station);
 - (ii) items 2.1 (aeronautical aircraft station), 2.2 (aeronautical glider/microlight), 2.3 (aeronautical ground station), 2.4 (aeronautical navigation aids/beacons) and 2.5 (aeronautical operator certificate radiotelephony (including duplicate));
-- (iii) items  3.1  (maritime  beacon),  3.2  (operator  certificate  radiotelephony (including duplicate)), 3.3.1 (ship station ITU assigned frequencies), 3.3.2 (any additional ship station VHF or HF frequencies), 3.4.1 (coast station ITU assigned frequencies), 3.4.2 (any additional coast station VHF or HF frequencies) and 3.4.3 (coast station yacht and ski-boat stations);
+- (iii) items 3.1 (maritime beacon), 3.2 (operator certificate radiotelephony (including duplicate)), 3.3.1 (ship station ITU assigned frequencies), 3.3.2 (any additional ship station VHF or HF frequencies), 3.4.1 (coast station ITU assigned frequencies), 3.4.2 (any additional coast station VHF or HF frequencies) and 3.4.3 (coast station yacht and ski-boat stations);
 - (iv) item 4.2.1 (base mobile station 27/29 MHz band (including CB band));
 - (v) item 10.2 (competency certificate for radios above 400 Watt);
-- (b) the fees set out in item 8.4 of the Table below for a mobile or fixed satellite news gathering station spectrum licence, is a monthly fee (irrespective whether a calendar month or a consecutive period of 30 days,  the latter which, for  purposes of this paragraph (b), is deemed to be a month) and -
+- (b) the fees set out in item 8.4 of the Table below for a mobile or fixed satellite news gathering station spectrum licence, is a monthly fee (irrespective whether a calendar month or a consecutive period of 30 days, the latter which, for purposes of this paragraph (b), is deemed to be a month) and -
 - (i) the full monthly fee is payable per month or part thereof (thus irrespective if only used for a part of a month);
-- (ii) if the month when the spectrum licence is issued falls into two annual  years for which different fees are prescribed, the lower fee applies to that month; and
-- (iii) if  the  spectrum  licence  holder  wishes  to  continue  to  use  the  spectrum, application for renewal must be made prior to end of the relevant month or months for which such licence was issued;
-- (c) the fees set out in items 9.4.1 and 9.4.2 of the Table below for a spectrum licence relating  to  a  special  event  broadcast  with  a  maximum  of  10  Watt  or  for  outside broadcasting vehicle links, respectively, are once off non-refundable fees payable per event for which a spectrum licence is issued, as specified in the Table.
+- (ii) if the month when the spectrum licence is issued falls into two annual years for which different fees are prescribed, the lower fee applies to that month; and
+- (iii) if the spectrum licence holder wishes to continue to use the spectrum, application for renewal must be made prior to end of the relevant month or months for which such licence was issued;
+- (c) the fees set out in items 9.4.1 and 9.4.2 of the Table below for a spectrum licence relating to a special event broadcast with a maximum of 10 Watt or for outside broadcasting vehicle links, respectively, are once off non-refundable fees payable per event for which a spectrum licence is issued, as specified in the Table.
 
 ## TABLE
 
@@ -176,16 +175,16 @@ during the same year, such licence or the authorisation to utilise spectrum in t
 
 ## Application of fees and general provisions
 
-3. (1)        (a)        Where  an  annual  fee  specified  in  the  Table  above,  for  whatever reason, is not payable in respect of a whole calendar year, the fee to be paid or to be refunded must be apportioned according to the relevant number of months for which payment is made.
+3. (1) (a) Where an annual fee specified in the Table above, for whatever reason, is not payable in respect of a whole calendar year, the fee to be paid or to be refunded must be apportioned according to the relevant number of months for which payment is made.
 2. (b) For purposes of paragraph (a), a part of a month is regarded as a full month.
 3. (c) Irrespective of the actual amount contemplated in paragraph (a), the minimum fee payable is N$ 60.00, excluding photocopies.
 4. (d) This sub-regulation is subject to regulation 2(3).
-- (2) The  Authority  may  not  issue  a  spectrum  licence,  or  a  certificate,  or  renew  the authorisation to utilise spectrum stipulated in a spectrum licence, or a certificate, unless the relevant fee as set out in the Table above is paid to the Authority.
+- (2) The Authority may not issue a spectrum licence, or a certificate, or renew the authorisation to utilise spectrum stipulated in a spectrum licence, or a certificate, unless the relevant fee as set out in the Table above is paid to the Authority.
 - (3) A spectrum licence is issued, and the right to utilise spectrum is authorised, subject to the Regulations Setting Out Licence Conditions for Spectrum Use Licences.
 
 ## Commencement of these Regulations
 
-4. (1)  Subject  to  sub-regulation  (2),  these  Regulations  will  become  effective  on  1 January 2018.
+4. (1) Subject to sub-regulation (2), these Regulations will become effective on 1 January 2018.
 - (2) A person or a spectrum licensee who applies in 2017 for a spectrum licence, or to renew the authorisation to utilise spectrum for the ensuing calendar year as contemplated in regulation 6(1) and (2) of the Regulations Setting Out Licence Conditions for Spectrum Use Licences, must pay the relevant fee set out in these Regulations by the due date for payment notwithstanding that such due date may be on or prior to 1 January 2018.
 - (3) Sub-regulation (2) applies in the same manner, but with the necessary changes, to certificates contemplated in items 2.5, 3.2 and 10.2 of the Table above.
 

@@ -9,24 +9,17 @@ No. 7300
 
 Page
 
-Communications Regulatory Authority of Namibia: Proposed Frequency Channeling Plan in Respect of Digital Sound Broadcasting: Communications Act, 2009  .................................................................
+Communications Regulatory Authority of Namibia: Proposed Frequency Channeling Plan in Respect of Digital Sound Broadcasting: Communications Act, 2009 
 
 ## General Notices
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-4
-
-2020
 
 ## PROPOSED FREQUENCY CHANNELLING PLAN IN RESPECT OF DIGITAL SOUND BROADCASTING: COMMUNICATIONS ACT, 2009
 
 The Communications Regulatory Authority of Namibia in terms of section 100(1) read with section 129 of the Communications Act, 2009 (Act No. 8 of 2009), prescribes the Frequency Channelling Plan in respect of Digital Sound Broadcasting set out in the Schedule.
 
 H. M. GAOMAB II CHAIRPERSON OF THE BOARD
-
-COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
 
 ## GOVERNMENT GAZETTE OF THE
 
@@ -42,9 +35,6 @@ WINDHOEK - 7 August 2020
 |--------------------|----|----|----|----|----|----|
 | Reference Planning |    |    |    |    |    |    |
 |                    | A  | B  | D  | D  | D  | D  |
-
-| 7300   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | Government Gazette 7 August 2020   | 3                |
-|--------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------|
 | Item   | Plan                               | Service Type                       | Transmitter Name                   | Frequency kHz)                     | ERP (kW)                           | System                             | Longitu de                         | Latitu de        |
 | 1      | GE75                               | LF/MF                              | Tsumeb                             | 594                                | 398.107                            | Digital                            | 19° 10' 12'S                       | 17° 22' 48'E     |
 | 2      | GE75                               | LF/MF                              | Mariental                          | 675                                | 57.544                             | Digital                            | 24° 22' 12'S                       | 17° 34' 48'E     |

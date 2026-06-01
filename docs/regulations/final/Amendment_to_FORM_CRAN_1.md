@@ -1,7 +1,6 @@
 
 N$11.20
 
-
 ## GOVERNMENT GAZETTE
 
 ## OF THE
@@ -18,31 +17,29 @@ Page
 
 | GENERALNOTICES   | GENERALNOTICES                                                                                                                                                                                                                                                                                                                                                                                                                      |    |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| No. 10           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Mobile Telecommunications Limited (MTC) ....................................................................................................................................................                                                                                |  2 |
-| No. 11           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Com- munications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Salt Essential IT (Pty) Ltd ..............................................................................                                                                                                        |  3 |
-| No. 12           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: Converged Telecommunications Solutions (Pty) Ltd ..............................................                                                                                                                 |  6 |
-| No. 13           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: MWireless (Pty) Ltd t/a Africa Online .....................................................................                                                                                                     |  8 |
-| No. 14           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: MWireless (Pty) Ltd t/a Africa Online .....................................................................                                                                                                     | 10 |
-| No. 15           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: Paratus Telecommunications (Pty) Ltd ....................................................................                                                                                                       | 12 |
-| No. 16           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: De Beers Marine Namibia ....................                                                                                                                                                                                                                                | 15 |
-| No. 17           | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommu- nications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation ..................................................................................................... | 17 |
-| No. 18           | Communications Regulatory Authority of Namibia: Notice of amendment of applications from: Telecommunications Service Licences of the Regulations Prescribing Forms for Applications: Com- munications Act, 2009 ...........................................................................................................................                                                                                         | 19 |
+| No. 10           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Mobile Telecommunications Limited (MTC)                                                                                  |  2 |
+| No. 11           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Com- munications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Salt Essential IT (Pty) Ltd                                                                                                          |  3 |
+| No. 12           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: Converged Telecommunications Solutions (Pty) Ltd                                                                                                                   |  6 |
+| No. 13           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: MWireless (Pty) Ltd t/a Africa Online                                                                                                       |  8 |
+| No. 14           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: MWireless (Pty) Ltd t/a Africa Online                                                                                                       | 10 |
+| No. 15           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: Paratus Telecommunications (Pty) Ltd                                                                                                         | 12 |
+| No. 16           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: De Beers Marine Namibia                                                                                                                                                                                                                                  | 15 |
+| No. 17           | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommu- nications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation   | 17 |
+| No. 18           | Communications Regulatory Authority of Namibia: Notice of amendment of applications from: Telecommunications Service Licences of the Regulations Prescribing Forms for Applications: Com- munications Act, 2009                                                                                           | 19 |
 
-No. 19 Communications Regulatory Authority of Namibia: Notice of intention to amend the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2009   ............................................................................
+No. 19 Communications Regulatory Authority of Namibia: Notice of intention to amend the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2009 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 ## General Notices
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-2016
-
 No. 10
 
 ## NOTICE IN TERMS OF THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  of  Section  53(10)  of  the Communications Act,  2009  (Act  No.  8  of  2009)  read  with  regulation  8(1)  of  the  'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that Mobile Telecommunications Limited (MTC) has filed tariffs with the Authority as set out in Schedule 1.
+The Communications Regulatory Authority of Namibia, in terms of Section 53(10) of the Communications Act, 2009 (Act No. 8 of 2009) read with regulation 8(1) of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that Mobile Telecommunications Limited (MTC) has filed tariffs with the Authority as set out in Schedule 1.
 
 Any person may examine copies of the tariffs submitted at the head offices of the Authority during normal business hours and copies may be made on payment of a fee determined by the Authority. Copies are also available at www.cran.na where copies may be downloaded free of charge.
 
@@ -54,15 +51,13 @@ All written submissions must contain the name and contact details of the person 
 
 All written submissions and reply comments must be made either physically or electronically -
 
-- (1) by  hand  to  the  head  offices  of  the Authority,  namely  Communication  House,  56  Robert Mugabe Avenue, Windhoek;
+- (1) by hand to the head offices of the Authority, namely Communication House, 56 Robert Mugabe Avenue, Windhoek;
 - (2) by post to the head offices of the Authority, namely Private Bag 13309, Windhoek 9000;
 - (3) by electronic mail to the following address: legal@cran.na; and
 - (4) by facsimile to the following facsimile number: +264 61 222790.
 - (5) by fax to e-mail to: 0886550852
 
 L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-22
 
 No. 11
 
@@ -96,17 +91,13 @@ No. 11
 | New MTC   |     329.00 | 3 GB                       |                       0.11 |                       60 |
 | New MTC   |     999.00 | 15 GB                      |                       0.07 |                       60 |
 
-Please  note  that  the  full  tariff  submission  including  the  terms  and  conditions  and  the  remedies available to the consumers can be obtained from the Authority
+Please note that the full tariff submission including the terms and conditions and the remedies available to the consumers can be obtained from the Authority
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-2016
+---
 
 ## NOTICE IN TERMS OF SECTION 53 (7) OF THE COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009) READ WITH THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  section  53(1)  and  (7)  of  the Communications Act  read  with  regulation  8  of  the  'Regulations  Regarding  the  Submission  of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved the amendment of tariffs as submitted by Salt Essential IT (Pty) Ltd , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms section 53(1) and (7) of the Communications Act read with regulation 8 of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved the amendment of tariffs as submitted by Salt Essential IT (Pty) Ltd , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
 
 ## THE FOLLOWING ARE THE REASONS FOR THE DECISION:
 
@@ -146,7 +137,7 @@ The increase in tariffs requested was 10%. The average inflation rate for the pe
 
 In monetary terms, these increases are not high even though they seem high in percentage terms. The tariffs are not deemed anti-competitive and are not unreasonably discriminatory in that:
 
-1. They  do  not  prevent,  restrict  or  distort  competition  in  the  market  for  the  supply  of telecommunications;
+1. They do not prevent, restrict or distort competition in the market for the supply of telecommunications;
 2. There is no abuse of individual or collective dominant position by Salt for the supply of telecommunications in respect hereof;
 3. There is no restrictive practice or activity whose anti-competitive effects outweigh its procompetitive effective.
 
@@ -155,7 +146,7 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 1. All pertinent information as required by section 53(7) was submitted to the Authority in that Salt filed the tariff in the prescribed manner with the Authority for approval.
 2. All pertinent information as required by section 53(9) was submitted to the Authority such as:
 3. 2.1 The rates and charges for services, including all deposits, non-recurring charges and monthly charges;
-4. 2.2 The terms and conditions applicable to the provision of services by Salt, including rights  and  remedies  available  to  customers  in  the  event  of  unauthorized  charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
+4. 2.2 The terms and conditions applicable to the provision of services by Salt, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
 3. The date of implementation was indicated as 1 November 2015 (which date is not less than 60 days from the date of the filling of the tariff) as required by section 53(8) of the Act. On the 11 th September 2015 the Authority send a letter to Salt requesting additional information to which Salt Essential responded on 29 September 2015. The date of implementation therefore changed to 1 December 2015.
 
 ## 4. DECISION
@@ -164,17 +155,13 @@ The Authority herewith approves the proposed tariffs for Salt Essential IT (Pty)
 
 L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 No. 12
 
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-2016
-
 NOTICE IN TERMS OF SECTION 53 (7) OF THE COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009) READ WITH THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  section  53(1)  and  (7)  of  the Communications Act  read  with  regulation  8  of  the  'Regulations  Regarding  the  Submission  of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Broadband Wireless as submitted by Converged Telecommunications Solutions (Pty) Ltd , which came into force and effect on 15 December 2015, notwithstanding date of publication of the notice in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms section 53(1) and (7) of the Communications Act read with regulation 8 of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Broadband Wireless as submitted by Converged Telecommunications Solutions (Pty) Ltd , which came into force and effect on 15 December 2015, notwithstanding date of publication of the notice in the Gazette .
 
 ## THE FOLLOWING ARE THE REASONS FOR THE DECISION:
 
@@ -219,11 +206,11 @@ Table 2: Tariff Comparison
 | CTS           | WIMAX Busi- ness | 100GB      | 1024/2048                      |                  1,950.00 | 12 months         |
 | Africa Online | WIMAX            | 60 GB      | 1024/2048                      |                  3,499.00 | 12 months         |
 
-The  tariffs  were  compared  with  WiMAX  tariffs  from  Paratus  Telecommunications  (Pty)  Ltd, previously submitted tariffs for CTS and MWireless (Pty) Ltd t/a Africa Online. The comparisons are difficult since the tariffs are based on different up- and download speeds and the Paratus Telecom tariffs  are  valid  for  a  24-month  contract  period.   All  the  other  products  are  capped  whereas  this product has unlimited data usage.
+The tariffs were compared with WiMAX tariffs from Paratus Telecommunications (Pty) Ltd, previously submitted tariffs for CTS and MWireless (Pty) Ltd t/a Africa Online. The comparisons are difficult since the tariffs are based on different up- and download speeds and the Paratus Telecom tariffs are valid for a 24-month contract period. All the other products are capped whereas this product has unlimited data usage.
 
 The tariffs are not deemed anti-competitive and are not unreasonably discriminatory in that:
 
-1. They  do  not  prevent,  restrict  or  distort  competition  in  the  market  for  the  supply  of telecommunications;
+1. They do not prevent, restrict or distort competition in the market for the supply of telecommunications;
 2. There is no abuse of individual or collective dominant position by CTS for the supply of telecommunications in respect hereof;
 3. There is no restrictive practice or activity whose anti-competitive effects outweigh its procompetitive effective.
 
@@ -232,7 +219,7 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 1. All pertinent information as required by section 53(7) was submitted to the Authority in that CTS filed the tariff in the prescribed manner with the Authority for approval.
 2. All pertinent information as required by section 53(9) was submitted to the Authority such as:
 3. 2.1 The rates and charges for services, including all deposits, non-recurring charges and monthly charges; and
-4. 2.2 The terms and conditions applicable to the provision of services by CTS, including rights  and  remedies  available  to  customers  in  the  event  of  unauthorized  charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
+4. 2.2 The terms and conditions applicable to the provision of services by CTS, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
 3. The date of implementation was indicated as 15 December 2015 (which date is not less than 60 days from the date of the filling of the tariff) as required by section 53(8) of the Act.
 
 ## 4. DECISION
@@ -241,15 +228,13 @@ The Authority herewith approved the proposed tariffs for broadband wireless netw
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+---
 
 ## No. 13 2016
 
 ## NOTICE IN TERMS OF SECTION 53 (7) OF THE COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009) READ WITH THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  section  53(1)  and  (7)  of  the Communications Act  read  with  regulation  8  of  the  'Regulations  Regarding  the  Submission  of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Nawagate product as submitted by MWireless (Pty) Ltd t/a Africa Online , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms section 53(1) and (7) of the Communications Act read with regulation 8 of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Nawagate product as submitted by MWireless (Pty) Ltd t/a Africa Online , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
 
 ## THE FOLLOWING ARE THE REASONS FOR THE DECISION:
 
@@ -263,7 +248,7 @@ The proposed tariffs were published as General Notice No. 516 in the Government 
 
 Comments were invited from the public, in terms of the Notice published in the Gazette , within a period of fourteen (14) days from the date of publication of the Notice in the Gazette , which period lapsed on 16 November 2015.
 
-No public comments were received in respect of the tariffs as published during the commenting period, and as such no reply comments were required from AOL.  The date of commencement of the  tariffs  was  25  November  2015.  On  the  24 th   of  November 2015, the Authority postponed the implementation date to 18 th December 2015 to afford the Authority an opportunity to consider the reasonableness of the tariffs.
+No public comments were received in respect of the tariffs as published during the commenting period, and as such no reply comments were required from AOL. The date of commencement of the tariffs was 25 November 2015. On the 24 th of November 2015, the Authority postponed the implementation date to 18 th December 2015 to afford the Authority an opportunity to consider the reasonableness of the tariffs.
 
 ## 3. FINANCIAL AND ECONOMIC ANALYSIS OF THE MWIRELESS (PTY) LTD T/A AFRICA ONLINE NAWAGATE TARIFF
 
@@ -282,7 +267,7 @@ Table 1: Proposed Tariffs
 No other product offering could be found to compare this product to. Most firewall solutions are offered as part of packages e. g. by Telecom Namibia to their business customers when hosting email and websites. There are also many open access software available for this type of service.
 
 - The tariffs are not deemed anti-competitive and are not unreasonably discriminatory in that:
-- a) They  do  not  prevent,  restrict  or  distort  competition  in  the  market  for  the  supply  of telecommunications;
+- a) They do not prevent, restrict or distort competition in the market for the supply of telecommunications;
 - b) There is no abuse of individual or collective dominant position by Africa Online for the supply of telecommunications in respect hereof;
 - c) There is no restrictive practice or activity whose anti-competitive effects outweigh its procompetitive effective.
 
@@ -292,11 +277,11 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 - b) All pertinent information as required by section 53(9) was submitted to the Authority such as:
 - c) The rates and charges for services, including all deposits, non-recurring charges and monthly charges;
 
-The terms and conditions applicable to the provision of services by Africa Online, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over  billing  or  the  provision  of  services,  and  any  other  information  requested  by  the Authority pursuant to this section.
+The terms and conditions applicable to the provision of services by Africa Online, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
 
 - The date of implementation was indicated as 10 October 2015 (which date is 60 days from the date of the filling of the tariff) as required by section 53(8) of the Act. On 2 September 2015 the Authority send a letter to Africa Online requesting additional information to which Africa Online responded on 25 September. The date of implementation therefore changed to 25 November 2015.
 
-- The Authority postponed the date of commencement of the tariff with 22 days in terms of section 53(13) of the Act to examine the reasonableness of the tariff to 18 th  December 2015.
+- The Authority postponed the date of commencement of the tariff with 22 days in terms of section 53(13) of the Act to examine the reasonableness of the tariff to 18 th December 2015.
 
 ## 4. DECISION
 
@@ -304,17 +289,13 @@ The Authority herewith approved the proposed tariffs for Nawagate as submitted b
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-2016
+---
 
 No. 14
 
 ## NOTICE IN TERMS OF SECTION 53 (7) OF THE COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009) READ WITH THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  section  53(1)  and  (7)  of  the Communications Act  read  with  regulation  8  of  the  'Regulations  Regarding  the  Submission  of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Nawaspot product as submitted by MWireless (Pty) Ltd t/a Africa Online , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms section 53(1) and (7) of the Communications Act read with regulation 8 of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for Nawaspot product as submitted by MWireless (Pty) Ltd t/a Africa Online , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
 
 ## THE FOLLOWING ARE THE REASONS FOR THE DECISION:
 
@@ -328,7 +309,7 @@ The proposed tariffs were published as General Notice No. 515 in the Government 
 
 Comments were invited from the public, in terms of the Notice published in the Gazette , within a period of fourteen (14) days from the date of publication of the Notice in the Gazette , which period lapsed on 16 November 2015.
 
-No public comments were received in respect of the tariffs as published during the commenting period, and as such no reply comments were required from AOL.  The date of commencement of the tariffs was indicated as 25 November 2015. On 24 November 2015, the Authority postponed the implementation date to 18 December 2015 to afford the Authority an opportunity to consider the reasonableness of the tariffs.
+No public comments were received in respect of the tariffs as published during the commenting period, and as such no reply comments were required from AOL. The date of commencement of the tariffs was indicated as 25 November 2015. On 24 November 2015, the Authority postponed the implementation date to 18 December 2015 to afford the Authority an opportunity to consider the reasonableness of the tariffs.
 
 ## 3. FINANCIAL AND ECONOMIC ANALYSIS OF THE MWIRELESS (PTY) LTD T/A AFRICA ONLINE NAWASPOT TARIFF
 
@@ -351,7 +332,7 @@ Since this is a device that will be rented on a monthly basis no comparative pri
 
 The tariffs are not deemed anti-competitive and are not unreasonably discriminatory in that:
 
-1. They  do  not  prevent,  restrict  or  distort  competition  in  the  market  for  the  supply  of telecommunications;
+1. They do not prevent, restrict or distort competition in the market for the supply of telecommunications;
 2. There is no abuse of individual or collective dominant position by AOL for the supply of telecommunications in respect hereof;
 3. There is no restrictive practice or activity whose anti-competitive effects outweigh its procompetitive effective.
 
@@ -360,7 +341,7 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 1. All pertinent information as required by section 53(7) was submitted to the Authority in that AOL filed the tariff in the prescribed manner with the Authority for approval.
 2. All pertinent information as required by section 53(9) was submitted to the Authority such as:
 3. 2.1 The rates and charges for services, including all deposits, non-recurring charges and monthly charges; and
-4. 2.2 The terms and conditions applicable to the provision of services by AOL, including rights  and  remedies  available  to  customers  in  the  event  of  unauthorized  charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
+4. 2.2 The terms and conditions applicable to the provision of services by AOL, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
 3. The date of implementation was indicated as 5 October 2015 (which date is not less than 60 days from the date of the filling of the tariff) as required by section 53(8) of the Act. On 9 September 2015 the Authority sent a letter to AOL requesting additional information to
 
 No. 15
@@ -375,15 +356,11 @@ The Authority herewith approved the proposed tariffs for Nawaspot as submitted b
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
-2016
+---
 
 ## NOTICE IN TERMS OF SECTION 53 (7) OF THE COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009) READ WITH THE REGULATIONS REGARDING THE SUBMISSIONS OF INTERCONNECTION AGREEMENTS AND TARIFFS
 
-The  Communications  Regulatory  Authority  of  Namibia,  in  terms  section  53(1)  and  (7)  of  the Communications Act  read  with  regulation  8  of  the  'Regulations  Regarding  the  Submission  of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for YUR SAT packages as submitted by Paratus Telecommunications (Pty) Ltd ,  which came into force and effect on 18  December 2015, notwithstanding date of publication of the notice in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms section 53(1) and (7) of the Communications Act read with regulation 8 of the 'Regulations Regarding the Submission of Interconnection Agreements and Tariffs', in Government Gazette No. 4714, Notice No. 126, dated 18 May 2011, herewith gives notice that it has approved tariffs for YUR SAT packages as submitted by Paratus Telecommunications (Pty) Ltd , which came into force and effect on 18 December 2015, notwithstanding date of publication of the notice in the Gazette .
 
 ## THE FOLLOWING ARE THE REASONS FOR THE DECISION:
 
@@ -459,13 +436,13 @@ The retail prices are Telecom Namibia's uncapped VSAT offering by 94%.
 
 As Paratus Telecom is not a dominant operator they thus are not required to offer reseller discounts according to section 51(2) of the Act. The 10% discount offered is thus voluntary.
 
-VSAT  services  are  further  offered  by  three  other  licensees  (Africa  Online,  MTN  and  Telecom Namibia) - all based on their own infrastructure. This service segment is thus sufficiently competitive and  therefore  the Authority  does  not  have  to  intervene  on  wholesale  prices.  The  bi-annual  data submission by operators for June 2015 further indicated that Telecom Namibia is the main provider of VSAT services in Namibia with 337 subscribers. SALT was the only other licensee indicating that it had VSAT subscribers.
+VSAT services are further offered by three other licensees (Africa Online, MTN and Telecom Namibia) - all based on their own infrastructure. This service segment is thus sufficiently competitive and therefore the Authority does not have to intervene on wholesale prices. The bi-annual data submission by operators for June 2015 further indicated that Telecom Namibia is the main provider of VSAT services in Namibia with 337 subscribers. SALT was the only other licensee indicating that it had VSAT subscribers.
 
 The Authority therefore resolved to approve both retail and wholesale prices. Wholesale prices may be reviewed at a later stage should complaints be raised by access seeking licensees and if Telecom is found to be dominant for VSAT services. The latter would require a review of market definitions and defining VSAT services as a separate market.
 
 The tariffs are not deemed anti-competitive and are not unreasonably discriminatory in that:
 
-1. They  do  not  prevent,  restrict  or  distort  competition  in  the  market  for  the  supply  of telecommunications;
+1. They do not prevent, restrict or distort competition in the market for the supply of telecommunications;
 2. There is no abuse of individual or collective dominant position by Paratus Telecom for the supply of telecommunications in respect hereof; and
 3. There is no restrictive practice or activity whose anti-competitive effects outweigh its procompetitive effects.
 
@@ -477,11 +454,9 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 
 No. 16
 
-2016
-
 NOTICE IN TERMS OF THE REGULATIONS REGARDING LICENSING PROCEDURES FOR TELECOMMUNICATIONS AND BROADCASTING SERVICE LICENCES AND SPECTRUM USE LICENCES
 
-The Communications Regulatory  Authority of Namibia, in terms of section 101 of the Communications Act, 2009 (Act No. 8 of 2009) read with regulations 6 and of regulation 11 of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences', in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011, herewith gives notice that  the  person  referred  to  in  the  table  below  has  submitted  the  following applications to the Authority:
+The Communications Regulatory Authority of Namibia, in terms of section 101 of the Communications Act, 2009 (Act No. 8 of 2009) read with regulations 6 and of regulation 11 of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences', in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011, herewith gives notice that the person referred to in the table below has submitted the following applications to the Authority:
 
 - 2.2 The terms and conditions applicable to the provision of services by Paratus Telecom, including rights and remedies available to customers in the event of unauthorized charges or other disputes or claims over billing or the provision of services, and any other information requested by the Authority pursuant to this section.
 3. All pertinent information as required by section 53(18) was submitted to the Authority such as:
@@ -494,9 +469,7 @@ The Authority herewith approves the proposed tariffs for new YUR SAT Products as
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+---
 
 Spectrum Use Licence Applications
 
@@ -521,18 +494,14 @@ All written submissions and reply comments must be made either physically or ele
 - (1) By hand to the head offices of the Authority, namely Communication House, 56 Robert Mugabe Avenue, Windhoek;
 - (2) By post to the head offices of the Authority, namely Private Bag 13309, Windhoek 9000;
 - (3) By electronic mail to the following address: legal@cran.na;
-- (4) By facsimile to the following facsimile number:  +264 61 222790; or
+- (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 088642748.
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+---
 
 No.17
-
-2016
 
 NOTICE TO WITHDRAW SPECTRUM USE LICENCE IN TERMS OF REGULATIONS 10 AND 11 OF THE REGULATIONS REGARDING LICENSING PROCEDURES FOR TELECOMMUNICATIONS AND BROADCASTING SERVICE LICENCES AND SPECTRUM USE LICENCES, COMMUNICATIONS ACT (ACT NO. 8 OF 2009)
 
@@ -563,7 +532,7 @@ All written submissions must -
 
 All written submissions must be send or submitted in any of the following manners-
 
-- a) by  hand  to  the  head  office  of  the Authority,  namely  Communications  House,  56  Robert Mugabe Avenue, Windhoek;
+- a) by hand to the head office of the Authority, namely Communications House, 56 Robert Mugabe Avenue, Windhoek;
 - b) by post to the head office of the Authority, namely Private Bag 13309, Windhoek, 9000;
 - c) by electronic mail to the following address: legal@cran.na;
 - d) by facsimile to the following facsimile number: +264 61 222790; and
@@ -571,17 +540,13 @@ All written submissions must be send or submitted in any of the following manner
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+---
 
 No. 18
 
-2016
-
 NOTICE OF AMENDMENT OF APPLICATION FORM: TELECOMMUNICATIONS SERVICE LICENCE OF THE REGULATIONS PRESCRIBING FORMS FOR APPLICATIONS, COMMUNICATIONS ACT (ACT NO. 8 OF 2009)
 
-The Communications Regulatory  Authority of Namibia, in terms of section 129 of the Communications Act  (No.8  of  2009)  and  the  'Regulations  Regarding  Rule  Making  Procedures'  as  published  in Government Gazette No. 4630, General Notice No. 334 dated 17 December 2010, hereby publishes the amendment of 'Regulations Prescribing Forms for applications' in respect of Form CRAN 1 (Application Form: Telecommunications Service Licence) as published in Government Gazette No. 5269 General Notice No. 328, effective from the date of publication in the Gazette .
+The Communications Regulatory Authority of Namibia, in terms of section 129 of the Communications Act (No.8 of 2009) and the 'Regulations Regarding Rule Making Procedures' as published in Government Gazette No. 4630, General Notice No. 334 dated 17 December 2010, hereby publishes the amendment of 'Regulations Prescribing Forms for applications' in respect of Form CRAN 1 (Application Form: Telecommunications Service Licence) as published in Government Gazette No. 5269 General Notice No. 328, effective from the date of publication in the Gazette .
 
 ## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
@@ -589,7 +554,7 @@ The Communications Regulatory  Authority of Namibia, in terms of section 129 of 
 
 ## Application Form: Telecommunications Service Licence
 
-In terms of Regulation 4 of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences published in Government Gazette No.  4785,  General  Notice  No.  272  of  29  August  2011,  a  person  intending  to  provide  a  class telecommunications service is required to complete this application for a class telecommunications service licence.
+In terms of Regulation 4 of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences published in Government Gazette No. 4785, General Notice No. 272 of 29 August 2011, a person intending to provide a class telecommunications service is required to complete this application for a class telecommunications service licence.
 
 After completing the form in full, sign it and submit it to the Authority as required by Regulation 4, along with the relevant application fee or proof that the application fee has been paid to the Authority.
 
@@ -650,13 +615,13 @@ Provide any other information you believe might be relevant to the Authority in 
 
 - A certified copy of the Identity document of the Applicant and members of the Board of Directors should accompany this Application Form
 
-- If  an  authorized  agent  completes  the Application  on  behalf  of  the Applicant,  such  agent should submit, with the Application Form, a power of attorney, which authorizes him or her to lodge the application on behalf of the applicant.
+- If an authorized agent completes the Application on behalf of the Applicant, such agent should submit, with the Application Form, a power of attorney, which authorizes him or her to lodge the application on behalf of the applicant.
 
 - The Authority may request further information or documentation, which must be provided to the Authority in the time and the manner set out by the Authority.
 
-Signed by  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in  his/her  capacity  as  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,  duly  authorised  and warranting such authority and warranting that the information provided herein is true and correct, on the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_\_\_\_\_.
+Signed by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in his/her capacity as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, duly authorised and warranting such authority and warranting that the information provided herein is true and correct, on the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_\_\_\_\_.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 Signature
 
@@ -668,13 +633,9 @@ Signature
 | Place     |
 | Signature |
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+---
 
 No. 19
-
-2016
 
 ## NOTICE OF INTENTION TO AMEND THE REGULATIONS REGARDING LICENSING PROCEDURES FOR TELECOMMUNICATIONS AND BROADCASTING SERVICE LICENCES AND SPECTRUM USE LICENCES, COMMUNICATIONS ACT, 2009 (ACT NO. 8 OF 2009)
 
@@ -694,7 +655,7 @@ All written submissions must -
 
 All written submissions must be send or submitted in any of the following manners-
 
-- a) by  hand  to  the  head  office  of  the Authority,  namely  Communications  House,  56  Robert Mugabe Avenue, Windhoek;
+- a) by hand to the head office of the Authority, namely Communications House, 56 Robert Mugabe Avenue, Windhoek;
 
 - b) by post to the head office of the Authority, namely Private Bag 13309, Windhoek, 9000;
 - c) by electronic mail to the following address: legal@cran.na;
@@ -721,16 +682,16 @@ The Communications Regulatory Authority of Namibia, in terms of section 40 read 
 8. (iii) telephone number(s);
 9. (iv) facsimile number (s); and
 10. (v) electronic mail address(es);
-11. (c) set  out  full  details  of  all  ownership  interests  in  the  applicant,  including the  identity  and  nationality  of  ownership  interests  and  if  the  holders  of ownership interests are juristic persons, full details of the board of directors or other governing body and of all their ownership interests;
+11. (c) set out full details of all ownership interests in the applicant, including the identity and nationality of ownership interests and if the holders of ownership interests are juristic persons, full details of the board of directors or other governing body and of all their ownership interests;
 
 - (d) set out the full details of foreign ownership interests in the applicant;
 - (e) set out a complete, accurate and concise statement of the network facilities to be provided, including a description and diagram of any network to be constructed, operated or used;
-- (f) indicate  the  physical  address(es)  where  network  facilities  are  located  or would be located in case of new network facilities still to be implemented including geographical locations up to seconds;
+- (f) indicate the physical address(es) where network facilities are located or would be located in case of new network facilities still to be implemented including geographical locations up to seconds;
 - (g) indicate the description, make and model of relevant equipment and attach the specifications and type approval certificates
 - (h) attach to the application a five (5) year business plan inclusive of market analysis, growth forecasts, funding and financial resource and expertise but not limited thereto;
-- (i) indicate full details of any ownership interest held in existing telecommunications or broadcasting service licences by the applicant and if  the  applicant  is  a  juristic  person,  by  the  persons  who  hold  ownership interests in the applicant; and
+- (i) indicate full details of any ownership interest held in existing telecommunications or broadcasting service licences by the applicant and if the applicant is a juristic person, by the persons who hold ownership interests in the applicant; and
 - (j) include any other information the applicant believes might be relevant to the Authority in considering the applications.
-- (3) The class  network  facilities  service  licence  application  must  be  accompanied  by a spectrum use licence application if the applicant intends to use spectrum in the provision of network facilities.
+- (3) The class network facilities service licence application must be accompanied by a spectrum use licence application if the applicant intends to use spectrum in the provision of network facilities.
 - (4) The Authority may request further information or documentation, which must be provided to the Authority in the time and manner set out by the Authority.
 
 ## ANNEXURE A
@@ -789,15 +750,15 @@ Set out a complete, accurate and concise statement of the network facilities you
 
 1. Indicate the physical address(es) where network facilities are located or would be located in case of new network facilities still to be implemented. Include geographical locations up to seconds
 
-2. Indicate  the  description,  the  make  and  model  of  relevant  equipment.  Attached  the specifications and type approval certificates
+2. Indicate the description, the make and model of relevant equipment. Attached the specifications and type approval certificates
 
 ## H. FINANCIAL RESOURCES
 
-Attach  a  five  (5)  year  business  plan  inclusive  of  market  analysis,  growth  forecasts,  funding  and financial resources and expertise but not limited thereto.
+Attach a five (5) year business plan inclusive of market analysis, growth forecasts, funding and financial resources and expertise but not limited thereto.
 
 ## I. CO-OWNERSHIP DETAILS
 
-Indicate full details of any ownership interest held in existing telecommunications or broadcasting services  licences  by  the  applicant  and  if  the  applicant  is  a  juristic  person,  by  persons  who  hold ownership interest in the applicant.
+Indicate full details of any ownership interest held in existing telecommunications or broadcasting services licences by the applicant and if the applicant is a juristic person, by persons who hold ownership interest in the applicant.
 
 ## J. ANY OTHER INFORMATION
 
@@ -806,13 +767,13 @@ Provide any other information you believe might be relevant to the Authority in 
 ## PLEASE NOTE:
 
 - A certified copy of the Identity document of the Applicant and members of the Board of Directors should accompany this Application Form
-- If  an  authorized  agent  completes  the Application  on  behalf  of  the Applicant,  such  agent should submit, with the Application Form, a power of attorney, which authorizes him or her to lodge the application on behalf of the applicant.
+- If an authorized agent completes the Application on behalf of the Applicant, such agent should submit, with the Application Form, a power of attorney, which authorizes him or her to lodge the application on behalf of the applicant.
 
 - The Authority may request further information or documentation, which must be provided to the Authority in the time and the manner set out by the Authority.
 
-Signed  by  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  at  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_in  his/ her capacity as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, duly authorised and warranting such  authority  and  warranting  that  the  information  provided  herein  is  true  and  correct,  on  the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_\_\_\_\_.
+Signed by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_in his/ her capacity as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, duly authorised and warranting such authority and warranting that the information provided herein is true and correct, on the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_\_\_\_\_.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 Signature
 
@@ -834,4 +795,4 @@ The purpose of the amendment of the proposed Regulations is to align it with dev
 
 - (a) Insertion of a new regulations after existing regulations 4 setting out all documentation and information to be submitted to the Authority together with the application form provided by the Authority for consideration thereof when applying for a class Network Facilities.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
