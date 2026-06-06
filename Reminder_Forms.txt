@@ -2,3 +2,263 @@ Gazette 5983:
 - Annexure A: Form CRAN12 Application Form: Number Licence
 - Annexure B: Form CRAN13 Application to Transfer Number Licence
 - Annexure C: Form CRAN14 Application to Withdraw Number Licence
+
+Gazette/Doc 6035:
+- ANNEXURE A
+- Form CRAN 15 Application Form: Network Facilities Service Licence
+
+Gazette/Doc 5269:
+- Form CRAN 1
+- Form CRAN 2
+- Form CRAN 3
+- Form CRAN 4
+- Form CRAN 5
+- Form CRAN 6
+- Form CRAN 7
+- Form CRAN 8
+- Form CRAN 9
+- Form CRAN 10
+- Form CRAN 11
+
+Gazette/Doc 6886:
+- ANNEXURE A
+
+Gazette/Doc 8611:
+- ANNEXURE C
+
+Gazette/Doc 7344:
+- ANNEXURE B RADIO APPARAUS EXEMPT FROM SPECTRUM LICENSE
+
+Gazette/Doc 8384:
+- ANNEXURE A
+- ANNEXURE B
+
+Gazette/Doc 7961:
+- ANNEXURE D
+- ANNEXURE E
+
+Gazette/Doc 8000:
+- ANNEXURE A
+- ANNEXURE A ANNUAL IMPLEMENTATION PLAN
+
+Gazette/Doc 8405:
+- ANNEXURE D Regulation 39 (e) CHARGEABLE FEE
+- ANNEXURE E
+
+Gazette/Doc 7860:
+- ANNEXURE A
+- ANNEXURE B
+
+Gazette/Doc 7289:
+- ANNEXURE A FORM A1
+- ANNEXURE A FORM A2
+- ANNEXURE A FORM A3
+- ANNEXURE B FORM B1
+- ANNEXURE B FORM B2
+- ANNEXURE B FORM B3
+- ANNEXURE C FORM C1
+- ANNEXURE C FORM C2
+- ANNEXURE C FORM C3
+- ANNEXURE D
+
+Gazette/Doc 7162:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+- ANNEXURE D
+- ANNEXURE E
+- ANNEXURE F
+- ANNEXURE G
+- ANNEXURE H
+
+Gazette/Doc 7445:
+- ANNEXURE A FORM A1
+- ANNEXURE A FORM A2
+- ANNEXURE A FORM A3
+- ANNEXURE B FORM B1
+- ANNEXURE B
+- ANNEXURE B FORM B3
+- ANNEXURE C FORM C1
+- ANNEXURE C FORM C2
+- ANNEXURE C FORM C3
+
+Gazette/Doc 8841:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+- ANNEXURE D
+
+Gazette/Doc 7559:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+- ANNEXURE D
+- ANNEXURE E
+
+Gazette/Doc 6931:
+- Annexure A: mTC Spectra business Tariffs
+- Annexure b: mTC Spectra Home Tariffs
+
+Gazette/Doc 5037:
+- ANNEXURE A
+
+Gazette/Doc 7909:
+- ANNEXURE D
+- ANNEXURE E
+
+Gazette/Doc 8002:
+- Annexure A - Index to Forms 1 to 5
+- Annexure B - Telecommunications equipment exempted from type approval
+- Annexure C - Fees
+- ANNEXURE A
+- ANNEXURE B COMMUNICATION REGULATORY AUTHORITY TELECOMMUNICATIONS EQUIPMENT EXEMPTED FROM TYPE APPROVAL Regulation 16
+- ANNEXURE C FEES
+
+Gazette/Doc 5947:
+- FORM CRAN 1
+- ANNEXURE A
+- Form CRAN 15
+
+Gazette/Doc 6889:
+- ANNEXURE A
+
+Gazette/Doc 7518:
+- ANNEXURE D
+- ANNEXURE E
+
+Gazette/Doc 6888:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE A
+
+Gazette/Doc 7613:
+- ANNEXURE D
+- ANNEXURE E
+- ANNEXURE B
+
+Gazette/Doc 6479:
+- ANNEXURE I: APPLICATION FORM TO VIEW A TARIFF REGISTER
+
+Gazette/Doc 5983:
+- ANNEXURE A: - Form CRAN12 Application Form: Number Licence
+- ANNEXURE B: - Form CRAN13
+- ANNEXURE C: - Form CRAN14
+
+Gazette/Doc 6668:
+- ANNEXURE I: APPLICATION FORM TO VIEW A TARIFF REGISTER
+
+Gazette/Doc 6802:
+- ANNEXURE A
+- ANNEXURE B
+
+Gazette/Doc 7175:
+- ANNEXURE A
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+
+Gazette/Doc 8251:
+- ANNEXURE A
+- ANNEXURE B
+
+Gazette/Doc 4839:
+- Annexure B - Apparatus exempt from radio frequency spectrum licenses
+
+Gazette/Doc 8060:
+- ANNEXURE B RADIO APPARATUS EXEMPT FROM SPECTRUM LICENSE
+
+Gazette/Doc 7356:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+
+Gazette/Doc 6368:
+- ANNEXURE A
+- ANNEXURE A
+- Annexure A
+
+Gazette/Doc 7962:
+- ANNEXURE B
+
+Gazette/Doc 8610-Gen-N161-31-Mar-2025-Broadcasting-Code:
+- ANNEXURE D
+
+Gazette/Doc 8180-Gen-N494-495-21-Aug-2023:
+- ANNEXURE B DISCUSSION PAPER ON REVIEW OF SPECTRUM FEES FOR CRAN
+- Annexure A- Index to Forms 1 to 5
+- Annexure B- Telecommunications equipment exempted from type approval
+- Annexure C- Fees
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+
+Gazette/Doc 5983_1Apr16:
+- ANNEXURE A: - Form CRAN12 Application Form: Number Licence
+- ANNEXURE B: - Form CRAN13
+- ANNEXURE C: - Form CRAN14
+
+Gazette/Doc AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE:
+- ANNEXURE B RADIO APPARATUS EXEMPT FROM SPECTRUM LICENSE
+
+Gazette/Doc GG_6992_dated_11_Sep_2019:
+- ANNEXURE A
+
+Gazette/Doc 13_JUNE_2016_6035-Gen_N180-182:
+- ANNEXURE A
+- Form CRAN 15 Application Form: Network Facilities Service Licence
+
+Gazette/Doc 5037-Gen_N304-308:
+- ANNEXURE A
+
+Gazette/Doc GG-7359-dated-14-Oct-2020:
+- ANNEXURE A
+
+Gazette/Doc 8611-Gen-N162-31-Mar-2025-QoS:
+- ANNEXURE C
+
+Gazette/Doc 5037-Gen_N304-309:
+- ANNEXURE A
+
+Gazette/Doc 5037-Gen_N304-_NOTICE_310:
+- ANNEXURE A
+
+Gazette/Doc GG_7197_dated_29_April_2020:
+- ANNEXURE A
+- ANNEXURE B
+
+Gazette/Doc Amendment_to_FORM_CRAN_1:
+- FORM CRAN 1
+- ANNEXURE A
+- Form CRAN 15
+
+Gazette/Doc 5269-19_Aug_2013-338:
+- Form CRAN 1
+- Form CRAN 2
+- Form CRAN 3
+- Form CRAN 4
+- Form CRAN 5
+- Form CRAN 6
+- Form CRAN 7
+- Form CRAN 8
+- Form CRAN 9
+- Form CRAN 10
+- Form CRAN 11
+
+Gazette/Doc 5269-Gen_N328-NOTICE_329:
+- Form CRAN 1
+- Form CRAN 2
+- Form CRAN 3
+- Form CRAN 4
+- Form CRAN 5
+- Form CRAN 6
+- Form CRAN 7
+- Form CRAN 8
+- Form CRAN 9
+- Form CRAN 10
+- Form CRAN 11
+
+Gazette/Doc 8730-Gen-N690-692-04-Sep-2025:
+- ANNEXURE A
+- ANNEXURE B
+- ANNEXURE C
+- ANNEXURE D
