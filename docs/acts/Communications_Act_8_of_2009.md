@@ -246,19 +246,19 @@ Equipment relating to interception
 ## Definitions and interpretation
 
 1. (1) In this Act, unless the context indicates otherwise -
-2. 'Association' means the .na Domain Name Association established by section 103;
-3. 'Authority' means the Communications Regulatory Authority of Namibia established by section 4;
-4. 'Board' means the Board of the Authority referred to in section 8;
-5. 'broadcast' means to disseminate electronic communications -
+'Association' means the .na Domain Name Association established by section 103;
+'Authority' means the Communications Regulatory Authority of Namibia established by section 4;
+'Board' means the Board of the Authority referred to in section 8;
+'broadcast' means to disseminate electronic communications -
 - (a) by radio waves if that communications are intended to be received by the public or the subscribers to a particular service, directly or by the intermediary of relay stations; or
 - (b) by any other means if that communications are intended to be received by the public or the subscribers to a particular service and the Authority has after following a rule-making procedure, by regulation prescribed that the specified services are broadcasting services;
-8. 'broadcasting code' means the broadcasting code made in terms of section 89;
-9. 'broadcasting licence' means a broadcasting licence issued in terms of section 85;
-10. 'Chairperson' means the Chairperson of the Board appointed under section 13;
-11. 'class licence' means a telecommunications licence referred to in section 38(1)(c);
-12. 'communications' means electronic communications and communications by means of postal services;
-13. 'customer' means any person who concluded a contract with the provider of telecommunications services for the provision of such services;
-14. 'Director-General' means the Director-General defined in section 1 of the Namibia Central Intelligence Service Act, 1997 (Act No. 10 of 1997);
+'broadcasting code' means the broadcasting code made in terms of section 89;
+'broadcasting licence' means a broadcasting licence issued in terms of section 85;
+'Chairperson' means the Chairperson of the Board appointed under section 13;
+'class licence' means a telecommunications licence referred to in section 38(1)(c);
+'communications' means electronic communications and communications by means of postal services;
+'customer' means any person who concluded a contract with the provider of telecommunications services for the provision of such services;
+'Director-General' means the Director-General defined in section 1 of the Namibia Central Intelligence Service Act, 1997 (Act No. 10 of 1997);
 
 'domestic telecommunications service' means a telecommunications service that both originate and terminate within Namibia;
 
