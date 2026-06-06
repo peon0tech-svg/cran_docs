@@ -1,0 +1,4 @@
+Gazette 5983:
+- Annexure A: Form CRAN12 Application Form: Number Licence
+- Annexure B: Form CRAN13 Application to Transfer Number Licence
+- Annexure C: Form CRAN14 Application to Withdraw Number Licence
