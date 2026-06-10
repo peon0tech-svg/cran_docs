@@ -297,6 +297,9 @@ Gazette/Doc 6798:
 Gazette/Doc 6885:
 - CRAM: FORM 1 MEDIATION NOTICE
 
+Gazette/Doc 6750:
+- ANNEXURE 2 TYPE APPROVAL FEES
+
 Gazette/Doc 6773:
 - CRAN: FORM 1 - Application Form: Designated Postal Operator License
 - CRAN: FORM 2 - Application Form: Private Postal Service License
