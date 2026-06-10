@@ -307,3 +307,7 @@ Gazette/Doc 6773:
 - CRAN: FORM 4 - Application Form: Transfer of Postal Service License
 - CRAN: FORM 5 - Application Form: Amendment of Postal Service License
 - CRAN: FORM 6 - Reconsideration Form
+
+Gazette/Doc 5557:
+- ANNEXURE A
+- ANNEXURE B
