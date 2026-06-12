@@ -107,12 +107,14 @@ Gazette/Doc 7909:
 - ANNEXURE E
 
 Gazette/Doc 8002:
-- Annexure A - Index to Forms 1 to 5
-- Annexure B - Telecommunications equipment exempted from type approval
-- Annexure C - Fees
-- ANNEXURE A
-- ANNEXURE B COMMUNICATION REGULATORY AUTHORITY TELECOMMUNICATIONS EQUIPMENT EXEMPTED FROM TYPE APPROVAL Regulation 16
-- ANNEXURE C FEES
+- Form 1: Application Form Telecommunications Equipment Type Approval
+- Form 2: Application for Renewal of Type Approval Certificate
+- Form 3: Application for Temporary Import of Telecommunication Equipment
+- Form 4: Application in respect of Telecommunications Equipment Previously Type Approved
+- Form 5: Reconsideration Form
+- Annexure A: Index to Forms 1 to 5
+- Annexure B: Telecommunications Equipment Exempted from Type Approval
+- Annexure C: Fees
 
 Gazette/Doc 5947:
 - FORM CRAN 1
