@@ -1,0 +1,583 @@
+                       GOVERNMENT GAZETTE
+                                                                  OF THE
+
+                           REPUBLIC OF NAMIBIA
+N$8.80                                         WINDHOEK - 17 September 2025                                                            No. 8742
+
+                                                                 CONTENTS
+                                                                                                                                               Page
+GENERAL NOTICES
+
+No. 719 Communications Regulatory Authority of Namibia: Notice in terms of regulation 4(7) of the Regulations
+        prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer, and Cancellation of
+        Spectrum Licences: Communications Act, 2009 ........................................................................................      1
+
+No. 720 Communications Regulatory Authority of Namibia: Notice in terms of the Regulations regarding the
+        Submissions of Interconnection Agreements and Tariffs: Communications Act, 2009 ..............................                            2
+
+No. 721 Communications Regulatory Authority of Namibia: Notice in terms of the Regulations regarding the
+        Submissions of Interconnection Agreements and Tariffs: Communications Act, 2009 ..............................                            4
+
+No. 722 Communications Regulatory Authority of Namibia: Notice in terms of the Regulations regarding the
+        Submissions of Interconnection Agreements and Tariffs: Communications Act, 2009 .............................                            10
+                                                           ________________
+
+
+                                                      General Notices
+                   COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 719					                                                    						                                                                         2025
+
+      NOTICE IN TERMS OF REGULATION 4(7) OF THE REGULATIONS PRESCRIBING
+      PROCEDURES REGARDING APPLICATION FOR, AND AMENDMENT, RENEWAL,
+              TRANSFER, AND CANCELLATION OF SPECTRUM LICENCES:
+                          COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, in terms of regulation 4(7) of the Regulations
+prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer, and
+Cancellation of Spectrum Licenses, published as General Notice No. 104, in Government Gazette
+No. 6888, on 29 April 2019, herewith gives notice that the applicant referred to in the table below has
+submitted the following application(s) to the Authority:
+2                              Government Gazette 17 September 2025                                 8742
+
+    Applicant’s     Applicant’s    Percentage of   Type of    List of radio   Description        Service
+      Name           citizenship   stock owned     license    frequencies         of              to be
+                     or place of   by Namibian                  or groups     geographic        provided
+                   incorporation    citizens or                  of radio      coverage         using the
+                                    Namibian                  frequencies        areas         frequency
+                                    companies                     being                          applied
+                                    controlled                 considered                          for
+                                   by Namibian                      for
+                                      citizens                assignment
+                                                                  by the
+                                                               Authority
+Terminal              Swiss           100%         Spectrum    3610-3650       Within the      MOBILE
+Investment                                          License        MHz         boundaries       (IMT)
+(Namibia)                                                                     of the port of
+Pty Ltd                                                       BW = 1 x 40      Walvis Bay
+                                                                MHz
+
+                                                                 (TDD)
+
+The public may submit comments in writing to the Authority within a period of fourteen (14) days
+from the date of publication of this notice in the Gazette.
+
+The applicant may submit written reply comments within fourteen (14) days from the due date of the
+written public comments.
+
+All written submissions must contain the name and contact details of the person making the written
+submissions and the name and contact details of the person for whom the written submission is made,
+if different and be clear and concise.
+
+All written submissions and reply comments must be made either physically or electronically –
+
+(1)       by hand to the head offices of the Authority, namely Freedom Plaza, Courtside Building (3rd
+          and 4th Floors), c/o Fidel Castro and Rev. Michael Scott Streets, Windhoek;
+
+(2)       by post to the head offices of the Authority, namely Private Bag 13309, Windhoek, 9000;
+
+(3)       by electronic mail to the following address: licensing@cran.na.
+
+E. NGHIKEMBUA
+CHIEF EXECUTIVE OFFICER
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+                        ________________
+
+                  COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 720										                                                                                    2025
+
+       NOTICE IN TERMS OF THE REGULATIONS REGARDING THE SUBMISSIONS OF
+      INTERCONNECTION AGREEMENTS AND TARIFFS: COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, in terms of section 53(10) of the
+Communications Act, 2009 (Act No. 8 of 2009) read with regulation 8(1) of the Regulations
+regarding the Submission of Interconnection Agreements and Tariffs, published as General Notice
+No. 126, in Government Gazette No. 4714, dated 18 May 2011, herewith gives notice that Blue
+Telecommunications (Pty) Ltd has filed a tariff with the Authority as set out in Schedule 1.
+
+Any person may examine copies of the tariffs submitted at the head offices of the Authority during
+normal business hours and copies may be made on payment of a fee determined by the Authority.
+Copies are also available at www.cran.na where copies may be downloaded free of charge.
+8742                        Government Gazette 17 September 2025                                    3
+
+The public may submit in writing to the Authority written comments within fourteen (14) days from
+the date of publication of this notice in the Gazette.
+
+Blue Telecommunications (Pty) Ltd may submit, in writing to the Authority, a response to any
+written comments within fourteen (14) days from the lapsing of the time to submit written submissions.
+
+All written submissions must contain the name and contact details of the person making the written
+submissions and the name and contact details of the person for whom the written submissions is
+made, if different and be clear and concise.
+
+All written submissions and reply comments must be made either physically or electronically –
+
+(1)     by hand to the head offices of the Authority, namely CRAN @ Freedom Plaza, Courtside
+        Building (3rd and 4th Floors), c/o Fidel Castro and Rev. Michael Scott Streets, Windhoek;
+
+(2)     by post to the head offices of the Authority, namely Private Bag 13309, Windhoek, 9000; or
+
+(3)     by electronic mail to the following address: legal@cran.na or economics@cran.na.
+
+E. NGHIKEMBUA
+CHIEF EXECUTIVE OFFICER
+COMMUNICATIONS REGULATORY AUTHORITY
+
+                                           SCHEDULE 1
+
+                          SUBMISSION OF PROPOSED TARIFF
+                      BY BLUE TELECOMMUNICATIONS (PTY) LTD:
+                            COMMUNICATIONS ACT, 2009
+
+AirFibre Rural Plans
+
+Download Speed Mbps                    Upload speed Mbps             Monthly excluding VAT (N$)
+10                                                            4                             930.00
+15                                                            7                           1,170.00
+20                                                           10                           1,230.00
+25                                                           15                           1,350.00
+50                                                           25                           3,080.00
+
+AirFibre Urban Plans
+
+Download Speed Mbps                    Upload speed Mbps             Monthly excluding VAT (N$)
+10                                                            4                             770.00
+15                                                            7                             980.00
+20                                                           10                           1,020.00
+25                                                           15                           1,120.00
+50                                                           25                           2,570.00
+
+FFTX Plans
+
+Download Speed Mbps                    Upload speed Mbps             Monthly excluding VAT (N$)
+20                                                           20                             770.00
+25                                                           25                           1,130.00
+35                                                           35                           1,540.00
+4                           Government Gazette 17 September 2025                               8742
+
+50                                                           50                             2,160.00
+
+Note: The full tariff submission including the terms and conditions and the remedies available to the
+consumers can be obtained from the Authority.
+                                         ________________
+
+             COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 721										                                                                              2025
+
+       NOTICE IN TERMS OF THE REGULATIONS REGARDING THE SUBMISSIONS OF
+      INTERCONNECTION AGREEMENTS AND TARIFFS: COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, in terms of section 53(10) of the
+Communications Act, 2009 (Act No. 8 of 2009) read with regulation 8(1) of the Regulations
+regarding the Submission of Interconnection Agreements and Tariffs, published as General Notice
+No. 126, in Government Gazette No. 4714, dated 18 May 2011, herewith gives notice that Paratus
+Telecommunications (Pty) Ltd has filed a tariff with the Authority as set out in Schedule 1.
+
+Any person may examine copies of the tariffs submitted at the head offices of the Authority during
+normal business hours and copies may be made on payment of a fee determined by the Authority.
+Copies are also available at www.cran.na where copies may be downloaded free of charge.
+
+The public may submit in writing to the Authority written comments within fourteen (14) days from
+the date of publication of this notice in the Gazette.
+
+Paratus Telecommunications (Pty) Ltd may submit, in writing to the Authority, a response to
+any written comments within fourteen (14) days from the lapsing of the time to submit written
+submissions.
+
+All written submissions must contain the name and contact details of the person making the written
+submissions and the name and contact details of the person for whom the written submissions is
+made, if different and be clear and concise.
+
+All written submissions and reply comments must be made either physically or electronically –
+
+(1)      by hand to the head offices of the Authority, namely CRAN @ Freedom Plaza, Courtside
+         Building (3rd and 4th Floors), c/o Fidel Castro and Rev. Michael Scott Streets, Windhoek;
+
+(2)      by post to the head offices of the Authority, namely Private Bag 13309, Windhoek, 9000; or
+
+(3)      by electronic mail to the following address: legal@cran.na.
+
+E. NGHIKEMBUA
+CHIEF EXECUTIVE OFFICER
+COMMUNICATIONS REGULATORY AUTHORITY
+8742                        Government Gazette 17 September 2025                               5
+
+                                             SCHEDULE 1
+
+                       SUBMISSION OF PROPOSED TARIFF
+                 BY PARATUS TELECOMMUNICATIONS (PTY) LTD:
+                         COMMUNICATIONS ACT, 2009
+
+VANTAGE
+
+   Product        Term        Download          Hotspot   Monthly Data   Additional     Retail
+                             Speed (Mbps)        (Y/N)       (GB)         Service     Price (N$)
+
+                12 months      Best-effort        Yes        100GB           -              350
+
+
+   Vantage
+   100GB        24 months      Best-effort        Yes        100GB           -              325
+
+
+                36 months      Best-effort        Yes        100GB           -              315
+
+                12 months      Best-effort        Yes        200GB           -              600
+   Vantage      24 months      Best-effort        Yes        200GB           -              575
+   200GB
+                36 months      Best-effort        Yes        200GB           -              545
+
+                12 months      Best-effort        Yes        300GB            -             850
+   Vantage
+                24 months      Best-effort        Yes        300GB            -             810
+   300GB
+                36 months      Best-effort        Yes        300GB            -             765
+                                                                         Voice Min:
+                12 months      Best-effort        Yes       12.5GB                          225
+   Vantage                                                                  200
+  12.5GB +      24 months      Best-effort        Yes       12.5GB       SMS: 200           214
+  All-in 200*                                                            Voice Min:
+                36 months      Best-effort        Yes       12.5GB                          203
+                                                                            200
+                12 months       10 Mbps           No       Uncapped      SMS: 200           350
+Vantage Basic                                                            Voice Min:
+                24 months       10 Mbps           No       Uncapped                         330
+ Uncapped +                                                                 200
+  All-in 100    36 months       10 Mbps           No       Uncapped      SMS: 200           315
+                                                                         Voice Min:
+                12 months       15 Mbps           No       Uncapped                         545
+ Vantage Plus                                                               100
+ Uncapped +     24 months       15 Mbps           No       Uncapped      SMS: 100           520
+  All-in 225                                                             Voice Min:
+                36 months       15 Mbps           No       Uncapped                         500
+                                                                            100
+                12 months       25 Mbps           Yes      Uncapped      SMS: 100           855
+ Vantage Pro
+                                                                         Voice Min:
+ Uncapped +     24 months       25 Mbps           Yes      Uncapped                         815
+                                                                            100
+ All-in 1,000
+                36 months       25 Mbps           Yes      Uncapped      SMS: 100           770
+                                                                         Voice Min:
+   Vantage      12 months      Best Effort        Yes      Uncapped                       1,300
+                                                                            225
+  Enterprise
+                24 months      Best Effort        Yes      Uncapped      SMS: 225         1,235
+  Uncapped
+    2,500                                                                Voice Min:
+                36 months      Best Effort        Yes      Uncapped                       1,150
+                                                                            225
+   Vantage
+   All-in 55     7 days             -              -           -         SMS: 225            30
+    TopUp
+6                          Government Gazette 17 September 2025                                          8742
+
+    Product       Term           Download          Hotspot          Monthly Data      Additional      Retail
+                                Speed (Mbps)        (Y/N)              (GB)            Service      Price (N$)
+   Vantage
+                                                                                      Voice Min:
+  All-in 125      7 days              -                -                   -                               40
+                                                                                         225
+   TopUp
+   Vantage
+  All-in 250      7 days              -                -                   -          SMS: 225             55
+   TopUp
+Vantage All-in                                                                        Voice Min:
+                  7 days              -                -                   -                               65
+ 350 TopUp                                                                              1,000
+
+ELEVATE
+
+Product                          Validity Period           Download            Monthly Data    Hotspot (Y/N)
+                                                            (Mbps)
+Elevate 80GB                    Month-to-Month             Best Effort            80GB                    Yes
+Elevate 160GB                   Month-to-Month             Best Effort           160GB                    Yes
+Elevate 240GB                   Month-to-Month             Best Effort           240GB                    Yes
+Elevate Basic Uncapped +        Month-to-Month              10 Mbps             Uncapped                  No
+All-in 120
+Elevate Plus Uncapped +         Month-to-Month              15 Mbps             Uncapped                   No
+All-in 250
+Elevate Pro Uncapped +          Month-to-Month              25 Mbps             Uncapped                  Yes
+All-in 850
+Elevate All-in 45 TopUp              7 days                     -                          -                   -
+Elevate All-in 110 TopUp             7 days                     -                          -                   -
+Elevate All-in 225 TopUp             7 days                     -                          -                   -
+Elevate All-in 305 TopUp             7 days                     -                          -                   -
+
+SHAP
+
+Product              Validity       Download            Data             Hotspot      Additional      Retail
+                     Period          (Mbps)          Allowance            (Y/N)        Service      Price (N$)
+                                                    over Validity
+                                                       Period
+GoSim Pack           Once-off             10         15GB (5GB            Yes              -               100
+                    (activation)                      once-off +
+                    + 7 days for                   10GB valid for
+                   included data                       7 days)
+Shap 1Hr              1 Hour              10          Uncapped            Yes              -                15
+Uncapped
+Shap 1Hr              1 Hour              10         Uncapped             Yes       Voice Min: 25           25
+Uncapped +                                                                            SMS: 25
+All-in 25
+Shap 1d 5GB           1 day         Best-effort        5GB                Yes             -                 30
+Shap 1d 5GB +         1 day         Best-effort        5GB                Yes       Voice Min: 50           55
+All-in 50                                                                             SMS: 50
+Shap 1d               1 day               10         Uncapped             Yes             -                 35
+Uncapped
+Shap 1d               1 day               10         Uncapped             Yes       Voice Min: 60           50
+Uncapped +                                                                            SMS: 60
+All-In 60
+8742                   Government Gazette 17 September 2025                                7
+
+Product           Validity   Download          Data        Hotspot   Additional     Retail
+                  Period      (Mbps)        Allowance       (Y/N)     Service     Price (N$)
+                                           over Validity
+                                              Period
+Shap 7d           7 days         10         Uncapped        Yes          -              215
+Uncapped
+Shap 7d           7 days         10         Uncapped        Yes      Voice Min:         250
+Uncapped +                                                              150
+All-In 150                                                           SMS: 150
+Shap 7d 5GB       7 days     Best-effort   5GB (2.5GB       Yes      Voice Min:          50
+(2.5+2.5GB) +                               Anytime +                   100
+All-in 100                                 2.5GB Night               SMS: 100
+                                              Surf)
+Shap 7d 11GB      7 days     Best-effort   11GB (5.5GB      Yes          -               45
+(5.5+5.5GB)                                 Anytime +
+                                           5.5GB Night
+                                              Surf)
+Shap 7d 7GB       7 days     Best-effort   7GB (3.5GB       Yes      Voice Min:          60
+(3.5+3.5GB) +                               Anytime +                   125
+All-In 125                                 3.5GB Night               SMS: 125
+                                              Surf)
+Shap 7d 9GB       7 days     Best-effort   9GB (4.5GB       Yes      Voice Min:          90
+(4.5+4.5GB) +                               Anytime +                   250
+All-In 250                                 4.5GB Night               SMS: 250
+                                              Surf)
+Shap 7d 15GB +    7 days     Best-effort      15GB          Yes      Voice Min:         125
+All-in 100                                                              100
+                                                                     SMS: 100
+Shap 14d 50GB     14 days    Best-effort      50GB          Yes           -             280
+Shap 14d 40GB +   14 days    Best-effort      40GB          Yes      Voice Min:         330
+All-in 175                                                              175
+                                                                     SMS: 175
+Shap 14d          14 days        10         Uncapped        Yes           -             380
+Uncapped
+Shap 14d          14 days        10         Uncapped        Yes      Voice Min:         400
+Uncapped +                                                              200
+All-in 200                                                           SMS: 200
+Shap 30d 18GB +   30 days    Best-effort      18GB          Yes      Voice Min:         260
+All-in 300                                                              300
+                                                                     SMS: 300
+Shap 30d 30GB +   30 days    Best-effort      30GB          Yes      Voice Min:         295
+All-in 200                                                              200
+                                                                     SMS: 200
+Shap 30d          30 days        15         Uncapped         No          -              595
+Uncapped
+Shap 30d          30 days        15         Uncapped         No      Voice Min:         650
+Uncapped +                                                              300
+All-in 300                                                           SMS: 300
+8                            Government Gazette 17 September 2025                                     8742
+
+FIBER
+
+        Product         Term        Download        Upload         Hotspot (Y/N)   Monthly         Retail
+                                     (Mbps)         (Mbps)                           Data        Price (N$)
+Fiber Home            12, 24 and       25             15               Yes         Uncapped             550
+Uncapped              36 months
+
+                                        50            25               Yes         Uncapped            900
+                                        100           50               Yes         Uncapped           1,500
+Prepaid Fiber            1 day          30            15               Yes         Uncapped              55
+Home 1 day
+TopUp
+Prepaid Fiber           7 days          30            15               Yes         Uncapped            300
+Home 7 days
+TopUp
+Prepaid Fiber           14 days         30            15               Yes         Uncapped            500
+Home 14 days
+TopUp
+Prepaid Fiber           30 days         30            15               Yes         Uncapped            850
+Home 30 days
+TopUp
+Fiber Business        12, 24 and        30            30               Yes         Uncapped            900
+Uncapped              36 months
+                                        60            60               Yes         Uncapped           1500
+                                        100           100              Yes         Uncapped           2400
+                                        150           150              Yes         Uncapped           3600
+                                        200           200              Yes         Uncapped           4800
+
+FIBER SPEED BOOST
+
+Base Product                 Speed Boost            Boosted           Boosted Upload      Validity Period
+                                                   Download              (Mbps)
+                                                    (Mbps)
+Fiber Business Uncapped      Business 2X                       60                   60             24 hours
+                             Speed Boost                      120                  120             24 hours
+                             1 day
+                                                              200                  200             24 hours
+                                                              300                  300             24 hours
+                                                              400                  400             24 hours
+Fiber Home Uncapped          Home 2X                           60                   30             24 hours
+                             Speed Boost                      120                   60             24 hours
+                             1 day
+                                                              200                  100             24 hours
+
+SKY-FI
+
+           Product               Term      Download         Upload       Hotspot       Monthly      Retail
+                                            (Mbps)          (Mbps)        (Y/N)         Data        Price
+                                                                                                    (N$)
+    Sky-Fi Home Uncapped     12, 24           20              10             Yes    Uncapped         600
+           20Mbps            and 36
+                             months
+    Prepaid Sky-Fi Home 1d    1 day           20              10             Yes    Uncapped         55
+       Uncapped TopUp
+8742                          Government Gazette 17 September 2025                                         9
+
+            Product            Term         Download        Upload      Hotspot       Monthly     Retail
+                                             (Mbps)         (Mbps)       (Y/N)         Data       Price
+                                                                                                  (N$)
+    Prepaid Sky-Fi Home 7d     7 days            20             10           Yes     Uncapped      300
+    Uncapped TopUp
+    Prepaid Sky-Fi Home 1d    14 days            20             10           Yes     Uncapped       500
+    Uncapped TopUp
+    Prepaid Sky-Fi Home 30d   30 days            20             10           Yes     Uncapped       850
+    Uncapped TopUp
+    Sky-Fi Business           12, 24             20             20           Yes     Uncapped       900
+    Uncapped 20Mbps           and 36
+                              months
+
+PREPAID TOPUP
+
+          Product         Validity      Download          Data        Hotspot      Additional     Retail
+                          Period         (Mbps)        Allowance       (Y/N)        Service     Price (N$)
+                                                      over Validity
+                                                         Period
+    TopUp 7d 1GB           7 days       Best effort        1GB         Yes              -              10
+    TopUp 7d 5GB           7 days       Best-effort        5GB         Yes              -              65
+    TopUp 7d 10GB          7 days       Best-effort       10GB         Yes              -              80
+    TopUp 14d 20GB        14 days       Best-effort       20GB         Yes              -             150
+    TopUp 14d 30GB        14 days       Best-effort       30GB         Yes              -             205
+    TopUp 30d 40GB        30 days       Best-effort       40GB         Yes              -             310
+    TopUp 30d 50GB        30 days       Best-effort       50GB         Yes              -             410
+    TopUp 60d 90GB        60 days       Best-effort       90GB         Yes              -             650
+    TopUp 60d 180GB       60 days       Best-effort      180GB         Yes              -           1,000
+    TopUp 60d 350GB       60 days       Best-effort      350GB         Yes              -           1,800
+    TopUp 7d Voice 25      7 days            -              -           -          Voice min:          45
+                                                                                       25
+    TopUp 7d Voice 45      7 days            -              -            -         Voice min:             50
+                                                                                       45
+    Top-up 7d Voice 100    7 days            -              -            -         Voice min:             60
+                                                                                      100
+    TopUp 7d Voice 200     7 days            -              -            -         Voice min:             80
+                                                                                      200
+    TopUp 7d Voice 500     7 days            -              -            -         Voice min:         145
+                                                                                      500
+    TopUp 7d All-in 35     7 days            -              -            -         Voice min:             50
+                                                                                       35
+    TopUp 7d All-in 60     7 days            -              -            -          SMS: 35               55
+    TopUp 7d All-in 120    7 days            -              -            -         Voice min:             70
+                                                                                       60
+    TopUp 7d All-in 200    7 days            -              -            -          SMS: 60            85
+    TopUp 7d All-in 300    7 days            -              -            -         Voice min:         130
+                                                                                      120
+
+Terms and Conditions
+
+·          All Paratus SIMs are 4G enabled and 5G-ready. SIM and connection fees may apply as per
+           product specifications.
+10                          Government Gazette 17 September 2025                               8742
+
+·        The aforementioned products and services will be available on a promotional basis from 3
+         September 2025 until 3 December 2025.
+·        For the promotional period, with Elevate, Vantage, and Shap, customers will receive a 10%
+         discount on the access fee for the products submitted under the tariff submissions.
+·        For the promotional period, with Fiber and Sky-Fi, customers will receive a discount in
+         installation fees in line with the package term.
+·        All prepaid Top-Ups remain dependent on an active GoSim Pack, which is required to access
+         the bundle range.
+·        The updated Top-Ups may be used interchangeably across Elevate, SHAP, and Vantage
+         products.
+·        Prices are quoted in Namibian Dollars (N$) and are exclusive of Value-Added Tax (VAT).
+
+VAT applicable per Residential services are zero-rated (0%); Business services are subject to 15%
+VAT, which will be clearly shown at checkout.
+
+Note: The full tariff submission including the terms and conditions and the remedies available to the
+consumers can be obtained from the Authority.
+                                         ________________
+
+             COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 722										                                                                              2025
+
+       NOTICE IN TERMS OF THE REGULATIONS REGARDING THE SUBMISSIONS OF
+      INTERCONNECTION AGREEMENTS AND TARIFFS: COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, in terms of section 53(10) of the
+Communications Act, 2009 (Act No. 8 of 2009) read with regulation 8(1) of the Regulations
+regarding the Submission of Interconnection Agreements and Tariffs, published as General Notice
+No. 126, in Government Gazette No. 4714, dated 18 May 2011, herewith gives notice that Mobile
+Telecommunications Limited has filed a tariff with the Authority as set out in Schedule 1.
+
+Any person may examine copies of the tariffs submitted at the head offices of the Authority during
+normal business hours and copies may be made on payment of a fee determined by the Authority.
+Copies are also available at www.cran.na where copies may be downloaded free of charge.
+
+The public may submit in writing to the Authority written comments within fourteen (14) days from
+the date of publication of this notice in the Gazette.
+
+Mobile Telecommunications Limited may submit, in writing to the Authority, a response to
+any written comments within fourteen (14) days from the lapsing of the time to submit written
+submissions.
+
+All written submissions must contain the name and contact details of the person making the written
+submissions and the name and contact details of the person for whom the written submissions is
+made, if different and be clear and concise.
+
+All written submissions and reply comments must be made either physically or electronically –
+
+(1)      by hand to the head offices of the Authority, namely CRAN @ Freedom Plaza, Courtside
+         Building (3rd and 4th Floors), c/o Fidel Castro and Rev. Michael Scott Streets, Windhoek;
+
+(2)      by post to the head offices of the Authority, namely Private Bag 13309, Windhoek, 9000; or
+
+(3)      by electronic mail to the following address: legal@cran.na.
+8742                           Government Gazette 17 September 2025                                  11
+
+E. NGHIKEMBUA
+CHIEF EXECUTIVE OFFICER
+COMMUNICATIONS REGULATORY AUTHORITY
+
+                                           SCHEDULE 1
+
+                             SUBMISSION OF PROPOSED TARIFF
+                        BY MOBILE TELECOMMUNICATIONS LIMITED:
+                               COMMUNICATIONS ACT, 2009
+
+WIZZA AND BAZZA VOICE BUNDLES
+
+    Bundle           Validity (Hours)   Price (N$)     Promotion Price (N$)        Condition
+    Wizza                          1            5.80                   5.75 Timer starts from the
+                                                                            time the bundle is
+                                                                            purchased and ends 60
+                                                                            minutes thereafter
+
+    Bazza                          3           11.55                  11.50 Timer starts from the
+                                                                            time the bundle is
+                                                                            purchased and ends 180
+                                                                            minutes thereafter
+
+Terms and Conditions
+
+·            The promotion period will run from 2 September 2025 to 1 December 2025, both days
+             included and become a permanent tariff thereafter.
+·            All other standard MTC Terms and Conditions apply.
+
+Note: The full tariff submission including the terms and conditions and the remedies available to the
+consumers can be obtained from the Authority.
+                                         ________________
+

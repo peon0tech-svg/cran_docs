@@ -1,0 +1,1201 @@
+                     GOVERNMENT GAZETTE
+                                                                      OF THE
+
+                          REPUBLIC OF NAMIBIA
+N$13.80                                             WINDHOEK - 30 August 2021                                                                         No. 7613
+
+                                                                     CONTENTS
+                                                                                                                                                                Page
+GENERAL NOTICES
+
+No. 444     Communications Regulatory Authority of Namibia: The Frequency Channeling Plan for the Spectrum
+            Bands 694 - 790 MHz . ...........................................................................................................................      1
+
+No. 445     Communications Regulatory Authority of Namibia: Amend the Regulations Prescribing the National
+            Numbering Plan for Use in the Provision of Telecommunications Services in the Republic of Namibia,
+            Numbering Licence Fees and Procedures for Number Licences: Communications Act, 2009 . ............                                                     3
+
+No. 446     Communications Regulatory Authority of Namibia: Amendment of the Regulations Prescribing Pro-
+            cedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of
+            Spectrum Licences: Communications Act, 2009 . ..................................................................................                      10
+                                                               ________________
+
+
+                                                        General Notices
+                COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 444                                                                                                                                                         2021
+
+     THE FREQUENCY CHANNELING PLAN FOR THE SPECTRUM BANDS 694-790 MHz
+
+The Communications Regulatory Authority of Namibia in terms of section 100 of the
+Communications Act, 2009 (Act No. 8 of 2009):
+
+a)        Makes the Frequency Channeling Plan for the Spectrum Band 694-790 MHz as set out in the
+          Schedule; and
+
+b)        repeals the Frequency Channeling Plan for the Spectrum Band 694-790 MHz as published in
+          Government Gazette No. 6160, General Notice No. 423 on 28 October 2016.
+
+H. M. GAOMAB II
+CHAIRPERSON OF THE BOARD OF DIRECTORS
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+2                            Government Gazette 30 August 2021                               7613
+
+                                          SCHEDULE
+
+      FREQUENCY CHANNELING PLAN FOR THE SPECTRUM BANDS 694-790 MHz
+
+(a)     Background
+
+        The following principles have been considered to define the IMT frequency arrangement:
+
+        i.      To facilitated in the implementation of mobile broadband communications for robust
+                and reliable mission critical emergency services for Public Protection and Disaster
+                Relief (PPDR) in accordance with Resolution 646 (WRC-19);
+
+        ii.     Spectrum efficiency and high level of flexibility in order to adapt to national
+                circumstances as well as to meet the changing need and demand for capacity in time
+                and geography;
+
+        iii.    Protection to broadcasting services below 694 MHz;
+
+        iv.     Use of a 5 MHz block approach which is in line with the foreseen mobile systems to
+                be used in the 700 MHz spectrum band; and
+
+        v.      Facilitation of roaming and cross-border coordination.
+
+Recommendation ITU-R M.1036-6 as approved by the ITU Radio Assembly provides as follows-
+
+        “International Mobile Telecommunications (IMT) encompasses both IMT-2000 and IMT-
+        Advanced collectively.
+
+        Key features of IMT-2000 and IMT-Advanced are contained in Recommendation ITU-R
+        M.1645 and ITU-R M-1822. Frequency aspects and unwanted emission parameters are
+        contained in Recommendations ITU-R M.1580, IT-R M.1581, ITU-R M.2070 and ITU-R
+        M.2071.”
+
+Definitions
+
+1.      In these regulations, a word or expression to which a meaning is assigned in the Act or the
+        Regulations has the same meaning, and unless the context otherwise indicates
+
+        “Act” means the Communications Act, 2009 (Act No. 8 of 2009)
+        “IMT” means International Mobile Telecommunications
+        “ITU” means International Telecommunications Union
+        “WRC” means ITU World Radio Conference
+
+Purpose
+
+2.      To set out the Frequency Channeling plan for the provision of IMT services in the spectrum
+        bands 694-790 MHz
+
+Frequency channeling arrangement for the 694-790 MHz spectrum band
+
+3.      As graphically depicted below, 2x 30 MHz (6 blocks of 5 MHz each) FDD spectrum will
+        be allocated for IMT services. This frequency arrangement was approved by the ITU Radio
+        Assembly as contained in ITU-R M.1036-6 and is shown in Figure 1.
+7613                                        Government Gazette 30 August 2021                                                              3
+
+Figure 1
+
+
+
+
+4.         The allocation for PPDR services in accordance with Resolution 646 (WRC-19) and the
+           SADC Framework for Harmonisation of Radio Frequency Spectrum for Public Protection
+           and Disaster Relief (PPDR)-
+
+a.         698 – 703 MHz for Uplink and 753 – 758 MHz for downlink (2x5 MHz); and
+
+b.         733 -736 MHz uplink and 788 – 791 MHz downlink (2x3 MHz) is shown in Figure 2 below:
+
+Figure 2
+
+ 698-     703-   708-   713-         718-   723-   728-     733-     736-   753-    758-   763-   768-         773-   778-   783-   788-
+ 703      708    713    718          723    728    733      736      753    758     763    768    773          778    783    788    791
+
+                               b)                                                                         b)
+                                                                            PPDR
+ PPDR                                                      PPDR
+                                                                                                                                    PPDR
+                               IMT                                                                       IMT
+                                                                             a)
+     a)                                                      c)      …
+                                                                                                                                     c)
+                            uplink                                                                  downlink
+                                                                            down-
+up-link                                                    up-link
+                                                                             link
+                                                                                                                                    down-
+                           (MFCN)                                                                    (MFCN)
+                                                                                                                                     link
+5 MHz             30 MHz (6 blocks of 5 MHz)               3 MHz            5 MHz           30 MHz (6 blocks of 5 MHz)              3 MHz
+
+
+                                                          ________________
+
+                 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 445                                                                                                                             2021
+
+       AMENDMENT TO REGULATIONS PRESCRIBING THE NATIONAL NUMBERING
+     PLAN FOR USE IN THE PROVISION OF TELECOMMUNICATIONS SERVICES IN THE
+       REPUBLIC OF NAMIBIA, NUMBERING LICENCE FEES AND PROCEDURES FOR
+                 NUMBER LICENCES: COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, in terms of Sections 81(5) and 129 of the
+Communications Act, 2009 (Act No. 8 of 2009), amends the Regulations Prescribing the National
+Numbering Plan for Use in the Provision of Telecommunications Services in the Republic of
+Namibia, Numbering Licence Fees and Procedures for Number Licences as published in the
+Government Gazette No. 5983, General Notice No. 18 dated 01 April 2021 as set out in the Schedule.
+
+H. M. GAOMAB II
+CHAIRPERSON
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+4                                   Government Gazette 30 August 2021                                     7613
+
+                                                 SCHEDULE
+
+        AMENDMENT OF THE REGULATIONS PRESCRIBING THE NATIONAL
+     NUMBERING PLAN FOR USE IN THE PROVISION OF TELECOMMUNICATIONS
+     SERVICES IN THE REPUBLIC OF NAMIBIA, NUMBERING LICENCE FEES AND
+       PROCEDURES FOR NUMBER LICENCES: COMMUNICATIONS ACT, 2009
+
+Amendment of regulation 39
+
+         1.       Regulation 39 of the Regulations is amended by the substitution for subregulation
+(1)(b) of the following subregulation
+
+           (a)        The Authority shall calculate the chargeable fee per number based on the ‘chargeable
+                      quantity of numbers by applying the reference value to a weight,1 to reflect the value
+                      of shorter numbers.
+
+                      Number                               Weight
+                      3 Digit Numbers                      =1 000,000
+                      4 Digit Numbers                      =100,000
+                      5 Digit Numbers                      =10, 000
+                      6 Digit Numbers                      =1, 000
+                      7 Digit Numbers                      =100
+                      8 Digit Numbers                      =10
+                      9 Digit Numbers                      =1
+
+         2.       Regulation 39 of the Regulations is amended by the substitution for subregulation
+(1)(e) of the following subregulation
+
+           (e)        The reference value is determined by the Authority as set out in Annexure D and
+                      may be reviewed on annual basis.
+
+           3.         Regulation 39 of the Regulations is amended by the repeal of subregulation (1)(f).
+
+                                                ANNEXURE D
+
+                                               Regulation 39(e)
+
+                                            CHARGEABLE FEE
+
+            In terms of regulation 39(e) the Authority hereby determine the reference value.
+
+The reference value is set at Zero Namibian Dollars and Four Eight Zero Three Cents (N$ 0.4803).
+
+    Number                              Weight                             N$ (fees payable)
+    3 Digit Numbers                     =1 000,000                         =480,300
+    4 Digit Numbers                     =100,000                           =48,030
+    5 Digit Numbers                     =10, 000                           =4,803
+    6 Digit Numbers                     =1, 000                            =480.30
+    7 Digit Numbers                     =100                               =48.03
+    8 Digit Numbers                     =10                                =4.803
+    9 Digit Numbers                     =1                                 = 0.4803
+
+Annual Number Fee = number x weight x reference value
+
+1
+ Weighting refers to the total numbers not available for use if a certain number with lesser digits is allocated
+for use to a licensee.
+7613                          Government Gazette 30 August 2021                                      5
+
+                                          ANNEXURE E
+
+                DISCUSSION PAPER ON NUMBERING FEES FOR CRAN
+
+1.     Introduction
+
+       In 2016 CRAN set out Regulations prescribing the National Numbering Plan for use in
+       the Provision of Telecommunications Services in the Republic of Namibia, Numbering
+       Licence Fees and Procedures for Number Licences. The fees prescribed in these regulations
+       were charged for the first time in 2018 and then in subsequent years. Telecom Namibia
+       and MTC challenged the fees based on section 81(5) which states that “the Authority must
+       allocate numbers in return for a fee that is no greater than necessary to compensate for the
+       management costs of the numbering plan and control of its use.”
+
+       The objectives of the Act guide all of CRAN’s actions: The fees CRAN collects are subject
+       to the objectives of the Act, which fit in with the general trend towards liberalisation,
+       privatisation and increased competition in order to meet the objectives of affordability and
+       increased penetration.
+
+2.     Economics of Numbering
+
+       The rise of new services and the advent of competition have given to telecommunication
+       numbers a significant economic dimension. Any economic considerations around numbers
+       arise for two main reasons:
+
+       •       First, a fairly administered numbering plan can facilitate competition in service
+               provision and thus bring benefits to users by reducing tariffs and by increasing the
+               quality standards in services provided. In order for competition to flourish, however,
+               operators and service providers should be treated on an equal basis regarding access
+               to number resources.
+
+       •       Second, numbers become important tools in the hands of value-added service
+               providers. Given that most of these services are highly profitable for operators, the
+               allocation of specific number ranges to provide exclusive access to services such as
+               mobile telephony, personal communication and premium rate services increases the
+               value of numbers. Moreover, it is recognised that a limited range of numbers contain
+               “higher” value than others because their memorable structure brings benefits to the
+               called party. (OCDE/GD(95)117).
+
+       As competition increases and new numbering requirements emerge it becomes universally
+       recognised that “telephone numbers are a national resource and should be for the customer
+       -- not for the operators to brand” (OFTEL, 1993a). New operators and service providers
+       need to have access to numbers and have the right to utilise them in a way that best suits their
+       needs and can facilitate service provision.
+
+       Not all number ranges have the same value to users. Different users may attribute more value
+       to a number than others based on how easy it is to remember and what it might be utilised
+       for. Numbers are therefore a scarce resource that should be managed and paid for taking the
+       economic value of the number into consideration.
+
+3.     Current Numbering Fees
+
+       Regulation 39(f) of the Regulations Prescribing the National Numbering Plan for Use in the
+       provision of Telecommunications Services in the Republic of Namibia, Numbering Licence
+       Fees and Procedures for Number Licences set the reference value for numbers at N$ 1.00.
+       The Regulation further makes provision that it should be reviewed every three (3) years.
+6                             Government Gazette 30 August 2021                                 7613
+
+     In line with the above requirement CRAN has therefore decided that a recalculation of
+     numbering fees have to be done as well as some amendments to the current regulations.
+
+     The current numbering fees are as follows:
+      3 Digit Numbers                                          = 1,000,000
+      4 Digit Numbers                                          = 100,000
+      5 Digit Numbers                                          =10,000
+      6 Digit Numbers                                          =1,000
+      7 Digit Numbers                                          =100
+      8 Digit Numbers                                          =10
+      9 Digit Numbers                                          =1
+
+4.   CRAN Financials for Numbering
+
+     The total cost of managing the numbering plan includes cost for the numbering audit, legal
+     fees, calculation of fees, management of number portability, etc.
+
+     The costs from 2018/2019 to 2022/2023 are as follows:
+      Table 1: Financials and Calculations for Numbering
+                       2018/2019       2019/2020     2020/2021         2021/2022       2022/2023
+      Financials        6,696,309     7,654,700    2,000,000         2,090,000      2,184,050
+      Numbers           41,208,451    48,988,851   4,164,462         4,164,462      4,164,462
+      Cost/number       0.16          0.155        0.4803            0.502          0.5244
+      Source:           AFS for CRAN 2018/19 –     Budget            Projected Budget
+                        2019/20                    2020/2021
+
+     There are a number of reasons on why the cost per number increased:
+
+     a.       Due to more efficient number use 3-digit numbers were withdrawn by licensees and
+              licensees started utilising 5-digit numbers; and
+
+     b.       Unutilised numbers were withdrawn;
+
+     The CRAN budget to manage the number licenses have also decreased due to fewer number
+     licences, but the total cost per number still increased.
+
+5.   Numbering Fees in other Jurisdictions
+
+     Most countries that charge fees for numbering resources have a number of fees that are
+     charged for such as registration-, usage- and annual fees. A number of SADC countries
+     do not charge numbering fees at all even though they have numbering plans due to their
+     legislation not providing for the charging for numbers.
+
+      Table 2: Zambia ZICTA’s Fee structure for
+                                                   Fee Units
+      Numbering
+      Item                                         ZMW                       N$
+      Registration fees
+      All other categories                         40,000                    26,942
+      Carrier pre-selection                        200,000                   134,712
+      Annual Fees (C)                              1                         0.674
+      Annual Fee (FA)
+      Annual Return                                233                       157
+7613                                Government Gazette 30 August 2021                                          7
+
+           Table 2: Zambia ZICTA’s Fee structure for
+                                                             Fee Units
+           Numbering
+           Item                                              ZMW                     N$
+           Other Codes
+           Mobile Network Code                               20,000                  13,471
+           National Destination Code                         20,000                  13,471
+           International Signaling Point Codes               20,000                  13,471
+           National Signaling Point Codes                    20,000                  13,471
+           Network Colour Codes                              20,000                  13,471
+           SIM Headers                                       10,000                  6,736
+           Service Numbers (Freephones, Premiums)            10,000                  6,736
+           Carrier Selection Codes                           100,000                 67,356
+           Short Codes
+           3 digits                                          100,000                  67,356
+           4 digits                                          60,000                   40,414
+                                                             https://www.zicta.zm/storage/posts/attachments/
+           Source:                                           0r9W6SdgD02vUW4N7D8k5NlA9dDCeVDex-
+                                                             QDHFzx8.pdf
+
+       •              Registration fees are once-off fees to be paid at lodging the application
+
+       •              The subscriber number (C) fee set out in the table shall be the application fee for the
+                      purpose of determination of the annual numbering fee formulae, where C=1 unit
+
+       •              For resource user’s individually assigned number blocks, the payable annual fees
+                      shall be calculated as per equation below; FA=B x C, where a. FA is the annual
+                      numbering fee to be paid by resource user, B is the total number block assigned,
+                      allocated to the resource user C, C is the fee for each subscriber number in the
+                      assigned number block allocated to the resource user
+
+       Uganda charges no fees for the other numbering resources except for short codes. Their
+       numbering plan is currently under review.
+
+       Tanzania also uses a number of fees.
+
+           Table 3: Tanzania TCRA’s Fee structure for Numbering
+           Type of Numbering                                                                  Annual
+                                         Application         Registration
+           Resource                                                                       Maintenance Fee
+                                      USD          N$      USD         N$                 USD        N$
+           Prefix for Networks (NDC
+                                    10               145        2,000      29,055      2,000       29,055
+           & MNDC)
+                                                                                       0.20/sub-
+           Subscriber Numbers            N/A                    N/A                    scriber     2.89
+                                                                                       number
+           National Signaling Point      10          145        2,000      29,055      2,000       29,055
+           International Signaling
+                                         10          145        2,000      29,055      2,000       29,055
+           Point
+           Mobile Network Identifi-
+                                         10          145        2,000      29,055      2,000       29,055
+           cation Code
+           SIM Header                    10          145        2,000      29,055      2,000       29,055
+           Data Network Identifica-
+                                         10          145        2,000      29,055      2,000       29,055
+           tion Codes
+8                        Government Gazette 30 August 2021                                7613
+
+    Table 3: Tanzania TCRA’s Fee structure for Numbering
+    Type of Numbering                                                             Annual
+                                  Application         Registration
+    Resource                                                                  Maintenance Fee
+                               USD          N$      USD         N$            USD        N$
+    Corporate Services Net-
+                               10        145        2,000      29,055     2,000       29,055
+    work Access Numbers
+    Carrier Selection/Pre-
+                               10        145        10,000     145,277    5,000       72,639
+    selection Codes
+    Premium Rate Access
+                               10        145        10,000     145,277    5,000       72,639
+    Codes
+    Special and Fixed Access
+                               10        145        1,000      14,528     2,000       29,055
+    Codes (block)
+    Special and Fixed Access
+    Codes Premium Rate
+                               10        145        2,000      29,055     2,500       36,319
+    Access codes (Single
+    number)
+    VAS SMS & Special Ser-
+    vices Short Codes:
+    Gold                       10        145        4,000      58,111     2,500       36,319
+                               https://www.tcra.go.tz/document/Application%20Guidelines%20
+    Source:                    and%20Fees%20for%20Numbering%20Resources%20-%20
+                               April%202018
+
+    Zimbabwe has the following fee structure for numbering.
+
+    Table 4: Zimbabwe - POTRAZ’s license fee structure
+                                              USD                        N$
+    Subscriber numbers                          0.10/unit                1.45
+    Network Destination Codes                   50                       723
+    Premium Rate service Short Code             1,200                    17,356
+    No Premium Rate service Short Code          50                       723
+    International Signaling Point Codes         50                       723
+    National Signaling Point Codes              50                       723
+    Mobile Network Identifiers – MNC + NCC      50                       723
+    System Access (USSD) Short Codes            50 (excl 15% VAT)        723 (excl 15% VAT)
+    Premium Rates Short Code                    1,200 (excl 15% VAT)     17,356 (excl 15% VAT)
+    Source                                      http://www.potraz.gov.zw/?p=80
+
+    ICASA is not charging any numbering fees.
+
+    Namibia’s proposed numbering fees are on par with those countries in the SADC region that
+    charge for numbering and is lower than most countries used in the comparison.
+7613                       Government Gazette 30 August 2021                                9
+
+                     Figure 1: Numbering Fees in SADC (N$/number)
+
+
+
+
+6.     Conclusion and Recommendations
+
+       The following is therefore recommended:
+
+       a.     A reference value of NAD 0.4803 per number based on the costing and approved
+              budget of CRAN resulting in the table below:
+
+               Number                    Weight                     Fee in NAD
+               3 Digit Numbers           1,000,000                  = 480,300
+               4 Digit Numbers           100,000                    = 48,030
+               5 Digit Numbers           10,000                     = 4,803
+               6 Digit Numbers           1,000                      = 480.30
+               7 Digit Numbers           100                        = 48.03
+               8 Digit Numbers           10                         = 4.803
+               9 Digit Numbers           1                          = 0.4803
+              Annual Number Fee = number x weight x reference value
+
+       b.     That a new fee for numbering be determined, annually, based on the cost in the
+              approved budget and the number audit to ensure no over– or under recovery as set
+              out in section 81(5) of the Communications Act.
+
+7.     References
+
+       OECD (1995-01-01), “The Economic and Regulatory Aspects of Telecommunication
+       Numbering”, OECD Digital Economy Papers, No. 12, OECD Publishing, Paris. http://
+       dx.doi.org/10.1787/237502514428
+
+       http://www.potraz.gov.zw/?p=80
+
+       https://www.tcra.go.tz/document/Application%20Guidelines%20and%20Fees%20for%20
+       Numbering%20Resources%20-%20April%202018
+
+       https://www.zicta.zm/storage/posts/attachments/0r9W6SdgD02vUW4N7D8k5NlA9dDCe
+       VDexQDHFzx8.pdf
+                                     ________________
+10                             Government Gazette 30 August 2021                               7613
+
+              COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+No. 446                                                                                         2021
+
+  AMENDMENT OF THE REGULATIONS PRESCRIBING PROCEDURES REGARDING
+APPLICATION FOR, AND AMENDMENT, RENEWAL, TRANSFER AND CANCELLATION
+           OF SPECTRUM LICENCES: COMMUNICATIONS ACT, 2009
+
+The Communications Regulatory Authority of Namibia, under section 129 read with section 101(14)
+and section 101(16) of the Communications Act, 2009 (Act No. 8 of 2009) -
+
+(a)       Amends the Regulations Prescribing Procedures Regarding Application for, and Amendment,
+          Renewal, Transfer and Cancellation of Spectrum Licences published in the Government
+          Gazette No. 6888, General Notice No. 104 dated 29 April 2019;
+
+(b)       Repeals the amendment to the Regulations prescribing Procedures regarding Application
+          for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licences published
+          in the Government Gazette No. 7196, General Notice No. 152 dated 29 April 2020.
+
+H. M. GAOMAB II
+CHAIRPERSON OF THE BOARD
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+
+                                            SCHEDULE
+
+Definitions
+
+        1.       In these Regulations, any word or expression to which a meaning is assigned in the
+Act, shall have the same meaning and –
+
+“Act” means the Communications Act, 2009 (Act No. 8 of 2009)
+
+“Regulations” means the Regulations Prescribing Procedures Regarding Application for, and
+Amendment, Renewal, Transfer and Cancellation of Spectrum Licences published in the Government
+Gazette No. 6888, General Notice No. 104 dated 29 April 2019.
+
+“WRC-19” means World Radio Conference held from 28 October 2019 to 22 November 2019 in
+Sharm El-Sheikh, Egypt.
+
+Substitution of regulation 12 (9) and 12(10) of Regulations
+
+        2.      Regulation 12(9) and 12(10) of the Regulations is hereby amended by the substitution
+of those paragraphs with the following paragraphs:
+
+                   “(9)    The Authority must forthwith publish a notice of the aforesaid application
+          or amendment in terms of sub-regulation (7) in the Gazette and invite the public to make
+          written comments to the Authority within the time set out in the notice, which time may not
+          be less than 14 days from the date of the publication.
+
+                 (10)     The Authority will provide the opportunity to an applicant or licensee to
+          respond to any written comments contemplated in sub-regulation (9).”
+
+Insertion of the following sub-regulations after regulation 12(10) of Regulations
+
+        3.      The Regulations is amended by the insertion of the following sub-regulations after
+regulation 12(10) of the Regulations:
+7613                          Government Gazette 30 August 2021                                     11
+
+                 “(11) An applicant’s or licensee’s response to public comments must be submitted
+        in writing to the Authority within the time set out by the Authority, which time may be not
+        less than 14 days from the deadline for the submission of public comments or if the notice
+        for submissions of responses is published in a subsequent Gazette, not less than 14 days from
+        the date of that publication.
+
+                (12)     The times for the submissions of public comments and applicant or
+        licensee’s responses are to be determined by the Authority in lights of the nature of the
+        application or amendment (in terms of sub-regulation 7).
+
+                (13)      The Authority may consider written submissions not timeously filed if, in its
+        opinion, it is practical to do so.
+
+               (14)     The Authority may request further written submissions, such as for further
+        information or clarification, which must be provided to the Authority in the time and the
+        manner set out by the Authority.
+
+                (15)    All written submissions must-
+
+                (a)     contain the name and contact details of the person making the written
+                        submissions or the name and contact details of the person for whom the
+                        written submission is made, if different;
+
+                (b)     be clear and concise; and
+
+                (c)     conform to any further requirements determined by the Authority from time
+                        to time.
+
+                (16)     After considering any application made in terms of this regulation and any
+        written or oral submissions, if any referred to herein, the Authority may refuse or grant the
+        application, in whole or in part.
+
+                 (17)     If the Authority grants application the Authority must amend the spectrum
+        license in the form determined and subject to the conditions imposed by the Authority.
+
+               (18)     After considering any written or oral submissions in respect of an amendment
+        envisaged in sub-regulation 7 or in case of absence of comments thereof, the Authority may
+        amend or refrain from amending the spectrum licence.
+
+                 (19)    The Authority must whether or not requested by an applicant or licensee,
+        furnish reasons for its decision to grant or amend the spectrum license.”
+
+Insertion of the following sub-regulations after regulation 16(5) of Regulations
+
+        4.      The Regulations is amended by the insertion of the following sub-regulations after
+regulation 16(5) of the Regulations:
+
+                “(6)     The Authority must forthwith publish a notice of the aforesaid application
+        in the Gazette and invite the public to make written comments to the Authority within the
+        time set out in the notice, which time may not be less than 14 days from the date of the
+        publication.
+
+                (7)   The Authority will provide the opportunity to an applicant to respond to any
+        written comments contemplated in sub-regulation (6).
+12                            Government Gazette 30 August 2021                                    7613
+
+                (8)     An applicant’s response to public comments must be submitted in writing to
+       the Authority within the time set out by the Authority, which time may be not less than 14
+       days from the deadline for the submission of public comments or if the notice for submissions
+       of responses is published in a subsequent Gazette, not less than 14 days from the date of that
+       publication.
+
+              (9)       The times for the submissions of public comments and applicant or licensee’s
+       responses are to be determined by the Authority in lights of the nature of the application.
+
+               (10)      The Authority may consider written submissions not timeously filed if, in its
+       opinion, it is practical to do so.
+
+              (11)     The Authority may request further written submissions, such as for further
+       information or clarification, which must be provided to the Authority in the time and the
+       manner set out by the Authority.
+
+               (12)     All written submissions must-
+
+               (a)      contain the name and contact details of the person making the written
+                        submissions or the name and contact details of the person for whom the
+                        written submission is made, if different;
+
+               (b)      be clear and concise; and
+
+               (c)      conform to any further requirements determined by the Authority from time
+                        to time.
+
+                (13)    After considering any application made in terms of this regulation and any
+       written
+       or oral submissions, if any referred to herein, the Authority may refuse or grant the application,
+       in whole or in part.
+
+                (14)    The Authority must whether or not requested by an applicant or licensee,
+       furnish reasons for its decision to withdraw or refuse to withdraw the spectrum license.”
+
+Substitution of Annexure B
+
+      5.       The Regulations is amended by the substitution for Annexure B of the following
+Annexure.
+
+                                          ANNEXURE B
+
+               RADIO APPARAUS EXEMPT FROM SPECTRUM LICENSE
+
+Explanation:
+
+1.     The use or possession of the radio apparatus listed in Column B below, in accordance with
+       the specifications listed in Columns A, C, D and E of the Table below does not require a
+       spectrum license.
+
+2.     Use and possession of all radio apparatus exempt in terms of the above table must comply
+       with the following:
+
+       2.1     All radio apparatus must be type-approved by the Authority or by the Independent
+               Communications Authority of South Africa or, upon request to the Authority, by any
+               other regulatory authority in a country other than Namibia or South Africa.
+7613                       Government Gazette 30 August 2021                                  13
+
+       2.2    The frequencies, transmitting power and external high-gain antenna of the radio
+             apparatus must not be altered without a new type-approved certificate issued by the
+             Authority or any other regulatory authority referred to in paragraph 2.1.
+
+       2.3    The radio apparatus must be operated within, and not exceed, the technical
+             parameters set out in each of the applicable Columns C and D of the Table with
+             respect to the frequency band, maximum radiated power or field strength limits and
+             channel spacing, relevant standards and duty cycles and antennas to be used and
+             contained in Column E.
+
+       2.4    The antenna of the radio apparatus must not be higher or above average ground level
+             than the lowest point of the place where the radio apparatus operates effectively.
+
+       2.5    The radio apparatus may not cause interference with any licensed radio frequency
+             spectrum.
+
+       2.6    The user of the radio apparatus in the license-exempt frequency spectrum operates
+             on a non-interference and zero protection basis from interference.
+                                                                                                                                                             14
+
+
+
+ Frequency band      Typical Applications      Maximum power        Duty Cycle      Prescribed      Harmonised         Notes (Additional information)
+                                                or magnetic field   restriction   Channel Spacing    Standard
+                                                    strength
+8.3-9kHz                                     82 dBµA/m at 10m                                                    Antenna size of < 1/20 λ (see note 1)
+9-90 kHz                                     72 dBμA/m at 10m                                                    RFIDs operating in the frequency sub-band
+90-119 kHz                                   42 dBμA/m at 10m                                                    119-135 kHz shall meet the spectrum mask
+119-135 kHz       Inductive applications     66 dBμA/m at 10m         None             None         EN 300 330   given in EN 300 330. This will permit a
+135-140 kHz                                  42 dBμA/m at 10m                                                    simultaneous use of the various sub-bands
+140-148.5 kHz                                37.7 dBμA/m at 10m                                                  within the range 90 – 148.5 kHz
+                                                                                                                 (Note 11)
+9-315 kHz         Active medical implants    30 dBμA/m at 10m         <10%             None         EN 302 195
+400-600 kHz       Inductive applications     -8 dBµA/m at 10 m                                                   For RFID only
+442.2-450 kHz     Tracking, Tracing and Data 7 dBμA/m at 10m          None        Continuous
+                  Acquisition                                                     wave
+                                                                                  (CW) - no
+                                                                                  modulation,
+                                                                                  channel spacing
+                                                                                  ≥150 Hz
+456.9-457.1 kHz   Tracking, Tracing and Data 7 dBμA/m at 10 m         None        Continuous
+                  Acquisition                                                     wave
+                                                                                  (CW) at 457
+                                                                                  kHz - no
+                                                                                  modulation
+3 155-3 400 kHz   Inductive applications     13.5 dBμA/m at 10m       None             None         EN 300 330   ITU-R M.1076 applies
+                                                                                                                 RR No. 5.116 applies
+                                                                                                                                                             Government Gazette 30 August 2021
+
+
+
+
+6 765-6 795 kHz   - Inductive applications   42 dBμA/m at 10m         None             None         EN 300 330   ISM band (RR No. 5.138)
+                  - Non-specific SRDs
+7 400-8 800 kHz   Inductive applications     9 dBμA/m at 10m          None             None         EN 300 330
+10200-11000kHz    Inductive applications     9 dBμA/m at 10m          None             None         EN 300 330
+                                             42 dBμA/m at 10m
+                                             60 dBμA/m at 10m
+                  Inductive applications                              None             None         EN 302 291   ISM band (RR No. 5.150)
+13553-13567 kHz                              (for RFID and EAS
+                                             only)
+                  Non-specific SRDs          10 mW e.r.p              None             None         EN 300 330   ISM band (RR No. 5.150)
+                                                                                                                                                             7613
+ Frequency band       Typical Applications         Maximum power           Duty Cycle            Prescribed      Harmonised         Notes (Additional information)
+                                                                                                                                                                     7613
+
+
+
+
+                                                   or magnetic field       restriction         Channel Spacing    Standard
+                                                       strength
+                                                                                                                              ISM band (RR No. 5.150)
+                   Inductive applications        42 dBμA/m at 10m             None                  None         EN 300 220
+                                                                                                                              ERC/DEC/(01)16
+                                                                                                                              ERC/DEC/(01)10
+                   Model control
+26957-27283 kHz                                  100 mW e.r.p                 None                 10 kHz        EN 300 220   (26.995 MHz, 27.045 MHz, 27.095 MHz,
+                   (26990-27200 kHz)
+                                                                                                                              27.145 MHz, 27.195 MHz
+                                                                                                                 EN 300 220
+                   Non-specific SRDs             10 mW e.r.p.                 None                  None                      ERC/DEC/(01)02
+                                                                                                                 EN 300 330
+26990-27200 kHz    Non-specific SRDs             100 mWe.r.p                 ≤ 0.1 %                None
+29.7-47 MHz        Radio Microphones             10 mW e.r.p.                 None                ≤ 50 kHz
+30-37.5 MHz        Active Medical Implants       1 mW e.r.p.                 ≤ 10%                  None
+34.995-35.225
+                   Model Control                 100 mW e.r.p                 None                 10 kHz                     Only flying models
+MHz
+                                                                                                                              ISM band (RR No. 5.150)
+                   Non-specific SRDs             10 mW e.r.p.                 None                  None         EN 300 220
+                                                                                                                              ERC/DEC/(01)03
+40.66-40.7 MHz                                                                                                                ERC/DEC/(01)12
+                   Model control                 100 mW e.r.p                 None                 10 kHz        EN 300 220   (40.665 MHz, 40.675 MHz, 40.685 MHz,
+                                                                                                                              40.695 MHz)
+138.2-138.45 MHz   Non-specific SRDs             10 mW e.r.p.                 ≤ 1%                  None
+169.4-174 MHz      Radio Microphones             10 mW e.r.p.                 None                ≤ 50 kHz
+169.4-             Assistive listening devices
+                                                 500 mW e.r.p.                None                ≤ 50 kHz
+169.5875MHz
+169.4-169.475      Tracking, Tracing and Data
+                                                                                                                                                                     Government Gazette 30 August 2021
+
+
+
+
+                                              500 mW e.r.p.                   ≤ 10%               ≤ 50 kHz
+MHz                Acquisition
+169.4-169.4875     Non-specific SRDs (169.4-
+                                              500 mWe.r.p                     ≤ 1%                ≤ 50 kHz
+MHz                169.475 MHz)
+                   Non-specific SRDs (169.4-
+                                              10 mW e.r.p.                    ≤ 1%
+                   169.4875 MHz)
+                                                                       ≤ 0.001% duty cycle
+                                                                       except for 00:00 h
+169.4875-169.5875
+                  Non-specific SRDs              10 mW e.r.p.          to 06:00 h local time
+MHz
+                                                                       where the duty cycle
+                                                                       limit is ≤ 0.1%
+                                                                                                                                                                     15
+                                                                                                                                                                     16
+
+
+
+ Frequency band       Typical Applications        Maximum power           Duty Cycle         Prescribed      Harmonised         Notes (Additional information)
+                                                  or magnetic field       restriction      Channel Spacing    Standard
+                                                      strength
+169.5875-169.8125
+                  Non-specific SRDs             10 mW e.r.p.          ≤ 0.1%
+MHz
+173.965-216 MHz Assistive listening devices     10 mW e.r.p.                None              ≤ 50 kHz
+174-216 MHz       Radio Microphones             50 mW e.r.p.                None                None
+                                                10 mW e.r.p.                <10%
+                                                                                                None         EN 300 220   (Note 2)
+                                                (433.05-434.79 MHz)        (Note 1)
+                                                                                                                          Power density limited to -13 dBm/10 kHz
+                                                1 mW e.r.p.
+433.05-                                                                                                                   for wideband modulation with a bandwidth
+                   Non-specific SRDs            -13 dBm/10 kHz                 None             None         EN 300 220
+434.79 MHz                                                                                                                greater than 250 kHz
+                                                (433.05-434.79 MHz)
+                                                                                                                          (Note 5)
+                                                10 mW e.r.p.
+                                                                               None         Up to 25 kHz     EN 300 220   (Note 5)
+                                                (434.04-434.79 MHz)
+                                                                       LBT or duty cycle
+                                                                                                                          ITU-R RS.13461
+401-402 MHz                                     25 μW e.r.p.                ≤0.1%              25 kHz        EN 302 537
+                                                                                                                          Max occupied BW = 100 kHz
+                                                                         (Note 3), p21
+                                                                                                                          ITU-R RS.1346
+                   Active medical implants
+402-405 MHz                                     25 μW e.r.p.             (Note 4), p21         25 kHz        EN 301 839   Max occupied BW = 300 kHz
+                   and associated peripherals
+                                                                                                                          ERC/DEC/(01)17
+                                                                       LBT or duty cycle
+                                                                                                                          ITU-R RS.1346
+405-406 MHz                                     25 μW e.r.p.               ≤0.1%               25 kHz        EN 302 537
+                                                                                                                          Max occupied BW = 100 kHz
+                                                                        (Note 4), p21)
+446 – 446.2 MHz    PMR446                       500 mW                                       12.5 kHz        EN 300 296
+                                                                                                                                                                     Government Gazette 30 August 2021
+
+
+
+
+470-786 MHz        Radio Microphones            50 mW e.r.p.                 None              None
+862-863 MHz        Non-specific SRDs            25 mWe.r.p                  ≤ 0.1%           ≤ 350 kHz
+                   Wireless Audio
+                                                10 mW e.r.p.                   None             None         EN 301 357
+                   applications
+863-865 MHz
+                                                                      ≤ 0.1% duty cycle
+                   Non-specific SRDs            25 mW e.r.p.
+                                                                      or LBT+AFA
+                   Wireless Audio                                                                                         Narrow band analogue voice devices (only
+864.8-865 MHz                                   10 mW e.r.p.                   None            50 kHz        EN 300 220
+                   applications                                                                                           this band)
+                                                                                                                                                                     7613
+     Frequency band           Typical Applications          Maximum power               Duty Cycle           Prescribed          Harmonised              Notes (Additional information)
+                                                                                                                                                                                          7613
+
+
+
+
+                                                            or magnetic field           restriction        Channel Spacing        Standard
+                                                                strength
+                                                                                    ≤ 1% duty cycle or
+                          Non-specific SRDs              25 mW e.r.p.
+                                                                                    LBT +AFA
+                                                                                    Adaptive Power
+                                                                                    Control (APC)
+                                                                                    required for
+                                                                                    spectrum sharing
+                                                                                    (note 1) and the
+    865-868 MHz
+                          Tracking, Tracing and Data                                following duty cycle
+                                                     500 mW e.r.p.                                             ≤ 200 kHz
+                          Acquisition                                               restrictions
+                                                                                    also apply: ≤ 10%
+                                                                                    duty cycle for
+                                                                                    network access
+                                                                                    points; ≤ 2.5% duty
+                                                                                    cycle otherwise
+    865.0-865.6 MHz                                      100 mW e.r.p.                       None               200 kHz          EN 302 208
+    865.6-867.6 MHz       RFID                           2 W e.r.p.                          None               200 kHz          EN 302 208       (Note 13)
+    867.6-868.0 MHz                                      500 mW e.r.p.                       None               200 kHz          EN 302 208
+                                                                                                             ≤ 100 kHz for                        FHSS modulation
+                                                                                      ≤ 0.1% or LBT           47 or more                          Note4, Note 2, Note 7 and
+    863-870 MHz           Non-specific SRDs                   ≤ 25 mW e.r.p.                                                     EN 300 220
+                                                                                      (notes 1 and 5)           channels                          Note 9
+                                                                                                                (note 3)                          Note (TZA)
+                                                                                                                                                                                          Government Gazette 30 August 2021
+
+
+
+
+1
+    Sharing between the meteorological aids service and medical implant communication systems (MICS) operating in the mobile service in the frequency band 401-406 MHz.
+                                                                                                                                                                                          17
+                                                                                                                                                                     18
+
+
+
+ Frequency band       Typical Applications      Maximum power           Duty Cycle           Prescribed      Harmonised         Notes (Additional information)
+                                                or magnetic field       restriction        Channel Spacing    Standard
+                                                     strength
+                                             ≤ 25 mW e.r.p.
+                                                                                                                          DSSS and other wideband modulation other
+                                             (note 7)               ≤ 0.1% or
+                                                                                                                          than FHSS
+                                             Power density :        LBT+AFA                  No spacing
+                                                                                                                          (Notes 2, 4, 7 and 9)
+                                             - 4.5 dBm/100 kHz      (notes 1, 6 and 7)
+                                                                                                                          Note (TZA)
+                                             (note 8)
+                                                                                             ≤ 100 kHz,
+863-870 MHz        Non-specific SRDs                                                                         EN 300 220
+                                                                                            for 1 or more
+                                                                    ≤ 0.1% or                 channels.                   Narrow/wide-band modulation
+                                             ≤ 25 mW e.r.p.         LBT+AFA                  Modulation                   (Notes 2, 4, 7 and 9)
+                                                                    (notes 1 and note 6)     bandwidth                    Note (TZA)
+                                                                                             ≤ 300 kHz
+                                                                                               (note 3)
+                                                                                             No spacing,                  Narrow / wide-band modulation.
+                                                                    ≤ 1% or LBT+AFA         for 1 or more                 No channel spacing, however the whole
+868-868.6 MHz      Non-specific SRDs         ≤ 25 mW e.r.p.                                                  EN 300 220
+                                                                    (note 1)                  channels                    stated frequency band may be used
+                                                                                               (note 3)                   (Note 2)
+868.6-868.7 MHz    Alarms                    10 mW e.r.p.           ≤ 1%                       25 kHz        EN 300 220   Or whole band may be used as 1 channel
+                                                                                             No spacing,                  Narrow / wide-band modulation.
+                                                                    ≤ 0.1% or
+                                                                                            for 1 or more                 No channel spacing, however the whole
+868.7-869.2 MHz    Non-specific SRDs         ≤ 25 mW e.r.p.         LBT+AFA                                  EN 300 220
+                                                                                              channels                    stated frequency band may be used
+                                                                    (note 1)
+                                                                                               (note 3)                   Note (TZA)
+869.25-869.3 MHz   Alarms                    10 mW e.r.p.           < 0.1%                     25 kHz        EN 300 220   Note (TZA)
+                                                                                                                                                                     Government Gazette 30 August 2021
+
+
+
+
+                                                                                                                          Social alarms
+869.2-869.25 MHz   Alarms                    10 mW e.r.p.           < 0.1%                     25 kHz        EN 300 220
+                                                                                                                          Note (TZA)
+869.3-869.4 MHz    Alarms                    10 mW e.r.p.           < 1%                       25 kHz        EN 300 220   Note (TZA)
+                                                                                                                          Narrow / wide-band modulation
+                                                                                                25 kHz                    The whole stated frequency band may be
+869.400-869.650                                                     ≤ 10% or LBT+AFA
+                   Non-specific SRDs         ≤ 500 mW e.r.p.                                (for 1 or more   EN 300 220   used as 1 channel for high speed data
+MHz                                                                 (note 1)
+                                                                                              channels)                   transmission
+                                                                                                                          Note (TZA)
+869.65-869.7 MHz   Alarms                    25 mW e.r.p.           < 10%                      25 kHz        EN 300 220   Note (TZA)
+                                                                                                                                                                     7613
+ Frequency band      Typical Applications       Maximum power           Duty Cycle            Prescribed      Harmonised         Notes (Additional information)
+                                                                                                                                                                           7613
+
+
+
+
+                                                or magnetic field       restriction         Channel Spacing    Standard
+                                                    strength
+                                             ≤ 5 mW e.r.p.          No requirement                                         Narrow / wide-band modulation.
+                                                                                               No spacing                  No channel spacing, however the whole
+869.700-870.000                                                     up to 1% or
+                  Non-specific SRDs                                                          (for 1 or more   EN 300 220   stated frequency band may be used
+MHz                                          ≤ 25 mW e.r.p.         LBT+AFA
+                                                                                               channels)                   (Note 5)
+                                                                    (note 1)
+                                                                                                                           Note (TZA)
+                                                                    Adaptive Power
+                                                                    Control (APC)
+                                                                    required for
+                                                                    spectrum sharing
+                                                                    (note 1) and the
+                  Tracking, Tracing and Data
+                                                                    following duty cycle
+                  Acquisition                500 mW e.r.p.                                    ≤ 200 kHz
+                                                                    restrictions also
+                                                                    apply: ≤ 10% duty
+                                                                    cycle for network
+                                                                    access points; ≤
+870-874.4 MHz                                                       2.5% duty cycle
+                                                                    otherwise
+                                                                    ≤ 1% duty cycle.
+                                                                    For ER-GSM
+                                                                    protection (873-
+                                                                    876 MHz, where
+                  Non-specific SRDs.         25 mW e.r.p.           applicable): the duty     ≤ 600 kHz
+                                                                    cycle is limited to
+                                                                                                                                                                           Government Gazette 30 August 2021
+
+
+
+
+                                                                    ≤ 0.01% and to a
+                                                                    maximum transmit
+                                                                    on time of 5ms/1s
+                                                                                                                           2 400-2 500 is a ISM band (RR No. 5.150)
+2 446-2 454 MHz                              ≤ 500 mW e.i.r.p.      None                         None         EN 300 440
+                                                                                                                           (Note 12)
+                                                                                                                           2 400-2 500 is a ISM band (RR No. 5.150)
+                                                                                                                           Power levels above 500 mW are restricted to
+                  RFID                                              ≤ 15%                                                  be used inside the boundaries of a building
+                                             > 500 mW – 4 W
+2 446-2 454 MHz                                                     FHSS techniques              None         EN 300 440   and the duty cycle of all transmissions shall
+                                             e.i.r.p.
+                                                                    should be used                                         in this case be ≤15 % in any 200 ms period
+                                                                                                                           (30 ms on /170 ms off).
+                                                                                                                                                                           19
+
+
+
+
+                                                                                                                           (Note 12)
+                                                                                                                                                                      20
+
+
+
+ Frequency band      Typical Applications     Maximum power            Duty Cycle          Prescribed      Harmonised         Notes (Additional information)
+                                               or magnetic field       restriction       Channel Spacing    Standard
+                                                   strength
+                  Non-specific SRDs         10 mW e.i.r.p.         None                       None         EN 300 440   2 400-2 500 is a ISM band (RR No. 5.150)
+                  Wideband Data
+                                                                   See Rec 70-03 note                                   2 400-2 500 is a ISM band (RR No. 5.150)
+                  Transmission systems      100 mW e.i.r.p.                                   None         EN 300 328
+2 400-2 483.5 MHz                                                  1 (p9)                                               ERC/DEC/(01)07
+                  (WAS/RLANs)
+                                                                                                                        2 400-2 500 is a ISM band (RR No. 5.150)
+                  Radiodetermination        25 mW e.i.r.p.         None                       None         EN 300 440
+                                                                                                                        ERC/DEC/(01)08
+                                                                   LBT+AFA and ≤
+                                                                   10% duty cycle. The
+                                                                   equipment shall
+                                                                                                                        For Low Power Active Medical Implants
+                                                                   implement a
+                                                                                                                        and associated peripherals, covered by the
+                                                                   spectrum access
+                                                                                                                        applicable harmonised standard. Individual
+                                                                   mechanism as
+2483.5-2500 MHz   Active Medical Implants   10 dBm e.i.r.p.                                  1 MHz                      transmitters may combine adjacent channels
+                                                                   described in
+                                                                                                                        on a dynamic basis for increased bandwidth
+                                                                   the applicable
+                                                                                                                        higher than 1 MHz. Peripheral units are for
+                                                                   harmonised standard
+                                                                                                                        indoor use only.
+                                                                   or an equivalent
+                                                                   spectrum access
+                                                                   mechanism
+                                                                                                                        ECC/DEC/(04)08
+                                                                                                                        Restricted to indoor use.
+                  Wideband Data
+                                            200 mW mean e.i.r.p.   See notes 1 and 3                                    The maximum mean e.i.r.p. density shall be
+5 150-5 350 MHz   Transmission systems                                                        None         EN 301 893
+                                            See note 4, p9         (p9)                                                 limited to 10 mW/MHz in any 1 MHz band
+                  (WAS/RLANs)
+                                                                                                                                                                      Government Gazette 30 August 2021
+
+
+
+
+                                                                                                                        For RLANs Resolution 229 (WRC-19)
+                                                                                                                        applies.
+                                                                                                                        ECC/DEC/(04)08
+                                                                                                                        Indoor as well as outdoor use allowed. The
+                  Wideband Data
+                                                                    See notes 1 and 3                                   maximum mean e.i.r.p. density shall be
+5 470-5 725 MHz   Transmission systems      250 mWe.r.p                                       None         EN 301 893
+                                                                          (p9)                                          limited to 50 mW/MHz in any 1 MHz band
+                  (WAS/RLANs)
+                                                                                                                        In MWI, TZA and ZMB this band is used
+                                                                                                                        for BFWA on a licensed basis.
+                                                                                                                                                                      7613
+ Frequency band      Typical Applications      Maximum power          Duty Cycle        Prescribed      Harmonised         Notes (Additional information)
+                                                                                                                                                                 7613
+
+
+
+
+                                               or magnetic field      restriction     Channel Spacing    Standard
+                                                   strength
+                                                                                                                     ISM band (RR No. 5.150)
+                                                                                                                     One of the main bands for wideband data
+                                                                                                                     transmission and BFWA (incl. Wi-Fi in
+                  Wideband data                                                                                      laptops, cell phones, etc.)
+                                            PTP/PTMP: max
+                  transmission                                                                                       ECC/REC(06)04 refers
+                                            mean e.i.r.p = 4 W
+5 725-5 875 MHz   BFWA is limited to 5725                                                               EN 302 502   In MWI this band is used for BFWA on a
+                                            Mesh/AP-MP: max
+                  - 5850 MHz (to protect                                                                             licensed basis.
+                                            mean e.i.r.p = 2 W
+                  satellite)                                                                                         In AFS this band can be used up to 8W in
+                                                                                                                     specific circumstances (refer to national
+                                                                                                                     regulations)
+                                                                                                                     Footnote 5.453 (WRC-19) applies
+                                                                   Adequate spectrum
+                                             400 mW e.i.r.p.
+                  Tracking, Tracing and Data                       sharing mechanisms
+                                             Adaptive                                 ≥ 1 MHz and ≤
+5725-5875 MHz     Acquisition                                      (e.g. DFS and
+                                             Power Control (APC)                      20 MHz
+                                                                   DAA) shall be
+                                             required
+                                                                   implemented
+5 725-5 875 MHz   Non-specific SRDs         25 mW e.i.r.p.                 None            None         EN 300 440
+                                                                                                                     ECC/DEC/(02)01
+5 795-5 805 MHz                                                          None              None         EN 300 674
+                                                                                                                     Note 10
+                                            2 W e.i.r.p.                                                             ECC/DEC/(02)01
+                  RTTT
+                                            8 W e.i.r.p.                                                             For this band an individual licence in
+5 805-5 815 MHz                                                          None              None         EN 300 674
+                                                                                                                     required in EU
+                                                                                                                                                                 Government Gazette 30 August 2021
+
+
+
+
+                                                                                                                     Note 10
+                  Non-specific SRDs                                                                                  ISM band (RR No. 5.150)
+                                            100 mW e.i.r.p.              None              None         EN 300 440
+24.00-24.25 GHz   Radiodetermination        100 mW e.i.r.p.              None              None         EN 300 440
+                  RTTT (24.05-24.075 GHz)   100 mW e.i.r.p.              None                           EN 300 440   For vehicle radars
+                  RTTT(24.075-24.15 GHz)    0.1mW e.i.r.p.               None                           EN 300 440   For vehicle radars
+                                                                                                                                                                 21
+                                                                                                                                                                  22
+
+
+
+ Frequency band      Typical Applications     Maximum power           Duty Cycle         Prescribed      Harmonised         Notes (Additional information)
+                                              or magnetic field       restriction      Channel Spacing    Standard
+                                                  strength
+                                                                                                                      For vehicle radars.
+                                                                                                                      The spectrum access and mitigation
+                                                                                                                      requirement is given for devices mounted
+                                            100 mW e.i.r.p.             None)                            EN 300 440
+                                                                                                                      behind a bumper. If mounted without
+                                                                                                                      a bumper, the requirement should be
+24.15-24.25 GHz   RTTT                                                                                                3μs/40kHz maximum dwell time every 3ms
+                                                                                                                      The spectrum access and mitigation
+                                                                   ≤ 1ms/40kHz dwell
+                                                                                                                      requirement is given for devices mounted
+                                                                    time every 40ms                      EN 300 440
+                                                                                                                      either behind a bumper or mounted without
+                                               100 mW e.i.r.p.          (note 1)
+                                                                                                                      a bumper
+                                                                         None                            EN 300 440   For vehicle radars
+                                            100 mW e.i.r.p.
+57-64 GHz         Non-Specific SRDs         10 mW output                 None
+                                            power
+                                                                                                                      ISM band (RR No. 5.138)
+61.0-61.5 GHz     Non-specific SRDs         100 mW e.i.r.p.              None               None
+                                                                                                                      ECC/DEC/(02)01
+                                                                                                                      Power level 55 dBm peak power e.i.r.p. 50
+76-77 GHz         RTTT                      55 dBm peak e.i.r.p.         None               None         EN 301 091   dBm average power - 23.5 dBm average
+                                                                                                                      power for pulse radar only
+                                                                                                                      Vehicle and infrastructure radar systems
+                  Automotive Short-Range
+77-81 GHz                                                                                                EN 302 264
+                                                                                                                                                                  Government Gazette 30 August 2021
+
+
+
+
+                  Radars
+                                            10 dBm/250MHz
+                                            e.i.r.p. -48
+122-122.25 GHz    Non-Specific SRDs                                      None               None
+                                            dBm/MHz at >30°
+                                            elevation
+122.25-123 GHz    Non-Specific SRDs         100 mW e.i.r.p.              None               None
+244-246 GHz       Non-Specific SRDs         100 mW e.i.r.p.              None               None
+                                                                                                                                                                  7613
+7613                          Government Gazette 30 August 2021                                   23
+
+Footnotes
+
+Note 1: When either duty cycle, Listen-Before-Talk (LBT) or equivalent technique applies then
+it shall not be user dependent/adjustable and shall be guaranteed by appropriate technical means.
+For LBT devices without Adaptive Frequency Agility (AFA), or equivalent techniques, the duty
+cycle limit applies. For any type of frequency agile device the duty cycle limit applies to the total
+transmission unless LBT or equivalent technique is used.
+
+Note 2: Audio and video applications are allowed provided that a digital modulation method is used
+with a maximum bandwidth of 300 kHz. Analogue and digital voice applications are allowed with a
+maximum bandwidth ≤ 25 kHz.
+
+Note 3: The preferred channel spacing is 100 kHz allowing for a subdivision into 50 kHz or 25 kHz.
+
+Note 4: Sub-bands for alarms are excluded (see ERC/REC 70-03 Annex 7).
+
+Note 5: Audio and video applications are excluded. Analogue or digital voice applications are
+allowed with a maximum bandwidth ≤ 25 kHz and with spectrum access technique such as LBT
+or equivalent. The transmitter shall include a power output sensor controlling the transmitter to a
+maximum transmit period of 1 minute for each transmission.
+
+Note 6: Duty cycle may be increased to 1% if the band is limited to 865-868 MHz.
+
+Note 7: For other wide-band modulation than FHSS and DSSS with a bandwidth of 200 kHz to 3
+MHz, duty cycle can be increased to 1% if the band is limited to 865-868 MHz and power to ≤10
+mW e.r.p.
+
+Note 8: The power density can be increased to +6.2 dBm/100 kHz and -0.8 dBm/100 kHz, if the band
+of operation is limited to 865-868 MHz and 865-870 MHz respectively.
+
+Note 9: Certain channels may be occupied by RFID operating at higher powers (See Annex 11 for
+further details). To minimise the risk of interference from RFID, SRDs should use LBT with AFA
+or observe suitable separation distances. (In the high power RFID channels typically these may
+vary from 918 m (indoor) to 3.6 km (rural outdoor). In the remaining 2.2 MHz, where tags at -20
+dBm e.r.p. occupy the spectrum, this may vary from 24 m (indoor) to 58 m (rural outdoor)). The
+adjacent frequency bands below 862 MHz and above 870 MHz may be used by high power systems.
+Manufacturers should take this into account in the design of equipment and choice of power levels.
+
+Note 10: The frequency band 5795-5805 MHz is intended for road to vehicle systems, particularly
+(but not exclusively) road toll systems. The frequency bands 5795-5805 MHz and 5805-5815 MHz
+are recommended for 5 MHz channel spacing systems with the frequencies: 5797.5 MHz, 5802.5
+MHz, 5807.5 MHz and 5812.5 MHz. For 10 MHz channel spacing systems 5800 MHz and 5810 MHz.
+5805 - 5815 MHz on a national basis for multi-lane road junctions, particularly, but not exclusively
+road toll systems. The use of 8 W e.i.r.p. allows for 1 Mbit/s in accordance with ETSI standard ES
+200 674-1. 2W e.i.r.p. allows for 500 kbit/s downlink and 250 kbit/s uplink in accordance with EN
+300 674-1 and for low data rates (31 kbit/s) in accordance with EN 300 674-2.
+                                         ________________
+

@@ -1,0 +1,42 @@
+import re
+
+with open('docs/gazettes/5037.md', 'r') as f:
+    lines = f.readlines()
+
+new_lines = []
+
+def process_row(line):
+    parts = [p.strip() for p in line.split('|')]
+    if len(parts) > 2 and parts[0] == '' and parts[-1] == '':
+        parts = parts[1:-1]
+    return parts
+
+for i, line in enumerate(lines):
+    num = i + 1
+
+    if num == 58:
+        continue # skip separator
+
+    if 57 <= num <= 110 and num != 58:
+        parts = process_row(line)
+        if len(parts) == 6:
+            if "PowerCom" in parts[0]:
+                # line 87
+                # parts: ['PowerCom...', 'Class...', '0%', '905.000 - 960.000 MHz', 'MOBILE', 'Yes']
+                new_lines.append(f"| {parts[0]} | {parts[1]} | Namibia | Namibia | {parts[2]} | {parts[3]} | {parts[4]} | {parts[5]} |\n")
+            else:
+                # |  |  |  | freq | service | empty |
+                # Should be: |  |  |  |  |  | freq | service | empty |
+                new_lines.append(f"|  |  |  |  |  | {parts[3]} | {parts[4]} | {parts[5]} |\n")
+        else:
+            new_lines.append(line)
+        continue
+
+    # Also check lines 112:
+    if num == 112:
+        continue # skip separator
+
+    new_lines.append(line)
+
+with open('docs/gazettes/5037_fixed2.md', 'w') as f:
+    f.writelines(new_lines)
